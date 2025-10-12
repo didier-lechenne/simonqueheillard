@@ -1,0 +1,109 @@
+title: Configuration du site
+
+tabs:
+  oeuvres:
+    label: Oeuvres
+    icon: file-image
+    columns:
+      - width: 1/1
+        sections:
+          oeuvres:
+            extends: sections/oeuvres
+
+
+  livres:
+    label: Livres
+    icon: book
+    columns:
+      - width: 1/1
+        sections:
+          livres: 
+            extends: sections/livres
+
+  textes:
+    label: Textes
+    icon: paragraph
+    columns:
+      - width: 1/1
+        sections:
+          textes:
+            extends: sections/textes
+            max: 2
+
+  talks:
+    label: Talks
+    icon: live
+    columns:
+      - width: 1/1
+        sections:
+          talks:
+            extends: sections/talks-cardlets
+
+      # - width: 1/2
+      #   sections:
+      #     drafts:
+      #       extends: sections/talks
+      #       label: Ajouter
+      #       status: draft
+
+      #     unlisted:
+      #       extends: sections/talks
+      #       label: Non listés
+      #       status: unlisted
+
+
+  actualites:
+    label: Actualites
+    icon: calendar
+    columns:
+      - width: 1/1
+        sections:
+          actualites:
+            extends: sections/actualites
+
+      # - width: 1/2
+      #   sections:
+      #     drafts:
+      #       extends: sections/actualites
+      #       label: Ajouter
+      #       status: draft
+
+      #     unlisted:
+      #       extends: sections/actualites
+      #       label: Non listés
+      #       status: unlisted
+
+  infos:
+    label: À propos
+    icon: sparkling
+ 
+    columns:
+      main:
+        width: 2/3
+        sections:
+          infos:
+            extends: sections/a-propos
+            
+      sidebar:
+        width: 1/3
+        sections:
+          contact-section:
+            type: fields
+            fields:
+              contact:
+                label: Contact
+                type: writer
+
+  mentions_legales:
+    label: Mentions légales
+    icon: cog
+    columns:
+      - width: 1/2
+        sections:
+          mentions_page:  
+            type: pages
+            headline: Mentions légales
+            template: mentions-legales
+            layout: list
+  
+

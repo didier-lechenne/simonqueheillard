@@ -1,0 +1,29 @@
+title:
+  fr: Mentions légales
+  en: Legal information
+icon: cog
+
+
+# Structure correcte pour les champs, avec noms harmonisés selon votre contenu
+fields:
+  auteur:
+    label: Droits d'auteur et propriété intellectuelle
+    type: writer
+
+  editeur:
+    label: Éditeur
+    type: writer
+
+  hebergement:
+    label: Hébergement
+    type: writer
+
+  design_developpement:
+    label: Design & développement web
+    type: writer
+    
+  last_updated:
+    label: Dernière mise à jour
+    type: date
+    time: true
+    display: DD/MM/YYYY

@@ -1,0 +1,8 @@
+title: Livres
+icon: 📖
+
+columns:
+  - width: 1/1
+    sections:
+      livres:
+        extends: sections/livres

@@ -1,0 +1,54 @@
+{
+    "name": "nerdcel/kirby3-responsive-images",
+    "description": "Kirby3 plugin to manage responsive images settings using the panel.",
+    "license": "MIT",
+    "type": "kirby-plugin",
+    "scripts": {
+        "test": "phpunit tests --process-isolation"
+    },
+    "keywords": [
+        "kirby",
+        "kirby-cms",
+        "kirby-plugin",
+        "getkirby",
+        "kirby"
+    ],
+    "homepage": "https://github.com/nerdcel/kirby3-responsive-images",
+    "authors": [
+        {
+            "name": "Marcel Hieke",
+            "email": "office@marcelhieke.com"
+        }
+    ],
+    "require": {
+        "php": ">= 8.1 < 8.4",
+        "getkirby/composer-installer": "^1.2.1"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest",
+        "phpunit/phpunit": "^10",
+        "getkirby/cms": "^4.2",
+        "phpstan/phpstan": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nerdcel\\ResponsiveImages\\": "src/Classes/"
+        },
+        "files": [
+            "src/helpers.php"
+        ],
+        "classmap": [
+            "src/Classes"
+        ]
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "allow-plugins": {
+            "getkirby/composer-installer": true
+        }
+    },
+    "extra": {
+        "installer-name": "responsive-images",
+        "kirby-cms-path": false
+    }
+}

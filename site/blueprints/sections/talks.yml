@@ -1,0 +1,7 @@
+type: pages
+label: Talks
+parent: site.find("talks")
+sortBy: from desc
+template: talk
+empty: Pas encore talks
+icon: live

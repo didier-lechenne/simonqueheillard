@@ -1,0 +1,7 @@
+type: pages
+headline: Tous les textes
+parent: site.find('textes')
+template: textes-categorie
+layout: cards
+info: "{{ page.children.count }} textes"
+sortable: true

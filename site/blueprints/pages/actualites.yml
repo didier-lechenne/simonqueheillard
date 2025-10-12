@@ -1,0 +1,29 @@
+title: Actualites
+icon: 📅
+
+options:
+  changeSlug: false
+  changeStatus: false
+  delete: false
+
+columns:
+  - width: 2/3
+    sections:
+      listed:
+        extends: sections/actualites
+        label: publiés
+        status: listed
+
+  - width: 1/3
+    sections:
+      drafts:
+        extends: sections/actualites
+        label: non publiés
+        status: draft
+       
+      unlisted:
+        extends: sections/actualites
+        label: non listés
+        status: unlisted
+        width: 1/3
+

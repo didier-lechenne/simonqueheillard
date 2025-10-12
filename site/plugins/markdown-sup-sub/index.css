@@ -1,0 +1,10 @@
+:where(sup) {
+    top: -.5em;
+}
+
+:where(sup,sub) {
+    position: relative;
+    line-height: 0;
+    vertical-align: baseline;
+    font-size: 75%;
+}

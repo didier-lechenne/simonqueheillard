@@ -1,0 +1,97 @@
+
+columns:
+
+  - width: 1/6
+    sections:
+      categories:
+        type: pages
+        headline: Oeuvres
+        parent: site.find('oeuvres')  
+        template: category
+        layout: cardlets
+        info: "{{ page.children.count }} sous-éléments"  
+        image:
+          query: page.image
+          cover: true
+          sortable: true
+
+
+  - width: 1/6
+    sections:
+      livres: sections/livres
+      
+  - width: 1/6
+    sections:   
+
+      textes_critiques:
+        type: pages
+        headline: Textes et critiques
+        parent: site.find('textes')
+        template: texte
+        layout: list
+        query: page.index.filterBy('category', 'textes-critiques')
+        # status: all
+       
+
+      lettres_conversations:
+        type: pages
+        headline: Lettres et conversations
+        parent: site.find('textes')
+        template: texte
+        layout: list
+        # status: draft
+        query: page.index.filterBy('category', 'lettres-conversations')
+
+
+  - width: 1/6
+    sections:
+      actualites:
+        type: pages
+        label: Actualites
+        parent: site.find("actualites")
+        sortBy: from desc
+        template: actualite
+        status: listed
+
+      drafts:
+        extends: sections/actualites
+        label: Ajouter
+        status: draft
+
+      unlisted:
+        extends: sections/actualites
+        label: Non listés
+        status: unlisted
+
+  - width: 1/6
+    sections:
+      talks:
+        type: pages
+        label: Talks
+        parent: site.find("talks")
+        sortBy: from desc
+        template: talk
+        status: listed
+
+      drafts:
+        extends: sections/talks
+        label: Ajouter
+        status: draft
+
+      unlisted:
+        extends: sections/talks
+        label: Non listés
+        status: unlisted
+
+
+
+  - width: 1/6
+    sections:
+      pages:
+        type: pages
+        create: default
+        templates:
+          - about
+          - home
+          - default
+          - test

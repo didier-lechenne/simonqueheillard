@@ -1,0 +1,16 @@
+type: pages
+label: Œuvres
+parent: kirby.page("oeuvres")
+size: large
+info: "{{ page.date.toDate('Y') }}"
+template: oeuvre
+layout: cards
+empty: Pas encore d'Œuvres
+sortable: true
+image:
+  # query: page.cover
+  back: white
+  cover: true
+  ratio: 4/3
+
+

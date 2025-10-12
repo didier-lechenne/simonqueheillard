@@ -1,0 +1,20 @@
+title: A propos
+icon: ☎️
+
+status:
+  draft: true
+  listed: true
+
+options:
+  changeSlug: true
+  delete: false
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      infos:
+        extends: sections/a-propos
+    
+
+        

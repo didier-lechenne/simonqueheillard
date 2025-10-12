@@ -1,0 +1,94 @@
+title: Texte
+icon: 🖼
+
+create:
+  title:
+    label: Titre
+  fields:
+    - date
+  redirect: true
+  status: draft
+  short: true
+
+
+columns:
+  - width: 3/4
+    fields:
+      titre_page:
+        label: Titre
+        type: writer
+        inline: true
+        nodes: false
+        # width: 2/4
+        marks:
+          - bold
+          - italic
+          - underline
+          - strike
+          - sub
+          - sup
+          - clear
+
+
+
+
+  - width: 3/4
+    fields:
+      layout:
+          label: Layout
+          type: layout
+          # width: 1/2
+          layouts:
+            - "12/12"                
+            - "6/12, 6/12"           
+            - "4/12, 4/12, 4/12"     
+            - "3/12, 3/12, 3/12, 3/12" 
+            - "9/12, 3/12"           
+            - "3/12, 6/12, 3/12"     
+            - "3/12, 9/12"           
+            - "4/12, 8/12"
+            - "8/12, 4/12"           
+
+          fieldsets:
+            - heading
+            - text
+            - markdown
+            - list
+            - image
+            - gallery
+            - video
+            - audio
+            - footnotes
+            - spacer
+            - pdf    
+
+        
+  - width: 1/4
+    fields:
+
+      date:
+        type: date
+        default: today
+        # display: YYYY MMM  # Affiche uniquement l'année
+        # width: 1/4
+      contexte:
+        label: Infos 1
+        type: text
+        # help: (contexte)
+
+      adresse:
+        type: writer
+        inline: true
+        label: Infos 2
+        # help: (a, pour, quoi)
+        nodes: false
+        marks:
+          - bold
+          - italic
+          - sub
+          - sup
+          - clear
+
+
+
+

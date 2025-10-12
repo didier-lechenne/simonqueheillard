@@ -1,0 +1,14 @@
+name: PDF
+icon: file-pdf
+wysiwyg: true
+preview: pdf_file
+fields:
+  pdf_file:
+    label: Fichier PDF
+    type: files
+    multiple: false
+    uploads: true
+    accepts: application/pdf
+  caption:
+    label: Légende
+    type: text

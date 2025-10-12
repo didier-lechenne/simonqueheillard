@@ -1,5 +1,6 @@
 # Kirby CMS
 /kirby
+/content
 
 # Dossier de travail
 /a_garder
@@ -42,3 +43,75 @@ node_modules/
 
 # Assets compilés (ajustez selon votre build)
 /assets/dist
+
+
+
+# Content
+# ------------
+/content/*
+/content-local/
+
+# Fonts
+# ------------
+/assets/css/fonts/*
+!/assets/css/fonts/.gitkeep
+/assets/illu/*
+!/assets/illu/.gitkeep
+
+# System files
+# ------------
+
+Icon
+.DS_Store
+
+# Composer files
+# ---------------
+/vendor
+/site/plugins/kirby3-janitor/
+/typo/
+
+# Temporary files
+# ---------------
+
+/media/*
+!/media/index.html
+/site/logs/
+
+# Lock files
+# ---------------
+
+.lock
+
+# Editors
+# (sensitive workspace files)
+# ---------------------------
+*.sublime-workspace
+/.vscode
+/.idea
+
+# -------------SECURITY-------------
+# NEVER publish these files via Git!
+# -------------SECURITY-------------
+
+# Cache Files
+# ---------------
+
+/site/cache/*
+!/site/cache/index.html
+
+# Accounts
+# ---------------
+
+/site/accounts/*
+!/site/accounts/index.html
+
+# Sessions
+# ---------------
+
+/site/sessions/*
+!/site/sessions/index.html
+
+# License
+# ---------------
+
+/site/config/.license

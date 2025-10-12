@@ -1,0 +1,62 @@
+name: blocks.heading
+icon: title
+wysiwyg: true
+preview: heading
+fields:
+  text:
+    label: field.blocks.heading.text
+    type: writer
+    inline: true
+    width: 6/6
+    placeholder: field.blocks.heading.placeholder
+    nodes: false
+    marks:
+      - bold
+      - italic
+      - underline
+      - strike
+      - sub
+      - sup
+      - clear
+
+  level:
+    label: field.blocks.heading.level
+    type: select
+    empty: false
+    default: "h3"
+    width: 1/3
+    options:
+      - h1
+      - h2
+      - h3
+      - h4
+      - h5
+      - h6
+    
+  # text align
+  textAlign:
+    label: blocks.heading.textAlign
+    type: toggles
+    labels: false
+    options: 
+      - value: " left"
+        text: "{{ t('blocks.heading.textAlign.left') }}"
+        icon: text-left
+      - value: " center"
+        text: "{{ t('blocks.heading.textAlign.center') }}"
+        icon: text-center
+      - value: " right"
+        text: "{{ t('blocks.heading.textAlign.right') }}"
+        icon: text-right    
+    width: 1/3
+
+  # text transform
+  textTransform:
+    label: blocks.heading.textTransform
+    type: select
+    placeholder: "{{ t('reusables.inherit') }}"
+    options: 
+      " capitalize": "{{ t('blocks.heading.textTransform.capitalize') }}"
+      " uppercase": "{{ t('blocks.heading.textTransform.uppercase') }}"
+      " lowercase": "{{ t('blocks.heading.textTransform.lowercase') }}"
+    width: 1/3

@@ -1,0 +1,4 @@
+type: pages
+label: À propos
+template: info
+parent: site.find("infos")

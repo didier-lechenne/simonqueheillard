@@ -1,0 +1,60 @@
+title: Catégorie
+icon: 📁
+
+
+
+options:
+  title: true
+  status: true
+  duplicate: true
+  url: true
+  delete: true
+  subpages: true  # Permet également des sous-catégories si nécessaire
+
+pages:
+  template:
+    - oeuvre
+
+
+
+columns:
+  - width: 2/3
+    sections:
+      oeuvres:
+        type: pages
+        headline: Œuvres dans cette catégorie
+        template: oeuvre
+        layout: cards
+        sortable: true
+        image:
+          field: cover
+
+
+      # subCategories:
+      #   type: pages
+      #   headline: Sous-catégories
+      #   template: category
+      #   layout: list
+      #   sortable: true
+
+  - width: 1/3
+    fields:
+      cover:
+        label: Image de couverture
+        type: files
+        # template: cover
+        layout: cards
+        size: large
+        image:
+          cover: true
+          ratio: 4/3
+
+      # cover:
+      #   type: files
+      #   label: Image de couverture
+      #   multiple: false    # Une seule image autorisée
+      #   layout: cards
+      #   uploads: 
+      #     template: image  # Restreint aux fichiers de type image
+      #     width: 300
+      #     quality: 80

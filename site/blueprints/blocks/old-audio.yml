@@ -1,0 +1,15 @@
+name: Audio
+icon: file-audio
+wysiwyg: true
+preview: caption
+# preview: fields
+fields:
+  audio:
+    label: Fichier audio
+    type: files
+    multiple: false
+    uploads: audio
+    query: page.audio
+  caption:
+    label: Légende
+    type: writer

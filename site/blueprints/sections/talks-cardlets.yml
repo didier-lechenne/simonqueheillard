@@ -1,0 +1,8 @@
+type: pages
+label: Talks
+parent: site.find("talks")
+sortBy: date desc
+template: talk
+empty: Pas encore talks
+layout: cards
+info: "{{ page.page_titre.inline() }} <br>{{ page.date.toDate('Y') }} <br> {{ page.category }} <br> {{ page.location }} <br> {{ page.city }}"

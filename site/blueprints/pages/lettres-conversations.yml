@@ -1,0 +1,82 @@
+title: Lettres et conversations ?
+icon: 💌
+
+# Options pour cette catégorie
+options:
+  title: true
+  status: true
+  duplicate: true
+  url: true
+  delete: true
+
+# create:
+#   title:
+#     label: Titre
+#   fields:
+#     - category
+#     - date
+#   redirect: true
+#   status: draft
+#   short: true
+
+
+columns:
+  - width: 4/4
+    fields:
+      titre_page:
+        label: Titre
+        type: writer
+        nodes: false
+        width: 2/4
+        marks:
+          - bold
+          - italic
+          - underline
+          - strike
+          - sub
+          - sup
+          - clear
+      category:
+        label: Catégorie
+        type: select
+        options:
+          - lettres-conversations
+          - textes-critiques
+        required: true
+        width: 1/4
+
+      date:
+        type: date
+        default: today
+        # display: YYYY MMM  # Affiche uniquement l'année
+        width: 1/4
+
+  - width: 4/4
+    fields:
+      layout:
+          label: Layout
+          type: layout
+          # width: 1/2
+          layouts:
+            - "12/12"                
+            - "6/12, 6/12"           
+            - "4/12, 4/12, 4/12"     
+            - "3/12, 3/12, 3/12, 3/12" 
+            - "9/12, 3/12"           
+            - "3/12, 6/12, 3/12"     
+            - "3/12, 9/12"           
+            - "4/12, 8/12"
+            - "8/12, 4/12"           
+
+          fieldsets:
+            - heading
+            - text
+            - markdown
+            - list
+            - image
+            - gallery
+            - video
+            - audio
+            - footnotes
+            - spacer
+            - pdf    

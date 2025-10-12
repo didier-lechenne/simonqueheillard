@@ -1,0 +1,16 @@
+<?php return [
+    'nerdcel.responsive-images.panel.title' => 'Responsive images config',
+    'nerdcel.responsive-images.panel.label' => 'Responsive image settings',
+    'nerdcel.responsive-images.save' => 'Save',
+    'nerdcel.responsive-images.undo' => 'Discard',
+    'nerdcel.responsive-images.settings' => 'Settings',
+    'nerdcel.responsive-images.breakpoints' => 'Breakpoints',
+    'nerdcel.responsive-images.info' => 'Usage in template',
+    'nerdcel.responsive-images.restricted.title' => 'Access denied',
+    'nerdcel.responsive-images.restricted.text' => 'You do not have the necessary user rights to access this panel.',
+    'nerdcel.responsive-images.field.label.set-focal-point' => 'Set focal point',
+    'nerdcel.responsive-images.field.help.set-focal-point' => 'Please set a focal point for the image per breakpoint',
+    'nerdcel.responsive-images.focalpoints.field-not-supported' => 'Focal points are not supported for this file type.',
+    'nerdcel.responsove-images.focalpoints.label-breakpoints' => 'Breakpoints',
+    'nerdcel.responsove-images.focalpoints.help-breakpoints' => 'Please select a breakpoint to define the focal point',
+];

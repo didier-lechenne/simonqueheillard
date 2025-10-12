@@ -1,0 +1,36 @@
+title: Textes
+icon: paragraph
+
+options:
+  title: false
+  status: false
+  duplicate: false
+  url: false
+  delete: false
+
+# pages:
+#   template:
+#     - textes-critiques-new
+#     - lettres-conversations-new
+
+
+columns:
+  - width: 1/1
+    sections:
+      pages:
+        headline: Textes
+        layout: list
+        # info: "{{ page.page_titre }}, {{ page.date.toDate('Y') }}, {{ page.contexte }}, {{ page.adresse }}"
+        sortable: true
+        template: texte
+
+
+      # cover:
+      #   type: files
+      #   label: Image de couverture
+      #   multiple: false    # Une seule image autorisée
+      #   layout: cards
+      #   uploads: 
+      #     template: image  # Restreint aux fichiers de type image
+      #     width: 300
+      #     quality: 80

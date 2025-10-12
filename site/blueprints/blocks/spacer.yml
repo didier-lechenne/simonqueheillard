@@ -1,0 +1,18 @@
+name: blocks.spacer.name
+icon: expand
+
+fields:
+  spacerInfo:
+    label: blocks.spacer.spacerInfo
+    type: info
+    text: blocks.spacer.spacerInfo.text
+  spacer:
+    label: blocks.spacer.spacer
+    type: range
+    default: 5
+    step: 1
+    min: 1
+    max: 1000
+    help: blocks.spacer.spacer.help
+    tooltip:
+      after: px

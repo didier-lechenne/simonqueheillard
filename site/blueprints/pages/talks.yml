@@ -1,0 +1,28 @@
+title: Talks
+icon: live
+
+options:
+  changeSlug: false
+  changeStatus: false
+  delete: false
+
+columns:
+  - width: 2/3
+    sections:
+      listed:
+        extends: sections/talks-cardlets
+        label: publiés
+        status: listed
+
+  - width: 1/3
+    sections:
+      drafts:
+        extends: sections/talks
+        label: non publiés
+        status: draft
+       
+      unlisted:
+        extends: sections/talks
+        label: non listés
+        status: unlisted
+        width: 1/3

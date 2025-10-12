@@ -1,0 +1,16 @@
+title: Oeuvres
+icon: 📖
+
+# options:
+#   title: false
+#   status: true
+#   duplicate: false
+#   url: false
+#   delete: false
+#   subpages: false
+
+columns:
+  - width: 1/1
+    sections:
+      oeuvres:
+        extends: sections/oeuvres
