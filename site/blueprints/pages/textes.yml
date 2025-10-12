@@ -5,6 +5,7 @@ options:
   changeSlug: false
   changeStatus: false
   delete: false
+  preview: true  # ou spécifiez l'URL exacte
 
 columns:
   - width: 1/2
@@ -12,7 +13,7 @@ columns:
       textes-critiques:
         type: pages
         label: Textes critiques
-        parent: site.find('textes').find('textes-critiques')
+        parent: kirby.page('textes/textes-critiques')
         template: texte
         layout: list
         sortable: true
@@ -22,7 +23,7 @@ columns:
       lettres-conversations:
         type: pages
         label: Lettres et conversations
-        parent: site.find('textes').find('lettres-conversations')
+        parent: kirby.page('textes/lettres-conversations')
         template: texte
         layout: list
         sortable: true

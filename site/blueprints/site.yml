@@ -21,14 +21,18 @@ tabs:
             extends: sections/livres
 
   textes:
-    label: Textes
-    icon: paragraph
-    columns:
-      - width: 1/1
-        sections:
-          textes:
-            extends: sections/textes
-            max: 2
+      label: Textes
+      icon: paragraph
+      columns:
+        - width: 1/2
+          sections:
+            textes-critiques:
+              extends: sections/textes-critiques
+
+        - width: 1/2
+          sections:
+            lettres-conversations:
+              extends: sections/lettres-conversations
 
   talks:
     label: Talks

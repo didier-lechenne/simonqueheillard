@@ -1,0 +1,6 @@
+type: pages
+label: Lettres et conversations
+parent: kirby.page('textes/lettres-conversations')
+template: texte
+layout: list
+sortable: true

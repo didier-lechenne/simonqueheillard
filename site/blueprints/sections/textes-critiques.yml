@@ -1,0 +1,6 @@
+type: pages
+label: Textes critiques
+parent: kirby.page('textes/textes-critiques')
+template: texte
+layout: list
+sortable: true

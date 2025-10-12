@@ -36,15 +36,7 @@ return [
     'yaml.handler' => 'symfony',
     'smartypants' => false,
 
-  'routes' => [
-    [
-      'pattern' => '(:language)/mentions-legales',
-      'action'  => function($language) {
-        kirby()->setCurrentLanguage($language);
-        return page('home')->render('mentions-legales');
-      }
-    ]
-    ],
+
 
     'viewButtons' => [
         'page' => ['typo-and-paste', 'preview', 'settings', 'languages', 'status'],
