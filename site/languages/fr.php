@@ -8,9 +8,8 @@ return [
         'LC_ALL' => 'fr_FR'
     ],
     'name' => 'fr',
+    'url' => '/',
     'translations' => [
-
-
         // blocks heading     
         'blocks.heading'                                        => 'Titres',
         'blocks.heading.headingSize'                            => 'Taille de titres',
@@ -35,7 +34,4 @@ return [
     ],
     'url' => NULL,
 
-
-
-    
 ];
