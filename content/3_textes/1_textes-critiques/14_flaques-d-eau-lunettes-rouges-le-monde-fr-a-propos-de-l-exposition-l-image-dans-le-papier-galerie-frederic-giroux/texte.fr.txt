@@ -1,0 +1,29 @@
+Title: Flaques d’eau, Lunettes rouges, Le Monde.fr, à propos de l’exposition L’image dans le papier, Galerie Frédéric Giroux
+
+----
+
+Titre-page: Flaques d’eau
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"font-family-serif","text":"<p>Ce ne sont que des flaques d’eau, comme on en voit partout après la pluie, après le passage des cantonniers ou le grand nettoyage des concierges. Elles n’ont l’air de rien, on ne les regarde même pas, on passe à côté sans les voir, les évitant pour ne pas mouiller ses chaussures. Elles sont entourées de papiers sales, de sacs plastiques qui volettent, de crottes de chiens. Aucune raison de les regarder, n’est-ce pas&nbsp;?<br>Mais si vous regardez à vos pieds, si vous vous penchez sur ces petites flaques d’eau, vous y verrez le monde, le bleu du ciel et le gris des nuages qui résonne avec le gris de l’asphalte, vous y verrez la course du soleil et vous en serez éblouis. Ces flaques sont des miroirs, des yeux ouverts sur le monde. La cime des arbres s’y reflète cependant que l’ombre du même arbre les caresse. C’est un monde insoupçonné qui soudain se révèle à vos yeux.<br>C’est en effet un révélateur que nous voyons ici à l’oeuvre, comme dans une photo qu’on développe. Simon Quéheillard erre dans Paris à la recherche du bitume parfait, rue Villiers de l’Isle-Adam, rue de la Chine, rue Fessart. Avec une bouteille en PVC de Coca d’un rouge bien vulgaire, il verse de l’eau au sol, crée une flaque et y révèle le monde. Parfois l’eau s’écoule, la flaque s’assèche, l’image meurt. Parfois ses flaques épousent le paysage, une flaque longue va, une fois les ridules apaisées, montrer le clocher de l’église voisine.<br>Plus que ses photos, j’ai aimé deux de ses vidéos (Flaques méthode d’observation et Ce que j’ai sous les yeux) où on le voit, passant anonyme et banal, faire soudain jaillir cette poésie au milieu de l’asphalte, du bruit de la rue, de la ville morne.<br>Il a aussi écrit un joli petit texte (pour 3€), Le texte des flaques, racontant ses périples dans Paris, catégorisant les flaques, «&nbsp;flaque contexte, flaque méthode d’observation, flaque objet, flaque barre, flaque tache. Les flaques mesurent le monde&nbsp;».<br>C’est à la galerie Frédéric Giroux jusqu’au 29&nbsp;Septembre et, dans ma tournée des galeries de la rentrée, c’est l’expo la plus réjouissante jusqu’ici. Courez-y&nbsp;!<br>Il y \"montre\" aussi, si l’on peut dire, L’image comme trésor, un négatif non fixé dans une boîte, qui disparaîtra si on ouvre la boîte, comme les fresques d’un tombeau de la Vallée des Rois. Une image en forme de question, inatteignable.</p>"},"id":"3df7908c-3738-4905-84c0-d0b463a08991","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://lOJkGniLjTNI5fH5"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"965c54e3-0901-4af8-8e62-57446d92366b","isHidden":false,"type":"image"}],"id":"01714c2a-99f5-4f46-ab18-c3df2eb5c886","width":"8/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"font-family-sans","text":"<p>Lunettes rouges<br>Le Monde.fr<br>13&nbsp;septembre 2006</p><p>à propos de l’exposition <em>L’image dans le papier</em> Galerie Frédéric Giroux</p>"},"id":"9ed7e2c7-abe5-4df8-96ef-663ca1d61c9d","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://rBsnlVIQtN6TX33l"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"da2ee1a3-f9cb-4bba-a4e4-612b90c0357a","isHidden":false,"type":"image"}],"id":"26fedb59-15ff-4acf-b5cd-c8b13110f652","width":"4/12"}],"id":"6b9cbcbc-95c2-416d-bd41-51490e524461"}]
+
+----
+
+Date: 2006-09-13
+
+----
+
+Contexte: Lunettes rouges, Le Monde.fr
+
+----
+
+Adresse: à propos de l’exposition <em>L’image dans le papier</em>, Galerie Frédéric Giroux
+
+----
+
+Category: textes-critiques
+
+----
+
+Uuid: 3DAdp0Ruj0kI4Uxh

@@ -1,0 +1,25 @@
+Title: Roue / Poème
+
+----
+
+Bloc: [{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Impressions tampon encreur, rouleau de papier industriel, 26 cm / 8,5 cm<br>2023</p>"},"id":"46c4748e-1697-48b2-842f-7618fdea2609","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://DRyQAnTZZljFlcLD"],"src":"","alt":"","caption":"<strong>se reposent / les yeux<br></strong>Impressions tampon encreur, rouleau de papier industriel, 26 cm / 8,5 cm<br>2023","link":"","ratio":"","crop":"false"},"id":"2f15c2a5-ab8f-49f0-b956-6a0a5c496c6f","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://FT1a8xpUIY5ttKlH"],"src":"","alt":"","caption":"<strong>se reposent / les yeux<br></strong>Impressions tampon encreur, rouleau de papier industriel, 26 cm / 8,5 cm<br>2023","link":"","ratio":"","crop":"false"},"id":"90aff605-71df-4f67-bdc6-f03ea006d44b","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://9cU8RWraNw5rgD6p"],"src":"","alt":"","caption":"<strong>donné / un regard<br></strong>Impressions tampon encreur, rouleau de papier industriel, 26 cm / 8,5 cm<br>2023","link":"","ratio":"","crop":"false"},"id":"64cadfde-8dfa-41f9-a04e-9122bff76640","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://FT1a8xpUIY5ttKlH"],"src":"","alt":"","caption":"<strong>donné / un regard<br></strong>Impressions tampon encreur, rouleau de papier industriel, 26 cm / 8,5 cm<br>2023","link":"","ratio":"","crop":"false"},"id":"a72246d2-aac8-49e9-b143-076ef65fb706","isHidden":false,"type":"image"}]
+
+----
+
+Cover: - 'file://DRyQAnTZZljFlcLD'
+
+----
+
+Descriptif: 
+
+----
+
+Date: 2023-01-01
+
+----
+
+Tags: 
+
+----
+
+Uuid: eS9urJMLNUIoXNVU

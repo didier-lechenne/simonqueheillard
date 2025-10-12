@@ -1,0 +1,29 @@
+Caption: L’image dans le tapis
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 1
+
+----
+
+Uuid: VhEWrUgD8APZBEq7
+
+----
+
+Template: cover

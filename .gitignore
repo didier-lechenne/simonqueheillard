@@ -1,6 +1,12 @@
 # Kirby CMS
 /kirby
-/content
+/content/**/*.mp4
+/content/**/*.avi
+/content/**/*.mov
+/content/**/*.mkv
+/content/**/*.mp3
+/content/**/*.wav
+/content/**/*.flac
 
 # Dossier de travail
 /a_garder
@@ -48,8 +54,7 @@ node_modules/
 
 # Content
 # ------------
-/content/*
-/content-local/
+
 
 # Fonts
 # ------------

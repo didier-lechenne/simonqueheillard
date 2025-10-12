@@ -1,0 +1,29 @@
+Title: Gérard Bazalgette, à propos de l’exposition L’image dans le papier
+
+----
+
+Titre-page: Gérard Bazalgette
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://NYqWrF0yWbhkLBWI"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"90364a6d-1ea0-4cde-b130-9c2bf4a3f8fd","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://uSre2050b5BbFUJe"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f806a0e8-6fcc-47fb-9ee3-321b599a12a3","isHidden":false,"type":"image"},{"content":{"textalign":"","textsize":"","fontfamily":"font-family-serif","text":"<p>[...]</p><p><em>Il reste que cette phase de l’oeuvre est, historiquement, habituellement censurée. Cette éclipse n’est plus tout à fait de mise aujourd’hui, où nombre de créateurs semblent vouloir au contraire, et à la suite de Burroughs en particulier, serrer cette articulation d’un peu plus près. Certains, comme notre jeune artiste ci-dessus, se contentent d’en poser la question. Il écrit, à propos d’un tableau de Gorki&nbsp;: «&nbsp;Sa mère est morte et sur la tableau elle n’a pas de mains. Gorki n’avait-il pas pu les peindre, ou les avait-il effacées par la suite&nbsp;?&nbsp;» Où sont passées en effet ces mains d’emprises et de jouissance&nbsp;? D’autres artistes chercheront à se déplacer de ce côté-là, vers cette zone pulsionnelle qui organiserait l’oeuvre, avec du génie pour certains, avec seulement de l’abjection pour d’autres.</em></p>"},"id":"5be741cd-d2e5-4dfa-9bc2-c190a125b385","isHidden":false,"type":"text"}],"id":"8823a0cc-4ca9-4789-9c4c-fbf92f7b5658","width":"8/12"},{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p><strong>Gérard Bazalgette</strong><br>2006-2016</p><p>Gérard Bazalgette est psychanalyste. Publié en 2016, le livre «&nbsp;La folie et la psychanalyse&nbsp;» reprend ici un article daté de 2006, publié alors en revue. <br>Ce passage décrit mon exposition <em>L’image dans le papier</em>, à la Galerie Frédéric Giroux, à Paris, en 2006, en rapport avec la notion de \"sublimation\" et l’oeuvre de William Burroughs.</p>"},"id":"bd41c601-3d4e-4821-8a06-966a849e28c4","isHidden":false,"type":"text"}],"id":"1ce5c041-fb3f-458f-9782-d9aa60a6def8","width":"4/12"}],"id":"439d01fe-c805-4d57-8e4b-7d10a7c1369e"}]
+
+----
+
+Date: 2016-01-01
+
+----
+
+Contexte: 
+
+----
+
+Adresse: à propos de l’exposition <em>L’image dans le papier</em>
+
+----
+
+Category: textes-critiques
+
+----
+
+Uuid: 3e0ttydBnd5wmGyX

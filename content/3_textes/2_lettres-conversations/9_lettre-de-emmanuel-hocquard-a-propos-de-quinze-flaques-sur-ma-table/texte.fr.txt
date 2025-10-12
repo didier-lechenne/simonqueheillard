@@ -1,0 +1,33 @@
+Title: Lettre de Emmanuel Hocquard, à propos de Quinze flaques sur ma table
+
+----
+
+Titre-page: Lettre de Emmanuel Hocquard
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://zwxbXcXRLMdFa6GT"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"92c925eb-71f2-41f6-8a4a-a5eb0d7852c1","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://Ikuo0uzcTk31laxS"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"a431ea0f-0ef9-4a8b-9a5b-6cc576a5b7a1","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://BRMJKqtPJdaAsGFf"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"9f6af910-c434-4d75-8083-90879b8b04fc","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://kDgWDt7zCTYhcE2K"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"61646fa3-e8f9-4282-b184-0a83b3137abc","isHidden":false,"type":"image"}],"id":"51fb5d3b-0284-468b-9be5-6546633fc291","width":"8/12"},{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Juin 2005</p><p>Gazette de la Villa Harris, 2005. Le texte qui suit est une lettre du poète Emmanuel Hocquard en réponse à mon oeuvre photographique «&nbsp;Quinze flaques sur ma table&nbsp;», dédicassée à l’archéologue Montalban, personnage de ses livres.</p>"},"id":"d1313be5-4ca2-4abc-bab7-71706c92f65b","isHidden":false,"type":"text"}],"id":"8b3c68ad-639d-4321-bbd8-2f7d814e08e8","width":"4/12"}],"id":"32d26d79-0f77-40e8-bb6c-32b2889c2b0a"}]
+
+----
+
+Date: 2005-06-01
+
+----
+
+Contexte: à propos de Quinze flaques sur ma table
+
+----
+
+Adresse: 
+
+----
+
+Category: lettres-conversations
+
+----
+
+Bloc: 
+
+----
+
+Uuid: FjCB6Lwtnt0TMSQz

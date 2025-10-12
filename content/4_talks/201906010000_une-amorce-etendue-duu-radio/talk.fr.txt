@@ -1,0 +1,37 @@
+Title: Une amorce étendue
+
+----
+
+Titre-page: Une amorce étendue
+
+----
+
+Bloc: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"source":["file://gA02t3KDZ7vow5bu"],"title":"","subtitle":"","description":""},"id":"e21cbb24-9bdb-42d7-a708-1c2fca6d1030","isHidden":false,"type":"audio"}],"id":"9148dd2f-77b3-422d-86e4-d04052353256","width":"8/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"","text":"<p>À l'invitation de l'artiste Bruno Bottela sur DUU Radio, à La Villette, à Paris, sur le thème du retard. J'y aborde la question fondamentale du \"suspens\" dans la perception.</p>"},"id":"ff7a5bf0-34ed-49da-b0c3-08c65a2e919e","isHidden":false,"type":"text"}],"id":"13c14b55-fbbb-4b8f-ab9d-1b66c0027a07","width":"4/12"}],"id":"dedb5b4a-c87f-481a-946e-8f53733b3b4b"}]
+
+----
+
+Date: 2019-06-01
+
+----
+
+Category: discussion
+
+----
+
+Location: DUU Radio
+
+----
+
+City: Paris
+
+----
+
+Files: []
+
+----
+
+Uuid: IOHBst88GkMfTpN1

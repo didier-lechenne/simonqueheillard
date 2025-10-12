@@ -1,0 +1,33 @@
+Caption: Quinze flaques sur ma table, photographie, 35 / 45 cm, 2005
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: S1lajWLLkXggYdYK
+
+----
+
+Template: blocks/image
+
+----
+
+Focus: 50.0% 50.0%
+
+----
+
+Sort: 1

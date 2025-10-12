@@ -1,0 +1,33 @@
+Title: Échanges avec Claude Royet-Journoud
+
+----
+
+Titre-page: <p>Échanges avec Claude Royet-Journoud</p>
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[],"id":"92c0ed45-6739-4d95-ac65-a83c4a9c074e","width":"8/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"font-family-sans","text":""},"id":"4666646d-ae8e-45b2-8559-575913525af4","isHidden":false,"type":"text"}],"id":"d0bed501-1f76-4019-ba63-961cf8f01063","width":"4/12"}],"id":"10ee393d-b97a-4514-8167-5e72eaa2f2db"}]
+
+----
+
+Date: 
+
+----
+
+Contexte: à propos des Petites cavités du langage
+
+----
+
+Adresse: 
+
+----
+
+Category: lettres-conversations
+
+----
+
+Bloc: 
+
+----
+
+Uuid: 0Hzu6SzBu172uD39

@@ -1,0 +1,29 @@
+Title: L’image dans le papier
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Le livre L’image dans le papier est une série de notes fragmentaires autour de la question de l’image latente et de l’image révélée. Il tente de décrire ce processus d’apparition de l’image, en référence à la technique de la photographie. Le livre prend cependant essentiellement appui sur une description empirique de mes travaux, vidéos et photographiques, réalisées de 2002 à 2008.</p><p>\"Variation sur la célèbre “image dans le tapis” d’Henri James, tentative de saisie des moments fugaces où des images se font et se défont dans les circonstances les plus imprévisibles et les plus aléatoires et des relations entretenues par l’auteur avec ces images&nbsp;: voir et comment voir...\"<br>Jean-Pierre Balpe</p>"},"id":"703d4c4f-aee5-425e-8b66-5c597096df94","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://gPDuA3nYH0Jcf2kF"],"src":"","alt":"","caption":"<strong>Extrait L’image dans le papier</strong>","link":"","ratio":"","crop":"false"},"id":"0316d1ab-bba6-49a9-9df9-a32a1e8bca78","isHidden":false,"type":"image"}],"id":"153d2dbb-584b-4e3d-9748-4884e827c36d","width":"8/12"},{"blocks":[{"content":{"location":"kirby","image":["file://nwcjFK27KEEd2gNX"],"src":"","alt":"","caption":"<strong>L’image dans le papier<br></strong>Éditions Mix, 2008, édité avec le concours du CNL","link":"","ratio":"","crop":"false"},"id":"3b8870f6-2969-4c8c-a22a-f5966b408f97","isHidden":false,"type":"image"}],"id":"ea51fa74-7c55-45b7-9522-9089b5e14e08","width":"4/12"}],"id":"682f0608-dd8c-4be7-8c8f-0790e6a712ff"},{"attrs":[],"columns":[{"blocks":[],"id":"0b23081d-fc02-4f94-a906-5e31993a5250","width":"8/12"},{"blocks":[],"id":"9a228136-9e12-4e18-b355-dd5288f5db1b","width":"4/12"}],"id":"a1bdaa80-c913-4669-a519-d062e6967b7f"}]
+
+----
+
+Cover: - 'file://nwcjFK27KEEd2gNX'
+
+----
+
+Editeur: Éditions Mix
+
+----
+
+Date: 2008-01-01
+
+----
+
+Text: 
+
+----
+
+Tags: Mix
+
+----
+
+Uuid: 62zhcBSyizNrWl0C

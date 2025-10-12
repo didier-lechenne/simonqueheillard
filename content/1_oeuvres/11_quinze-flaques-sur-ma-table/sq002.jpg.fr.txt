@@ -1,0 +1,29 @@
+Caption: Quatorze flaques sur ma table, photographie, 35 / 45 cm, 2005
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 2
+
+----
+
+Uuid: DkhGBCzaImFo0lzm
+
+----
+
+Template: blocks/image

@@ -1,0 +1,25 @@
+Title: Un grand monde pâle, ébauché
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"font-family-sans","text":"<p>Une suite de poèmes en prose dans lesquels l’auteur poursuit sa réflexion autour de «&nbsp;l’image latente&nbsp;» (état d’une image avant qu’elle n’apparaisse) et de la «&nbsp;distraction&nbsp;» (détourner l’esprit de l’objet). Un grand monde pâle, ébauché désigne ce «&nbsp;fond latent&nbsp;» à travers lequel se joue l’expérience du distrait.</p><p>Sa rumeur autour de la tête. <br>Rien, devant moi, à l’exception de tout le reste. <br>[…]<br>Une ambulance traverse mon cerveau.</p><p>Une physique des sens très présente guide le déroulement du livre. Le titre est une allusion à cette couche de peinture grise dont les peintres de la Renaissance enduisaient leur toile, avant l’ajout de la couleur.</p><p>Soleil. Le hasard de ses rayons. <br>Ils deviennent des objets sans que j’y pense</p>"},"id":"46928c25-c8b4-4a29-a912-6719f4c0e3f8","isHidden":false,"type":"text"}],"id":"adc5981f-8159-4683-98f9-0dc228b52b2b","width":"8/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-md","fontfamily":"font-family-sans","text":"<p>Anthologie Triages <br>2020<br>Éditions Tarabuste.</p>"},"id":"f696cc41-8216-4e9d-8aed-bfbb650ad49c","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://5CGWhgeh37Anhnof"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0d902106-b309-404e-b5e0-f7a390214ec9","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://9XDIHA2VShi52f4m"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"8a81179b-6789-4089-93f4-3db6a1df1f61","isHidden":false,"type":"image"}],"id":"3b3b6f1e-07a5-4150-8130-549cbcd37e9c","width":"4/12"}],"id":"c14538ea-97e7-41ae-b671-d091085d9b9d"}]
+
+----
+
+Cover: - 'file://5CGWhgeh37Anhnof'
+
+----
+
+Editeur: Anthologie Triages, Éditions Tarabuste
+
+----
+
+Date: 2020-01-01
+
+----
+
+Text: 
+
+----
+
+Uuid: 6aQaz4ZiOAy02sRx

@@ -1,0 +1,37 @@
+Title: Une image impossible
+
+----
+
+Titre-page: Une image impossible
+
+----
+
+Bloc: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"","text":"<p>Durant l'édition 2016 du Festival FID Marseille, où fut projeté mon film \"De commencements en commencements\", je suis interviewé par Pascal Messaoudi dans le cadre de sa Chronique du film impossible sur Radio Grenouille.</p>"},"id":"9964d564-f6b3-44cb-9cbd-742cb8f43e15","isHidden":false,"type":"text"},{"content":{"source":["file://gtt2Vbwk6NPSrNvX"],"title":"","subtitle":"","description":""},"id":"41d415a0-de5b-4f26-8497-25cb3de975d2","isHidden":false,"type":"audio"}],"id":"df6c68d3-fb86-4c53-8748-fb969e8401cf","width":"8/12"},{"blocks":[],"id":"fb276b4d-bb65-4794-a8bc-c711eb9af595","width":"4/12"}],"id":"8257970a-8e13-4909-a15f-c9c7ec5b3254"}]
+
+----
+
+Date: 2016-07-01
+
+----
+
+Category: entretien
+
+----
+
+Location: Radio Grenouille, Festival FID
+
+----
+
+City: Marseille
+
+----
+
+Files: []
+
+----
+
+Uuid: 8Sgx3ffWOvfX5hPx

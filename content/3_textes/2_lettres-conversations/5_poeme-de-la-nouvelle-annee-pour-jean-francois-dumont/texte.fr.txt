@@ -1,0 +1,25 @@
+Title: Poème de la nouvelle année pour Jean-François Dumont
+
+----
+
+Titre-page: Poème de la nouvelle année pour Jean-François Dumont
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p><strong>je mange une orange</strong></p><p>Ce vers, de Robert S. W. Sikorski, initialement perçu pour la précision de sens et l’exactitude dont il témoigne, déclenche en moi une lecture. Ce monostiche est une boîte sonore en forme d’équation. Cette petite boîte, il faut pour l’entendre délier la prononciation, isoler chaque trait sonore dans la prononciation des mots. Elle fait apparaître la répétition d’un son&nbsp;: c’est la particule <em>ange</em>. Cette répétition sonore procède par là même d’une annulation (en cela semblable aux deux termes identiques de part et d’autre du signe égal dans une équation). Selon une technique de camouflage, apparaissent en creux les autres \"syllabes\" (qui n’en sont pas toujours) du poème&nbsp;: <em>je m une or.</em> Si <em>orange</em> est la question, <em>je mords</em> est envisageable&nbsp;: <em>je </em><strong><em>m</em></strong><em> une </em><strong><em>or</em></strong>. Ainsi l’on passera du son <em>m</em> à <em>or</em> sans passer par la case <em>une.</em> C’est être capable de penser (lire) en arrière comme en avant, selon la bonne vieille méthode du zigzag. Une lecture sonore et discontinue d’où l’on passe de manger à mordre (et d’où ce conflit avec l’ordre grammatical). <em>je mange une orange</em> déclenche cette morsure phonétique. <em>je mor</em> se dessine en fond, dans l’acte de diction du poème, tels les motifs entrelacés d’un tapis. Mais qu’advient-il de l’orange&nbsp;? Elle reste imprononçable (ne reste à disposition que la particule <em>ange</em>). Passer d’un vers à l’autre engendre sa presque disparition&nbsp;: orange balbutiée, il manque une syllabe. Deux vers fondus l’un dans l’autre. Le monostiche déclenche le balbutiement d’un distique. Du souvenir d’une orange passée, une autre orange se dessine, impalpable.</p>"},"id":"37e00791-97d8-493a-9271-1bc6a07622dd","isHidden":false,"type":"text"}],"id":"cc037cb8-d8c7-47f4-ae5f-7884740febe9","width":"8/12"},{"blocks":[{"content":{"location":"kirby","image":["file://oa1pZDSxZuaeWhZn"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"5febff85-e67c-484a-9077-38f13ed102fe","isHidden":false,"type":"image"}],"id":"c38e3b5e-bba0-4f8e-802e-7abec026bfac","width":"4/12"}],"id":"288746b8-41dc-4661-893f-ad57d6e9dc6e"}]
+
+----
+
+Date: 2014-01-01
+
+----
+
+Contexte: 
+
+----
+
+Adresse: 
+
+----
+
+Uuid: lgEqhRN3d469aoyv

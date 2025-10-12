@@ -1,0 +1,29 @@
+Title: Notre corps quotidien, Revue Hypertexte, Éditions Spector
+
+----
+
+Titre-page: Notre corps quotidien
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[],"id":"937783bc-aa66-4d4e-bfa2-41812fb2e88e","width":"8/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"font-family-sans","text":"<p>Revue Hypertexte<br>Éditions Spector</p>"},"id":"4892962c-88f4-4f52-9ec4-1a1d10dd9219","isHidden":false,"type":"text"}],"id":"f20bb2dc-d5b0-4023-b2b3-845103dbc636","width":"4/12"}],"id":"7ee6fcd9-b8c1-42c0-836e-5b99e20c8927"}]
+
+----
+
+Date: 2010-01-01
+
+----
+
+Contexte: Revue Hypertexte
+
+----
+
+Adresse: Éditions Spector
+
+----
+
+Category: textes-critiques
+
+----
+
+Uuid: naVefPI9oiCypZeJ

@@ -1,0 +1,25 @@
+Title: 9 sacs plastiques
+
+----
+
+Bloc: [{"content":{"location":"kirby","image":["file://Gh5847jnt4nTmciw"],"src":"","alt":"","caption":"<strong>9 sacs plastiques<br></strong>Détail de l’oeuvre<br>neuf sacs plastiques, scotch<br>dimensions 4cm / 2cm chaque environ<br>2003<u><a href=\"https://simonqueheillard.fr/IMG/jpg/6_2_20230904_154932-2.jpg\" title=\"9 sacs plastiques\"><br></a></u>","link":"","ratio":"","crop":"false"},"id":"d90f0fbe-980d-4ccb-a88d-eb08b7139188","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://py9YDiPKtfyj18Ls"],"src":"","alt":"","caption":"<strong>9 sacs plastiques<br></strong>Détail de l’oeuvre<br>neuf sacs plastiques, scotch<br>dimensions 4cm / 2cm chaque environ<br>2003","link":"","ratio":"","crop":"false"},"id":"718028d8-6077-49b1-8c22-f60637e4c0e7","isHidden":false,"type":"image"}]
+
+----
+
+Cover: - 'file://Gh5847jnt4nTmciw'
+
+----
+
+Descriptif: neuf sacs plastiques, scotch, <br>dimensions 4cm / 2cm chaque environ<br>2003
+
+----
+
+Date: 2003-01-01
+
+----
+
+Tags: 
+
+----
+
+Uuid: roY9vwjQxNGwkMXc

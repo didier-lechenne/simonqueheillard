@@ -1,0 +1,29 @@
+Title: La machine à donner du temps, Revue Canal Bus, à propos de 3 dessins 4 poèmes à l’oblitérateur
+
+----
+
+Titre-page: La machine à donner du temps
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Durant l’année 2001, où je travaille à la confection de mon oeuvre «&nbsp;3 dessins 4 poèmes à l’oblitérateur&nbsp;», je visite l’atelier de réparation des oblitérateurs de bus de la CGFTE (équivalent à l’époque, à Bordeaux, de la RATP à Paris). Accompagné par un mécanicien, nommé Philippe Block, il me propose alors de m’entretenir avec lui pour la revue d’entreprise interne à CGFTE, nommée <em>Canal Bus</em>. En septembre 2001, alors jeune diplômé de l’école des Beaux-arts de Bordeaux, le revue publie le récit de mon expérience accompagnée d’une série de photos.</p>"},"id":"c9f97d4d-c1e0-475f-9daf-51b89b7e5f6e","isHidden":false,"type":"text"}],"id":"3ca621c1-817d-4b49-a950-7aecb899adc8","width":"6/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"font-family-sans","text":"<p>Revue Canal Bus<br>à propos de <em>3 dessins 4 poèmes à l’oblitérateur</em><br>Décembre 2001</p>"},"id":"2d0fd716-a536-43e9-a52e-35c23fbfbd5e","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://4gcKZkxjcZK8E8c8"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"3f637953-3643-4b3a-af70-de1bb8a3dd6f","isHidden":false,"type":"image"}],"id":"955515d4-5da2-4c0c-9dc9-13df24053943","width":"6/12"}],"id":"c216906b-70aa-42b1-8927-392d2e709d85"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://m3xzmDvqEN2B8VLw"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0b5704de-994d-4317-9014-25876fed1df5","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://OvqetHY5lE206GhF"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"4f215604-85c2-409d-bed5-2f3f7e134655","isHidden":false,"type":"image"}],"id":"80a9b584-7113-4d48-b5dd-d8893da2d07d","width":"6/12"},{"blocks":[{"content":{"location":"kirby","image":["file://PaoBEWhOpzN9q9iq"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"107d0b2d-f101-4451-8ac3-1a91e5ab2ff6","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://tyqg4GiIG2fkNb9w"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"c806d43f-d472-430a-bc43-aaf806e3efeb","isHidden":false,"type":"image"}],"id":"4cb2d639-e5cc-49a5-9e37-675b0de91298","width":"6/12"}],"id":"ae8a173d-395e-4555-afc8-fb3b79b5bf44"}]
+
+----
+
+Date: 2001-12-01
+
+----
+
+Contexte: Revue Canal Bus
+
+----
+
+Adresse: à propos de <em>3 dessins 4 poèmes à l’oblitérateur</em>
+
+----
+
+Category: textes-critiques
+
+----
+
+Uuid: 12iUG0oqUbph1ZdX

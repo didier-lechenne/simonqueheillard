@@ -1,0 +1,17 @@
+Alt: 
+
+----
+
+Caption: Une legende
+
+----
+
+Link: 
+
+----
+
+Uuid: 7HY3Hqk9UJ2gMdVd
+
+----
+
+Focus: 15.8% 56.2%

@@ -1,0 +1,25 @@
+Title: Mesure de la vitesse du ticket
+
+----
+
+Bloc: [{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Dans le prolongement d’un ticket de métro, est accrochée une bande magnétique de cassette VHS. Insérer le ticket selon cette méthode permet de voir défiler la bande hors de la machine. Apparaît alors la vitesse d’entraînement du ticket qui lui se trouve dans la machine. En accrochant un ballon de baudruche à l’autre bout de la bande, on obtient ainsi selon cette méthode «&nbsp;La mesure de la vitesse du ticket&nbsp;».</p>"},"id":"91f36856-4229-4d02-85c4-07734e563244","isHidden":false,"type":"text"}]
+
+----
+
+Cover: - 'file://2ZkZxdwCdy7xc3qj'
+
+----
+
+Descriptif: Vidéo, 3min46 sec, mini dv, couleur<br>Langue&nbsp;: Français, 2004-2019
+
+----
+
+Date: 2004-01-01
+
+----
+
+Tags: 
+
+----
+
+Uuid: i5Pr78KhQc0cqOpg

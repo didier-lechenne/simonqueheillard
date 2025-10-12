@@ -1,0 +1,25 @@
+Title: Ce que j’ai sous les yeux (1re partie)
+
+----
+
+Descriptif: Vidéo, 8min 40s, mini dv, son, couleur, 2003
+
+----
+
+Bloc: [{"content":{"text":"<p>Une vision des flaques des flaques d’eau à travers le principe du révélateur photographique.</p><p>Sur le trottoir, de l’eau est versée au sol à l’aide d’une bouteille. L’eau s’immobilise, l’image se gèle, la mayonnaise prend. Apparaît la couleur.</p>"},"id":"0baa2e7d-b1d7-4b28-87f7-f66ed4e54f00","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://zPKexb2musGuvA9f"],"poster":["file://FvK0SAaQvybJi31h"],"caption":"Vidéo, 8min 40s, mini dv, son, couleur, 2003","autoplay":"true","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"d32163e3-701e-48a6-8e11-3f7ba6a68ff1","isHidden":false,"type":"video"},{"content":{"location":"kirby","image":["file://KevBsDE8KkUgx9AA"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0410ac4b-c7d4-4f67-ab63-bab0b6d08121","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://MFp0idtzhQVZqoIv"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"bbc3b77d-b71c-4637-af1d-b53625c4a40f","isHidden":false,"type":"image"}]
+
+----
+
+Cover: - 'file://FvK0SAaQvybJi31h'
+
+----
+
+Date: 2003200320032003
+
+----
+
+Tags: 
+
+----
+
+Uuid: ScKydlYBU851cp4i

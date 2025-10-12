@@ -1,0 +1,30 @@
+Title: L'espace d'une seconde
+
+----
+
+Titre-page: 
+
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://b760cNvW3bBVub7k"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0b5746aa-277b-481d-9cc0-e8992927c9d8","isHidden":false,"type":"image"}],"id":"5300c2e9-482b-4893-b67b-b0acece37512","width":"8/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-md","fontfamily":"","text":"<p><strong>L'espace d'une seconde<br></strong>du 29 avril au 13 mai<br>vernissage mardi 29 avril 18h<br></p><p>ouvert du mardi au dimanche<br>lundi sur rdv</p><p>galerie mercier &amp; associés<br>3 rue dupont de l'eure<br>75020 paris</p>"},"id":"f91e4ffd-2df2-4a4c-b79b-f8dcccb4bc82","isHidden":false,"type":"text"}],"id":"e9f97f05-37c2-43d9-a652-2d0b7690c2be","width":"4/12"}],"id":"e63e49ec-3d91-4755-8971-ef115a0abd5a"}]
+
+----
+
+Date: 2025-04-29
+
+----
+
+Category: Exposition personnelle
+
+----
+
+Location: Galerie Mercier & associés
+
+----
+
+City: Paris
+
+----
+
+Uuid: VkrzoElnm20FS3Jh

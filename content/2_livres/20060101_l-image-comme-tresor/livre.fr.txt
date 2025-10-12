@@ -1,0 +1,25 @@
+Title: L’image comme trésor
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"font-family-sans","text":"<p>L’IMAGE COMME TRÉSOR</p><p>Un trésor n’est trésor qu’enfoui.<br>Keith Waldrop, Une cérémonie qui se passait ailleurs</p><p>J’avais un jour entrepris la fabrication ce cette sorte d’image «&nbsp;seule, évidente&nbsp;». Une sorte de caillou. Le rêve de toute forme. Un fantasme de densité. Il s’agissait d’une boîte contenant une photographie (un négatif en fait), que l’on pas atteindre sans l’effacer. Je l’avais nommé l’image comme trésor.</p><p>Et devant cette boîte contenant un négatif révélé mais non fixé.</p><p>L’image se maintient quand la boîte est fermée, s’obscurcit si elle est exposée.</p><p>L’image n’est pas la photographie. C’est-à-dire l’image se montre même si la photographie est cachée. L’image se montre sous la forme d’un secret (situation de dilemme).</p><p>Une image en forme de question. N’importe qui pourrait la laisser là, intacte, et ne pas y toucher. L’image reste en suspens. Mais la boîte n’ouvre sur rien&nbsp;: conservées à l’abri de l’air, la découverte des fresques antiques dans les souterrains de Rome se confond avec leur disparition.</p><p>Gorki. Sa mère est morte, et sur le tableau elle n’a pas de main. Gorki n’avait-il pas pu les peindre, ou les avait-il effacées par la suite. Ne pouvait-il pas déclarer son tableau achevé. Quelle est cette sorte d’image&nbsp;? que l’on ne peut pas voir. (Image à venir ou en voie d’effacement.)</p><p>Une image vécue dans l’instant. L’instant d’avant la photographie (le suspens). On voudrait saisir l’image au moment où elle se met en marche, où elle reste indécidable.</p><p>N’importe qui pourrait attendre, et être étonné, garder cette boîte, là, intacte, à portée de main. Tout ce qu’on a connu pourrait s’y trouver.</p><p>Il faut maintenant que le secret acquiert sa propre forme, en tant que secret&nbsp;: la boîte ne contient pas un secret qui serait la photographie, mais c’est elle-même qui est devenue un secret (l’image).</p><p>Rien en dehors du suspens.</p><p>Alfred Hitchcock&nbsp;: «&nbsp;Il faut que l’esprit soit vide et que seul reste le suspens&nbsp;».</p><p>[À la lumière,]</p><p>[à peine entrevu. Il ne restera rien.]</p><p>Un passé. Une mémoire qui enferme. Dans l’attente l’image tient. Elle est là dans le rêve.</p><p>L’image disparaît quand vient la photographie (l’objet est périmé). Tandis que l’image infixable reste porteuse d’une fiction constante pour chacun (le secret). Quelque chose reste en attente, vif et enfermé.</p><p>Ce qui est enfermé brûle (chaud et actif). Et vous accompagne en pensée.</p><p>Vous n’en saurez rien. (Image séparée de ses possibilités de révélation.)</p><p>Derrière moi, dans mon dos.</p><p>Il n’y aura rien eu. On est dans l’arrêt. Mais ne jamais dire que c’est la fin, ou du moins de rien.</p><p>De cette manière je construis une situation&nbsp;: l’image comme trésor. L’image n’est image qu’enfouie.</p><p>Simon Quéheillard</p>"},"id":"7bb3e13e-cb83-46b3-8c25-cdaee9bc3976","isHidden":false,"type":"text"}],"id":"d3c18db9-88d2-4299-ac6c-48c11c8783be","width":"8/12"},{"blocks":[{"content":{"location":"kirby","image":["file://vcodGprsJFle0Z9w"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"40872ba0-0358-40ac-a096-2d8f5f9253ef","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://4hUSwnldFq7qpLjC"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"63aa062c-f20f-416b-a8b8-06193dec91ed","isHidden":false,"type":"image"}],"id":"8b4a6f46-6793-4593-b087-d048094ad060","width":"4/12"}],"id":"5645f2f1-9b9d-4fd6-843b-822f73d848b5"}]
+
+----
+
+Cover: - 'file://vcodGprsJFle0Z9w'
+
+----
+
+Editeur: Galerie Fréderic Giroux
+
+----
+
+Date: 2006-01-01
+
+----
+
+Text: 
+
+----
+
+Uuid: Y6mS68JV50krzElI

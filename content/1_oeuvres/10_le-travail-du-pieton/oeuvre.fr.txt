@@ -1,0 +1,25 @@
+Title: Le travail du piéton
+
+----
+
+Bloc: [{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Des objets surgissent de la bouche d’un escalator, perturbant le roulis mécanique. Une machine emblématique de l’ordre urbain devient un instrument où formes et sons s’assemblent en de multiples combinaisons éphémères. On retrouve ici le rêve de Keaton&nbsp;: \" prendre la plus grosse machine du monde pour la faire fonctionner avec de tous petits éléments \".</p>"},"id":"3522ab91-0829-4a0a-99b8-225d9fd4accc","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://DkW1Em73FLbVm49C"],"poster":["file://eUWGR9fDD1nyxDNs"],"caption":"","autoplay":"true","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"a75dee5d-3b0e-442d-affb-d9a889e84001","isHidden":false,"type":"video"}]
+
+----
+
+Cover: - 'file://eUWGR9fDD1nyxDNs'
+
+----
+
+Descriptif: Vidéo, 15mn, HDV, son, couleur, 2009-2017
+
+----
+
+Date: 2009-01-01
+
+----
+
+Tags: 
+
+----
+
+Uuid: oXcpiMx5duvav2Uw

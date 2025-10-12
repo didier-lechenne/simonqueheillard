@@ -1,0 +1,37 @@
+Title: Faire quelque chose avec ça
+
+----
+
+Titre-page: Faire quelque chose avec ça
+
+----
+
+Bloc: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","url":"","video":["file://vvwJl5PV988xGwcl"],"poster":[],"caption":"Entre­tien vidéo réalisé à l’oc­ca­sion de l’ex­po­si­tion Entro­pie, <br>Espace Khiasma, Juin 2010<br>Durée 38min.","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"41472a50-0350-4b50-94bc-dc36f4d51767","isHidden":false,"type":"video"}],"id":"8f3c71bb-fa34-45f8-a9ca-77c193e91511","width":"8/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-md","fontfamily":"","text":"<p><strong>Juin 2010<br>Entre­tien<br>Espace Khiasma<br>Paris</strong></p>"},"id":"7dd5699c-e4bd-4c6c-8b5e-da21ec828c4c","isHidden":false,"type":"text"},{"content":{"textalign":" left","textsize":"text-md","fontfamily":"","text":"<p>Dans cet échange, en conversation avec Olivier Marbœuf, je revient sur mon parcours, sur ce que je nomme des «&nbsp;procédures&nbsp;» à l’origine de mon travail, sur la question de l’image en tant que phénomène d’apparition, sur la notion d’image latente, sur les instruments de mesure comme instruments de perception, ainsi que mon rapport à la ville, aux machines urbaines et aux flaques d’eau.</p>"},"id":"4b4b91c8-2a81-4576-8e27-fe6c95f47a2b","isHidden":false,"type":"text"}],"id":"1e06f4e7-333c-4c70-a089-14d6797ea0c3","width":"4/12"}],"id":"a006b2f4-6c48-439a-9f1e-7de8242b4a72"}]
+
+----
+
+Date: 2010-06-01
+
+----
+
+Category: entretien
+
+----
+
+Location: Espace Khiasma
+
+----
+
+City: Paris
+
+----
+
+Files: []
+
+----
+
+Uuid: R8OCbjc0NdoHcFWX

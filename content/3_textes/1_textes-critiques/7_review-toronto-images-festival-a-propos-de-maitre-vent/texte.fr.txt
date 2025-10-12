@@ -1,0 +1,29 @@
+Title: Review Toronto Images Festival, à propos de Maître-vent
+
+----
+
+Titre-page: Review Toronto Images Festival
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://MhkKSRqUF0YpAn97"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7579bc77-a715-4711-9815-698396722951","isHidden":false,"type":"image"}],"id":"8255b82e-97af-4b2e-aa33-14d74c7d308a","width":"8/12"},{"blocks":[{"content":{"textalign":"","textsize":"text-md","fontfamily":"","text":"<p>Avril 2013<br>Mechanical forest sound, Images Festival, Toronto</p>"},"id":"3286c8c5-ab64-4185-a799-2c79d27a8250","isHidden":false,"type":"text"},{"content":{"pdf_file":["file://aLPRhm96dq2Oa7tx"],"caption":"Télécharger l'article"},"id":"e3926024-c853-4e1c-8ef5-4e3e9298164a","isHidden":false,"type":"pdf"}],"id":"91456a2b-1c1a-4300-916e-7afcc09778d6","width":"4/12"}],"id":"72438895-1612-4164-ad9c-f999a3b50935"}]
+
+----
+
+Date: 2013-04-01
+
+----
+
+Contexte: 
+
+----
+
+Adresse: à propos de <em>Maître-vent</em>
+
+----
+
+Category: textes-critiques
+
+----
+
+Uuid: mu2hNpdqRqAjToUq

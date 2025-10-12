@@ -1,0 +1,13 @@
+Sort: 8
+
+----
+
+Caption: Geste d’un coup de pied
+
+----
+
+Uuid: E9Htt6NbMD9TdnA5
+
+----
+
+Template: blocks/image

@@ -1,0 +1,9 @@
+Caption: 
+
+----
+
+Uuid: BheEW4CgolQofLIJ
+
+----
+
+Template: blocks/image

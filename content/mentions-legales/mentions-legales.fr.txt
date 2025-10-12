@@ -1,0 +1,25 @@
+Title: Mentions Légales
+
+----
+
+Auteur: <p><strong>© Simon Quéheillard. tous droits réservés.</strong></p><p>L'ensemble des éléments de ce site internet, notamment les textes, images, photographies est la propriété exclusive de Simon Quéheillard ou fait l'objet d'une autorisation d'utilisation.</p><p>Toute utilisation à des fins commerciales, éditoriales, promotionnelles ou pour exposition est soumise à l'autorisation préalable de l'artiste. Pour toute demande d'autorisation ou d'information, merci de contacter directement Simon Quéheillard à l'adresse suivante : [<a href="mailto:email@simonqueheillard.com">email@simonqueheillard.com</a>].</p><p>Pour toute utilisation autorisée des œuvres ou éléments de ce site, la mention « © Simon Quéheillard » devra être clairement indiquée.</p>
+
+----
+
+Editeur: <p>Le site simonqueheillard.fr est édité par Simon Quéheillard, 79&nbsp;avenue du président Wilson <br>93&nbsp;100&nbsp;Montreuil, France.<br><a href="mailto:queheillard@gmail.com" title="queheillard@g­mail.com">queheillard@g­mail.com</a></p>
+
+----
+
+Hebergement: <p><a href="https://www.infomaniak.com/" title="infomaniak"><strong>Infomaniak Network SA</strong></a><br>Rue Eugène Marziano 25 1227 Les Acacias (GE)</p>
+
+----
+
+Design-developpement:
+
+<p><a href="mailto:didier@lechenne.fr" title="didier_lechenne">Didier Lechenne</a><br>Généré avec Kirby.</p>
+
+
+
+----
+
+Uuid: eKcexSDBpE4AiCCv

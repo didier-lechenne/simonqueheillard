@@ -1,0 +1,25 @@
+Caption: Craie, vent, débris
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: tmZ6ZwdQ2VRwctEh
+
+----
+
+Template: blocks/image

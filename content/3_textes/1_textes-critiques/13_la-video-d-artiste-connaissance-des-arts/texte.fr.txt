@@ -1,0 +1,33 @@
+Title: La vidéo d’artiste, Connaissance des Arts
+
+----
+
+Titre-page: La vidéo d’artiste
+
+----
+
+Category: textes-critiques
+
+----
+
+Date: 2006-11-01
+
+----
+
+Contexte: 
+
+----
+
+Adresse: Connaissance des Arts
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://3Ezt7B8CToEQb5Qb"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"6ac8e874-0b73-4a75-bbb3-fd3b9a6820ad","isHidden":false,"type":"image"}],"id":"33ba9f60-5e8f-4339-8983-63f8b604940e","width":"8/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"font-family-sans","text":"<p>La vidéo d'artiste au prix d'un DVD ?<br>Connaissance des arts<br>Novembre 2006</p>"},"id":"c8771844-7487-4809-854a-33509c828c76","isHidden":false,"type":"text"}],"id":"24a48a67-4b06-4f2a-8467-48a18798ad73","width":"4/12"}],"id":"8ce5fb8d-3eb5-40ec-96aa-9a0a6eaae89d"}]
+
+----
+
+Bloc: 
+
+----
+
+Uuid: HD8jOpYBOfdamnMI
