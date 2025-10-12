@@ -9,7 +9,7 @@
 
 <section class="<?= $page->tile() ?>"> 
 
-  <!-- <h3><?= $page->title()->html()->fixTypo() ?></h3> -->
+  <!-- <h3><?= $page->title()->html() ?></h3> -->
 
   <?php
   $talks = $page->children()->listed()->sortBy('date', 'desc');
@@ -21,9 +21,9 @@
         <div class="date">
         <?= date('Y', strtotime($talk->date())); ?>
         </div>
-        <div class="title"><?= $talk->title()->html()->fixTypo() ?></div>
-        <div class="category"><?= $talk->category()->html()->fixTypo() ?></div>
-        <div class="location"><?= $talk->location()->html()->fixTypo() ?></div>
+        <div class="title"><?= $talk->title()->html() ?></div>
+        <div class="category"><?= $talk->category()->html() ?></div>
+        <div class="location"><?= $talk->location()->html() ?></div>
         <div class="city "><?= $talk->city()->html() ?></div>
 
       </a>

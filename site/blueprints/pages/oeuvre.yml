@@ -1,71 +1,60 @@
 title: Oeuvre
 icon: 🖼
 
-
 columns:
-  - width: 2/3
+  - width: 3/4
     fields:
       bloc:
         label: Ajouter des blocs
         type: blocks
+        help: Utilisez les colonnes pour organiser vos images et textes
         fieldsets:
+          - columns
           - heading
           - text
           - list
           - image
           - gallery
           - video
-          - columns
+        default:
+          - type: columns
+            content:
+              layout:
+                - columns:
+                    - width: 9/12
+                    - width: 3/12
+                      
 
-  - width: 1/3
+  - width: 1/4
     fields:
+      descriptif:
+        label: Descriptif 
+        type: writer
+        inline: true
+        # help: Ajoutez une description de l'œuvre
+        placeholder: Décrivez l'œuvre...
+
       cover:
         label: Image de couverture
         type: files
-        layout: cards
-        size: large
+        layout: list
+        size: medium
         template: cover
-        create:
-          width: 500
-          height: 500
-          crop: true
         image:
           cover: true
           ratio: 4/3
         required: false 
 
-      descriptif :
-        label: Descriptif 
-        type: writer
-        inline: true
-
       date:
         label: Année de création (debut)
         type: date
-        display: YYYY  # Affiche uniquement l'année
+        display: YYYY
         width: 1/2
 
       date_fin:
         label: Date de fin
         type: date
-        display: YYYY  # Affiche uniquement l'année
+        display: YYYY
         width: 1/2
 
-
       tags: true
-          
-      # files:
-      #   type: files
-      #   template: blocks/image
-
-# sections:
-#   drafts:
-#     extends: sections/oeuvres
-#     label: Drafts
-#     status: draft
-
-#   listed:
-#     extends: sections/oeuvres
-#     label: Oeuvres
-#     status: listed
-#     sortable: true  

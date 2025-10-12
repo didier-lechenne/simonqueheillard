@@ -1,20 +1,24 @@
-<main class="main">
 <?php snippet('header') ?>
-<article>
-  <?php snippet('intro') ?>
-  <div class="grid text">
-    
-    <div class="column" style="--columns: 12">
-      <ul class="album-gallery">
-      <?php foreach ($page->bloc()->toBlocks() as $block): ?>
 
-        <div id="<?= $block->id() ?>" class="block block-type-<?= $block->type() ?>">
-        <?= $block->text()->kt() ?>
-        </div>
+<div class="container">
+  <?php snippet('nav') ?>
+</div>
 
-      <?php endforeach ?>   
-      </ul>
+<main class="main container">
+  <article>
+    <?php snippet('intro') ?>
+    <div class="grid text">
+      <div class="column" style="--columns: 12">
+        <ul class="album-gallery">
+        <?php foreach ($page->bloc()->toBlocks() as $block): ?>
+          <div id="<?= $block->id() ?>" class="block block-type-<?= $block->type() ?>">
+            <?= $block ?>
+          </div>
+        <?php endforeach ?>   
+        </ul>
+      </div>
     </div>
-</article>
+  </article>
 </main>
+
 <?php snippet('footer') ?>

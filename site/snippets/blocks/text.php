@@ -1,8 +1,8 @@
 <?php
-$content = $block->text()->fixTypo();
+$content = $block->text();
 $textAlign = $block->textAlign()->isNotEmpty() ? $block->textAlign() : null;
 $textSize = $block->textSize()->isNotEmpty() ? $block->textSize() : null;
-$fontFamily = $block->fontFamily()->isNotEmpty() ? $block->fontFamily() : null; // Ajout de cette ligne
+$fontFamily = $block->fontFamily()->isNotEmpty() ? $block->fontFamily() : null;
 
 $styleAttributes = [];
 if($textSize) {
@@ -15,7 +15,6 @@ if($fontFamily) {
 $styleString = !empty($styleAttributes) ? ' style="' . implode('; ', $styleAttributes) . ';"' : '';
 ?>
 
-
-<div <?= $styleString ?>  class="block-text<?php if($textAlign): ?> <?= $textAlign ?><?php endif ?>">
+<div <?= $styleString ?> class="block-text<?php if($textAlign): ?> <?= $textAlign ?><?php endif ?>">
   <?= $content ?>
 </div>

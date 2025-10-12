@@ -16,8 +16,7 @@ return [
                 '300w'  => ['width' => 300],
                 '600w'  => ['width' => 600],
                 '900w'  => ['width' => 900],
-                '1200w' => ['width' => 1200],
-                '1800w' => ['width' => 1800]
+                '1200w' => ['width' => 1200]
             ],
 
         ]
@@ -52,24 +51,6 @@ return [
         'site' => ['typo-and-paste', 'preview', 'languages']
     ],
 
-    'dlechenne.jolitypo.excludedFields' => ['code', 'tags', 'email', 'url', 'slug', 'filename', 'alt'],
-
-    'dlechenne.jolitypo' => [
-        'fr' => [
-            'rules' => ['Ellipsis', 'Dimension', 'Unit', 'Dash', 'SmartQuotes', 'FrenchNoBreakSpace', 'NoSpaceBeforeComma', 'CurlyQuote', 'Hyphen', 'Trademark']
-        ],
-        'en' => [
-            'rules' => [
-                'Ellipsis',
-                'Dimension',
-                'Numeric',
-                'Dash',
-                'EnglishQuotes',
-                'CurlyQuote',
-                'Unit'
-            ]
-        ]
-    ],
 
 
 

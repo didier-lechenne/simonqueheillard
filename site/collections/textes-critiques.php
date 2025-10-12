@@ -1,8 +1,7 @@
 <?php
 return function() {
-        return site()
+    return site()
         ->index()
-        ->filterBy('intendedTemplate', 'texte')
+        ->filterBy('template', 'texte') 
         ->filterBy('category', 'textes-critiques');     
 };
-

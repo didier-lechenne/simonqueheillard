@@ -6,24 +6,24 @@
 
     <?php if ($page->auteur()->isNotEmpty()): ?>
       <!-- <h2><?= t('Droits d\'auteur', 'Copyright') ?></h2> -->
-        <?= $page->auteur()->text()->fixTypo(); ?>
+        <?= $page->auteur()->text() ?>
     <?php endif ?>
     
 
     <?php if ($page->editeur()->isNotEmpty()): ?>
       <h2><?= t('Éditeur', 'Publisher') ?></h2>
-        <?= $page->editeur()->text()->fixTypo(); ?>
+        <?= $page->editeur()->text() ?>
     <?php endif ?>
     
     <?php if ($page->hebergement()->isNotEmpty()): ?>
       <h2><?= t('Hébergement', 'Hosting') ?></h2>
-        <?= $page->hebergement()->text()->fixTypo(); ?>
+        <?= $page->hebergement()->text() ?>
     <?php endif ?>
     
     <?php /* Utilisation du nom de champ avec tiret comme dans votre contenu */ ?>
     <?php if ($page->{'design_developpement'}()->isNotEmpty()): ?>
       <h2><?= t('Design & développement web', 'Design & Development') ?></h2>
-        <?= $page->{'design_developpement'}()->text()->fixTypo(); ?>
+        <?= $page->{'design_developpement'}()->text() ?>
     <?php endif ?>
     
 

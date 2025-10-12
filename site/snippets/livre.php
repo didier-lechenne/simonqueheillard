@@ -18,7 +18,7 @@
         <?php endif ?>
       </figure>
 
-      <h2 class="livre-excerpt-title"><?= $livre->title()->esc()->fixTypo() ?></h2>
+      <h2 class="livre-excerpt-title"><?= $livre->title()->esc() ?></h2>
       <time class="livre-excerpt-date" datetime="<?= $livre->published('c') ?>"><?= $livre->published() ?></time>
     </header>
     <?php if (($excerpt ?? true) !== false): ?>
@@ -40,8 +40,8 @@
               // Si c'est un bloc de texte, ajouter son contenu
               if ($columnBlock['type'] === 'text') {
                 $field = new Kirby\Cms\Field($page, 'text', $columnBlock['content']['text']);
-                // Appliquer fixTypo() sur l'objet Field puis convertir en texte brut
-                $contentFix .= strip_tags($field->fixTypo());
+               
+                $contentFix .= strip_tags($field->text());
               }
             }
           }
@@ -49,7 +49,7 @@
       }
       // Pour les blocs de texte directs
       elseif ($block->type() === 'text') {
-        $contentFix .= strip_tags($block->text()->fixTypo());
+        $contentFix .= strip_tags($block->text());
       }
       
       // Arrêter si nous avons déjà suffisamment de texte

@@ -44,7 +44,7 @@
 </div>
 
 <div class="column sticky" style="--columns: 3; font-size: var(--text-md); ">
-  <?= site()->contact()->text()->fixTypo(); ?>
+  <?= site()->contact()->text() ?>
 </div>
 </main>
 <?php snippet('footer') ?>

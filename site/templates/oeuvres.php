@@ -30,7 +30,7 @@
             <?php endif ?>
           
           <figcaption class="img-caption">
-            <?= $oeuvre->title()->fixTypo() ?>
+            <?= $oeuvre->title()->escape()  ?>
           </figcaption>
         </figure>
       </a>

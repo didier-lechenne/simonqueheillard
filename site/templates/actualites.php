@@ -9,7 +9,7 @@
 
 <section class="actualites">
 
-  <!-- <h3><?= $page->title()->html()->fixTypo() ?></h3> -->
+  <!-- <h3><?= $page->title()->html() ?></h3> -->
 
   <?php
   $actualites = $page->children()->listed()->sortBy('date', 'desc');
@@ -25,8 +25,8 @@
       </time>
 
         </time></div>
-        <div class="title"><?= $actualite->title()->html()->fixTypo() ?></div>
-        <div class="category"><?= $actualite->category()->html()->fixTypo() ?></div>
+        <div class="title"><?= $actualite->title()->html() ?></div>
+        <div class="category"><?= $actualite->category()->html() ?></div>
         <div class="location"><?= $actualite->location()->html() ?></div>
         <div class="city"><?= $actualite->city()->html() ?></div>
 

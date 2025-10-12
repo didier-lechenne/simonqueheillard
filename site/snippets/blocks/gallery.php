@@ -5,13 +5,18 @@
   <ul>
     <?php foreach ($block->images()->toFiles() as $image): ?>
     <li>
-      <?php snippet('image', [
-        'alt'      => $image->alt(),
-        'contain'  => $block->crop()->isTrue(),
-        'lightbox' => true,
-        'ratio'    => $block->ratio()->or('auto'),
-        'src'      => $image->url(),
-      ]) ?>
+      <a data-lightbox href="<?= $image->resize(1200)->url() ?>">
+        <img
+          src="<?= $image->resize(600)->url() ?>"
+          srcset="<?= $image->srcset() ?>"
+          sizes="(min-width: 1200px) 1200px, (min-width: 900px) 900px, (min-width: 600px) 600px, 100vw"
+          alt="<?= esc($image->alt(), 'attr') ?>"
+          style="
+            aspect-ratio: <?= $block->ratio()->or('auto') ?>;
+            object-fit: <?= $block->crop()->isFalse() ? 'contain' : 'cover' ?>
+          "
+        >
+      </a>
     </li>
     <?php endforeach ?>
   </ul>

@@ -37,7 +37,7 @@ if (!empty($url)) {
     <figure>
       <?= $videoHtml ?>
       <?php if ($caption->isNotEmpty()): ?>
-      <figcaption><?= $caption->fixTypo(); ?></figcaption>
+      <figcaption><?= $caption ?></figcaption>
       <?php endif ?>
     </figure>
     <?php endif;

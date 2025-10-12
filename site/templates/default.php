@@ -20,12 +20,11 @@
 ?>
 Default
 <main class="main">
-<?php snippet('header') ?>Default
-
+<?php snippet('header') ?>*
 <article>
-  <h1 class="h1"><?= $page->title()->esc()->fixTypo() ?></h1>
+  <h1 class="h1"><?= $page->title()->esc() ?></h1>
   <div class="text">
-    <?= $page->text()->kirbytext()->fixTypo() ?>
+    <?= $page->text()->kirbytext() ?>
   </div>
 </article>
 </main>
