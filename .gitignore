@@ -11,6 +11,7 @@
 # Dossier de travail
 /a_garder
 /kirby-jolitypo.disabled
+/site/plugins/orthotypo
 
 # Cache
 /site/cache/*
