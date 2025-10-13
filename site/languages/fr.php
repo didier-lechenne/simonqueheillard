@@ -8,7 +8,7 @@ return [
         'LC_ALL' => 'fr_FR'
     ],
     'name' => 'fr',
-    'url' => '/',
+    'url' => '/fr',
     'translations' => [
         // blocks heading     
         'blocks.heading'                                        => 'Titres',
@@ -32,6 +32,5 @@ return [
         'blocks.spacer.spacer'                                => 'Hauteur de l’espace',
         'blocks.spacer.spacer.help'                           => 'Lorsque vous cliquez sur le curseur, vous pouvez utiliser les flèches du clavier ou le défilement de la souris.',
     ],
-    'url' => NULL,
-
+   
 ];

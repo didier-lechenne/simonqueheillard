@@ -8,7 +8,7 @@ return [
         'LC_ALL' => 'en_US'
     ],
     'name' => 'en',
-    'url' => '/',
+    'url' => '/en',
     'translations' => [
     // blocks spacer
     'blocks.spacer.name'                                  => 'Space',

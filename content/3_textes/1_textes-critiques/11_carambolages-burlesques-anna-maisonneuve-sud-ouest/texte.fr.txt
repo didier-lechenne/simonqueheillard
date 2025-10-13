@@ -6,7 +6,7 @@ Titre-page: Carambolages Burlesques
 
 ----
 
-Category: textes-critiques
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://CwL7kQfNoFrhqrPI"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"432df58a-1aa1-454e-856e-6b10507c29ec","isHidden":false,"type":"image"}],"id":"5c4e1b3f-3f80-40e4-80f9-1abec909629a","width":"9/12"},{"blocks":[{"content":{"textalign":"","textsize":"text-md","fontfamily":"","text":"<p><strong>Anna Maisonneuve</strong><br>Sud Ouest<br>Septembre 2021</p>"},"id":"2434a8dc-4153-4629-91f2-b7095050a95e","isHidden":false,"type":"text"}],"id":"eacca8b2-5b64-48e2-85bf-e4d38d910a28","width":"3/12"}],"id":"4be50802-5a09-4479-b664-f21131bc7f13"}]
 
 ----
 
@@ -22,9 +22,7 @@ Adresse: Sud Ouest
 
 ----
 
-Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://CwL7kQfNoFrhqrPI"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"432df58a-1aa1-454e-856e-6b10507c29ec","isHidden":false,"type":"image"}],"id":"5c4e1b3f-3f80-40e4-80f9-1abec909629a","width":"9/12"},{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p><strong>Anna Maisonneuve</strong><br>Sud Ouest<br>Septembre 2021</p>"},"id":"2434a8dc-4153-4629-91f2-b7095050a95e","isHidden":false,"type":"text"}],"id":"eacca8b2-5b64-48e2-85bf-e4d38d910a28","width":"3/12"}],"id":"4be50802-5a09-4479-b664-f21131bc7f13"}]
-
-
+Category: textes-critiques
 
 ----
 

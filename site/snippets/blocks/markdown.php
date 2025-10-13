@@ -2,8 +2,7 @@
 <?php
 $textAlign = $block->textAlign()->isNotEmpty() ? $block->textAlign() : null;
 $textSize = $block->textSize()->isNotEmpty() ? $block->textSize() : null;
-$fontFamily = $block->fontFamily()->isNotEmpty() ? $block->fontFamily() : null; // Ajout de cette ligne
-
+$fontFamily = $block->fontFamily()->isNotEmpty() ? $block->fontFamily() : null; 
 $styleAttributes = [];
 if($textSize) {
   $styleAttributes[] = "font-size: var(--" . $textSize . ")";
@@ -16,7 +15,7 @@ $styleString = !empty($styleAttributes) ? ' style="' . implode('; ', $styleAttri
 ?>
 
 <div <?= $styleString ?> class="block block-type-markdown<?php if($textAlign): ?> <?= $textAlign ?><?php endif ?>">
-    <?= $block->text()->kt()->collectFootnotes() ?>
+    <?= $block->text()->orthotypo()->kt()->collectFootnotes() ?>
 </div>
 
 

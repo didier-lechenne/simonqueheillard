@@ -4,10 +4,14 @@ return [
   'locale' => 'fr_FR.utf8',
 	'date.handler' => 'date',
 	'date.timezone' => 'Europe/Paris',
+  'url' => false,
+  
   'panel' => [
-    'css' => 'assets/css/panel.css',
-    'js'  => 'assets/js/panel.js'
+      'css'  => 'assets/css/panel.css',
+      'js'   => 'assets/js/panel.js'
   ],
+
+
 
 
     'thumbs' => [
@@ -36,7 +40,20 @@ return [
     'yaml.handler' => 'symfony',
     'smartypants' => false,
 
+    // 'routes' => [
+    //     [
+    //       'pattern' => '(:any)',
+    //       'action'  => function ($uid) {
+    //         $page = page($uid);
 
+    //         if ($page?->intendedTemplate() === 'link') {
+    //           return go($page->link(), 301);
+    //         }
+
+    //         return $page;
+    //       }
+    //     ]
+    //     ],
 
     'viewButtons' => [
         'page' => ['typo-and-paste', 'preview', 'settings', 'languages', 'status'],

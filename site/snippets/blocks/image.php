@@ -33,7 +33,7 @@ if ($block->location()->value() === 'web') {
 
   <?php if ($block->caption()->isNotEmpty()): ?>
   <figcaption class="img-caption">
-    <?= $block->caption()->fixTypo() ?>
+    <?= $block->caption()->orthotypo()->kt() ?>
   </figcaption>
   <?php endif ?>
 </figure>

@@ -1,0 +1,25 @@
+Title: Somnambule au pays de la raison pure
+
+----
+
+Titre-page: Somnambule au pays de la raison pure
+
+----
+
+Date: 2024-11-01
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"font-family-serif","text":"Poète des images, plas­­ti­­cien des mots, Simon Quéheillard pose un regard décalé sur le monde où son approche du réel se rêve dans les œuvres qu’il élabore.\nDeux approches a priori paral­­lèles, qui ne cessent de se croi­­ser, de s’ar­­ti­­cu­­ler au sein de formes singu­­lières et inat­­ten­­dues : flaques d’eau recons­­ti­­tuées sur le bitume des trot­­toirs, vidéos aux sujets impro­­bables où le burlesque le dispute souvent à une réali­­sa­­tion minu­­tieuse et un enga­­ge­­ment sans conces­­sion…  \nSi Fran­­cis Ponge veille en fili­­grane sur cette quête d’un quoti­­dien que révè­­le­­rait l’art, dans le travail photo­­gra­­phique proposé par l’ar­­tiste, c’est Nicé­­phore Niepce et son obses­­sion de la lumière qui n’est parfois pas très loin.  \nEntre rêve éveillé et réflexion songeuse, Simon déve­­loppe une conscience vaga­­bonde propre à mettre en œuvre, parfois de manière incon­­grue, le monde sensible et les objets qui le peuplent.  \nFunam­­bule des concepts, somnam­­bule au pays de la raison pure, c’est pour notre plus grand plai­­sir de spec­­ta­­teur qu’il navigue dans les méandres de son imagi­­naire avec son intui­­tion pour unique bous­­sole.\n\nNicole Vitré-Méchain \nLa maison François Mechain, Novembre 2024"},"id":"0494f308-8057-46e7-be79-3c19cbb352ef","isHidden":false,"type":"markdown"}],"id":"9443606a-92a4-4b37-b7be-9c1eb63427d6","width":"8/12"},{"blocks":[],"id":"92304480-644e-4f59-a96d-35096cc7bb42","width":"4/12"}],"id":"d6b39e52-c7f4-456a-b9e6-0afe6de980cd"}]
+
+----
+
+Contexte: Nicole Mechain
+
+----
+
+Adresse: Maison François Mechain
+
+----
+
+Uuid: w6YwNPy5OpbjqGYo

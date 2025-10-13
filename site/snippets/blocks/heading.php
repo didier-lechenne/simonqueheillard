@@ -12,5 +12,5 @@ $classAttr = !empty($classes) ? ' class="' . implode(' ', $classes) . '"' : '';
 ?>
 
 <<?= $level ?><?= $classAttr ?>>
-  <?= $block->text()->kt() ?>
+  <?= $block->text()->orthotypo()->kt() ?>
 </<?= $level ?>>

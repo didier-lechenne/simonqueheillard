@@ -1,0 +1,33 @@
+Title: La comédie de la destruction
+
+----
+
+Titre-page: La comédie de la destruction
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://1LScHy8ozDQf33w1"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0f28b02b-e53f-4937-a603-25ae9db75958","isHidden":false,"type":"image"}],"id":"a431fc6b-01d1-4b0b-8eaf-f4f1348833dc","width":"8/12"},{"blocks":[{"content":{"textalign":"","textsize":"text-md","fontfamily":"","text":"**Didier Arnaudet**\nJunk­Page\nNovembre 2021\n\n(link: https://www.laforetdartcontemporain.com/2020/02/simon-queheillard text: La Forêt d’Art Contemporain target: _blank)"},"id":"dd71bcbb-3742-4e3d-9c9d-ff13dc923d9e","isHidden":false,"type":"markdown"}],"id":"334d7024-fe6e-4323-8416-1e25337c4a89","width":"4/12"}],"id":"c457a9c3-5e08-4dee-a8ca-e47ec406526b"}]
+
+----
+
+Date: 2021-11-01
+
+----
+
+Contexte: Didier Arnaudet
+
+----
+
+Adresse: JunkPage
+
+----
+
+Category: textes-critiques
+
+----
+
+Bloc: 
+
+----
+
+Uuid: Rd32hrPGUWz3LheI

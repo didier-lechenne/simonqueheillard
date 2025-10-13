@@ -1,6 +1,24 @@
 title: Configuration du site
 
+columns:
+  - width: 2/3
+    sections:
+      main_pages:
+        type: pages
+        headline: Toutes les rubriques
+        layout: cardlets
+        status: listed
+        query: site.children.listed()
+        info: "{{ page.children.count }} élements"
+        # info: "{{ page.children.count }} {{ page.title }}"
+        
+
+
+
 tabs:
+
+
+
   oeuvres:
     label: Oeuvres
     icon: file-image

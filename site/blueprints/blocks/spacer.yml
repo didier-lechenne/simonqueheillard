@@ -15,4 +15,4 @@ fields:
     max: 1000
     help: blocks.spacer.spacer.help
     tooltip:
-      after: px
+      after: mm

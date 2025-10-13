@@ -16,6 +16,7 @@ columns:
         parent: kirby.page('textes/textes-critiques')
         template: texte
         layout: list
+        info: "{{ page.date.toDate('Y') }}  "
         sortable: true
 
   - width: 1/2

@@ -22,7 +22,7 @@
   </ul>
   <?php if ($block->caption()->isNotEmpty()): ?>
   <figcaption>
-    <?= $block->caption()->fixTypo() ?>
+    <?= $block->caption()->orthotypo() ?>
   </figcaption>
   <?php endif ?>
 </figure>

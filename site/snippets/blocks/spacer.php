@@ -1,1 +1,1 @@
-<div style="height: <?= $data->spacer() . 'px' ?>;"></div>
+<div style="height: <?= $block->spacer() . 'px' ?>;"></div>

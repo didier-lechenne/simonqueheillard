@@ -23,10 +23,10 @@ fields:
 
   textSize:
     label: Taille du texte ?
-    help: (Par default 18px)
+    help: (Par default 16px)
     type: select
     # empty: false
-    default: "text-lg"
+    default: "text-md"
     width: 1/3
     options:
       text-xs: 12px
@@ -42,7 +42,7 @@ fields:
       help: (Par default sans-serif)
       type: select
       # empty: false
-      default: "font-family-sans"
+      default: "font-family-serif"
       width: 1/3
       options:
         font-family-sans: Sans
@@ -56,10 +56,7 @@ fields:
       - bold
       - italic
       - underline
-      - strike
       - link
-      - email
-      - file
       - sub
       - sup
       - clear

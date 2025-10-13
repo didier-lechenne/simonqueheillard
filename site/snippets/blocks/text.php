@@ -1,5 +1,5 @@
 <?php
-$content = $block->text();
+$content = $block->text()->orthotypo();
 $textAlign = $block->textAlign()->isNotEmpty() ? $block->textAlign() : null;
 $textSize = $block->textSize()->isNotEmpty() ? $block->textSize() : null;
 $fontFamily = $block->fontFamily()->isNotEmpty() ? $block->fontFamily() : null;
@@ -16,5 +16,5 @@ $styleString = !empty($styleAttributes) ? ' style="' . implode('; ', $styleAttri
 ?>
 
 <div <?= $styleString ?> class="block-text<?php if($textAlign): ?> <?= $textAlign ?><?php endif ?>">
-  <?= $content ?>
+  <?= $content->orthotypo() ?>
 </div>

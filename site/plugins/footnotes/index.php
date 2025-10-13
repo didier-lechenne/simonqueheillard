@@ -7,7 +7,7 @@ require_once __DIR__ . '/lib/footnotes.php';
 Kirby::plugin('sylvainjule/footnotes', [
     'options' => array(
         'wrapper'           => 'div',
-        'back'              => '&#8617;',
+        'back'              => '<svg class="icon-retour" viewBox="0 0 103.61 77.17"><path d="m31.38,19.07l6.58,6.45-11.69,11.56-6.72,5.64.13.4,13.03-.81h38.56c9.27,0,17.74-4.7,17.74-15.86s-8.47-15.86-17.74-15.86V1.47c14.92,0,27.68,8.33,27.68,24.99s-12.76,24.99-27.68,24.99h-38.56l-13.03-.81-.13.4,6.72,5.64,11.69,11.56-6.58,6.45L3.57,46.88l27.81-27.81Z"></path></svg>',
         'links'             => true,
         'snippet.container' => 'footnotes_container',
         'snippet.entry'     => 'footnotes_entry',

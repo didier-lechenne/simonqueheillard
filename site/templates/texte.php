@@ -6,7 +6,7 @@
 
 <main class="container">
 <article>
-
+<?php snippet('intro') ?>
 
 <?php foreach ($page->layout()->toLayouts() as $layout): ?>
 <section class="grid text <?= $page->category() ?>" id="<?= $layout->id() ?>">

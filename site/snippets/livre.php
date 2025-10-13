@@ -12,7 +12,7 @@
 <article class="livre-excerpt">
   <a href="<?= $livre->url() ?>">
     <header>
-      <figure class="img" style="--w: 3; --h:4">
+      <figure class="img" >
         <?php if ($cover = $livre->cover()): ?>
           <img src="<?= $cover->url() ?>" alt="<?= $cover->alt()->esc() ?>">
         <?php endif ?>

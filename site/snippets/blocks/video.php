@@ -2,7 +2,7 @@
 use Kirby\Cms\Html;
 
 /** @var \Kirby\Cms\Block $block */
-$caption = $block->caption();
+$caption = $block->caption()->orthotypo();
 
 
 // Initialiser les variables

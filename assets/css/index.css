@@ -1,7 +1,7 @@
 @font-face {
   font-family: "PT Serif";
-  src: url("../fonts/PTSerif-Regular.woff2") format("woff2"),
-    url("../fonts/PTSerif-Regular.woff") format("woff");
+  src: url("../fonts/PT_Serif/PTSerif-Regular.woff2") format("woff2"),
+    url("../fonts/PT_Serif/PTSerif-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
   font-family: "PT Serif";
-  src: url("../fonts/PTSerif-BoldItalic.woff2") format("woff2"),
-    url("../fonts/PTSerif-BoldItalic.woff") format("woff");
+  src: url("../fonts/PT_Serif/PTSerif-BoldItalic.woff2") format("woff2"),
+    url("../fonts/PT_Serif/PTSerif-BoldItalic.woff") format("woff");
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -18,8 +18,8 @@
 
 @font-face {
   font-family: "PT Serif";
-  src: url("../fonts/PTSerif-Italic.woff2") format("woff2"),
-    url("../fonts/PTSerif-Italic.woff") format("woff");
+  src: url("../fonts/PT_Serif/PTSerif-Italic.woff2") format("woff2"),
+    url("../fonts/PT_Serif/PTSerif-Italic.woff") format("woff");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -27,8 +27,8 @@
 
 @font-face {
   font-family: "PT Serif";
-  src: url("../fonts/PTSerif-Bold.woff2") format("woff2"),
-    url("../fonts/PTSerif-Bold.woff") format("woff");
+  src: url("../fonts/PT_Serif/PTSerif-Bold.woff2") format("woff2"),
+    url("../fonts/PT_Serif/PTSerif-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -48,7 +48,7 @@
   --color-light: #efefef;
 
   --color-gray-700: hsl(0, 0%, calc(45% + 0%));
-  --prose-color-text: var(--color-gray-700);
+  --prose-color-text: var(--color-black);
   --color-text: var(--color-black);
 
   --color-text-grey: var(--color-grey);
@@ -355,13 +355,13 @@ h3 {
   color: var(--color-black);
 }
 
-.text a[href^="https://"]::after,
+/* .text a[href^="https://"]::after,
 .text a[href^="mailto:"]::after {
   content: "↗︎";
   display: inline-block;
   margin-left: 0.125em;
   font-size: smaller;
-}
+} */
 
 .text :first-child {
   margin-top: 0;
@@ -376,6 +376,7 @@ h3 {
   margin-bottom: 1.5rem;
   text-wrap: pretty;
   color: var(--prose-color-text);
+  hyphens: auto;
 }
 .text ul,
 .text ol {
@@ -633,18 +634,43 @@ video {
   color: var(--color-text-grey);
 }
 
+
+
 .footnotereverse svg {
+  width: 1.7ch;
   background-color: unset;
   fill: var(--color-grey);
+  display:inline;
 }
 .footnotereverse:hover svg {
+
   background-color: unset;
   fill: var(--color-black);
+}
+
+.footnotereverse a {
+  width: 1.7ch;
+  color: var(--color-grey);
+  background-color: unset;
+  text-decoration: none;
+}
+
+.footnotereverse:hover {
+  color: var(--color-black);
 }
 
 .k-activation {
   display: none;
 }
+
+.block-type-image {
+  margin-top: var(--gutter) !important;
+}
+
+.block-type-image:first-child {
+  margin-top: 0 !important;
+}
+
 
 /* ------------------------------------------------------------------------ sup */
 
@@ -657,6 +683,11 @@ video {
 }
 
 :where(sup, sub) {
+  /* padding-left: 0.2ch;
+  line-height: 0;
+  position: relative; */
+  /* top: 1px; */
+
   position: relative;
   line-height: 0;
   vertical-align: baseline;
@@ -668,6 +699,7 @@ video {
 .footnotes-container {
   margin-top: 2em;
   padding-top: 1em;
+   
 }
 
 .footnotes-container:before {
@@ -677,18 +709,25 @@ video {
   height: 2px;
   background: var(--color-black);
   margin-bottom: 1.5rem;
+ 
 }
 
 .footnotes-container ol {
   font-size: 0.85rem;
-  line-height: 120%;
-  margin-left: unset !important;
+  line-height: 135%;
+  /* margin-left: unset !important; */
   padding: 0;
+  margin-left: 1rem;
+}
+
+.footnotes-container ol li {
+  padding-bottom: 1em;
 }
 
 li.footnote-item {
   list-style: none; /* Supprime le marqueur par défaut */
   position: relative;
+  padding-top: 1em;
 }
 
 li.footnote-item::marker {
@@ -742,7 +781,7 @@ li.footnote-item::before {
 
 .blocks figcaption,
 .audio-block figcaption {
-  padding: 0;
+  padding-top: 0.75rem;
   line-height: 1.5em;
   font-size: var(--text-sm);
   color: var(--color-gray-700);

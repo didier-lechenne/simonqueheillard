@@ -11,7 +11,36 @@
 
     get command() {
       return () => {
-        this.editor.insert("<sup>texte</sup>");
+        // Obtenons d'abord la sélection actuelle, si l'API le permet
+        let selection = "";
+        
+        try {
+          // Essayons différentes méthodes pour obtenir la sélection
+          if (this.editor.getSelection) {
+            selection = this.editor.getSelection();
+          } else if (this.editor.codemirror && this.editor.codemirror.getSelection) {
+            selection = this.editor.codemirror.getSelection();
+          }
+        } catch (e) {
+          // En cas d'erreur, nous utiliserons un texte par défaut
+          selection = "";
+        }
+        
+        // Si nous avons une sélection, insérons les balises autour
+        if (selection && selection.length > 0) {
+          // Supprimons d'abord la sélection
+          try {
+            this.editor.deleteSelection();
+          } catch (e) {
+            // Si cette méthode n'existe pas, nous devrons insérer le texte complet
+          }
+          
+          // Insérons le texte avec les balises
+          this.editor.insert("<sup>" + selection + "</sup>");
+        } else {
+          // Sinon, insérons simplement un placeholder
+          this.editor.insert("<sup>texte</sup>");
+        }
       };
     },
 
@@ -38,7 +67,36 @@
 
     get command() {
       return () => {
-        this.editor.insert("<sub>texte</sub>");
+        // Obtenons d'abord la sélection actuelle, si l'API le permet
+        let selection = "";
+        
+        try {
+          // Essayons différentes méthodes pour obtenir la sélection
+          if (this.editor.getSelection) {
+            selection = this.editor.getSelection();
+          } else if (this.editor.codemirror && this.editor.codemirror.getSelection) {
+            selection = this.editor.codemirror.getSelection();
+          }
+        } catch (e) {
+          // En cas d'erreur, nous utiliserons un texte par défaut
+          selection = "";
+        }
+        
+        // Si nous avons une sélection, insérons les balises autour
+        if (selection && selection.length > 0) {
+          // Supprimons d'abord la sélection
+          try {
+            this.editor.deleteSelection();
+          } catch (e) {
+            // Si cette méthode n'existe pas, nous devrons insérer le texte complet
+          }
+          
+          // Insérons le texte avec les balises
+          this.editor.insert("<sub>" + selection + "</sub>");
+        } else {
+          // Sinon, insérons simplement un placeholder
+          this.editor.insert("<sub>texte</sub>");
+        }
       };
     },
 
@@ -150,7 +208,7 @@
           this.editor.insert("“\u202F" + selection + "\u202F”");
         } else {
           // Sinon, insérons simplement un placeholder
-          this.editor.insert("“\u202Ftexte\u202F”");
+         this.editor.insert("“\u202Ftexte\u202F”");
         }
       };
     },
@@ -164,6 +222,3 @@
     },
   });
 })();
-
-
-
