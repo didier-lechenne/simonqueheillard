@@ -19,20 +19,6 @@ columns:
     width: 2/3
     fields:
 
-      titre_page:
-        label: Titre
-        type: writer
-        nodes: false
-        # width: 3/4
-        marks:
-          - bold
-          - italic
-          - underline
-          - strike
-          - sub
-          - sup
-          - clear
-
       layout:
           label: Layout
           type: layout
@@ -60,27 +46,14 @@ columns:
             - spacer
             - pdf
 
-      # text:
-      #   label: Description
-      #   type: markdown
-      #   buttons:
-      #     - headlines
-      #     - bold
-      #     - italic
-      #     - link
-      #     - strikethrough
-      #     - ul
-      #     - ol
-      #     - blockquote
-      #     - highlight
-      #     - footnote
-      #     - invisibles
-      #     - divider
-      #     - sup
-      #     - sub
-      #     - guillemetsFrancais
-      #     - guillemetsSecondniveau
-      #     - typo-and-paste
+          default:
+            - type: columns
+              content:
+                layout:
+                  - columns:
+                      - width: 8/12
+                      - width: 4/12
+
 
 
   sidebar:

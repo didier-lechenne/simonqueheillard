@@ -1,0 +1,8 @@
+type: pages
+label: Œuvres
+parent: kirby.page("oeuvres")
+info: "{{ page.date.toDate('Y') }}"
+template: oeuvre
+layout: list
+empty: Pas encore d'Œuvres
+sortable: true

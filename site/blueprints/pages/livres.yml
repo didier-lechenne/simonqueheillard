@@ -1,8 +1,25 @@
 title: Livres
 icon: 📖
 
+
+
 columns:
-  - width: 1/1
+  - width: 1/4
     sections:
-      livres:
+      drafts:
+        extends: sections/livres-list
+        label: non publiés
+        status: draft
+       
+      unlisted:
+        extends: sections/livres-list
+        label: non listés
+        status: unlisted
+
+
+  - width: 3/4
+    sections:
+      infos:
         extends: sections/livres
+        label: publiés
+        status: listed

@@ -1,10 +1,12 @@
 type: pages
 label: Livres
 parent: kirby.page("livres")
-info: "<br> {{ page.editeur }} <br> {{ page.date.toDate('Y') }}"
+info: "{{ page.date.toDate('Y') }}"
 template: livre
-empty: Pas encore de livres
 layout: cards
+empty: Pas encore de livres
+sortable: true
+
 image:
   query: page.cover
   cover: true

@@ -14,8 +14,8 @@ if($fontFamily) {
 $styleString = !empty($styleAttributes) ? ' style="' . implode('; ', $styleAttributes) . ';"' : '';
 ?>
 
-<div <?= $styleString ?> class="block block-type-markdown<?php if($textAlign): ?> <?= $textAlign ?><?php endif ?>">
-    <?= $block->text()->orthotypo()->kt()->collectFootnotes() ?>
+<div <?= $styleString ?> class="no-text-style block block-type-markdown<?php if($textAlign): ?> <?= $textAlign ?><?php endif ?>">
+    <?= $block->text()->kirbytext()->collectFootnotes() ?>
 </div>
 
 

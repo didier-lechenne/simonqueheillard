@@ -1,5 +1,7 @@
 title: Textes
 icon: paragraph
+num: '{{ page.date.toDate("YmdHi") }}'
+
 
 options:
   changeSlug: false
@@ -18,6 +20,7 @@ columns:
         layout: list
         info: "{{ page.date.toDate('Y') }}  "
         sortable: true
+        sortBy: date desc
 
   - width: 1/2
     sections:
@@ -27,4 +30,6 @@ columns:
         parent: kirby.page('textes/lettres-conversations')
         template: texte
         layout: list
+        info: "{{ page.date.toDate('Y') }}  "
         sortable: true
+        sortBy: date desc

@@ -7,23 +7,23 @@ options:
   delete: false
 
 columns:
-  - width: 2/3
-    sections:
-      listed:
-        extends: sections/actualites
-        label: publiés
-        status: listed
-
-  - width: 1/3
+  - width: 1/4
     sections:
       drafts:
-        extends: sections/actualites
+        extends: sections/actualites-list
         label: non publiés
         status: draft
        
       unlisted:
-        extends: sections/actualites
+        extends: sections/actualites-list
         label: non listés
         status: unlisted
-        width: 1/3
+
+
+  - width: 3/4
+    sections:
+      infos:
+        extends: sections/actualites
+        label: publiés
+        status: listed
 

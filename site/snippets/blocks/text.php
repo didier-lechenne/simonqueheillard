@@ -15,6 +15,6 @@ if($fontFamily) {
 $styleString = !empty($styleAttributes) ? ' style="' . implode('; ', $styleAttributes) . ';"' : '';
 ?>
 
-<div <?= $styleString ?> class="block-text<?php if($textAlign): ?> <?= $textAlign ?><?php endif ?>">
+<div <?= $styleString ?> class="no-text-style block-text<?php if($textAlign): ?> <?= $textAlign ?><?php endif ?>">
   <?= $content->orthotypo() ?>
 </div>

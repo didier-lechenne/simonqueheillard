@@ -1,0 +1,6 @@
+type: pages
+label: Livres
+parent: kirby.page("livres")
+template: livre
+empty: Pas encore de livres
+layout: list

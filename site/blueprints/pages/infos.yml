@@ -10,11 +10,22 @@ options:
   delete: false
 
 columns:
-  main:
-    width: 2/3
+  - width: 1/4
+    sections:
+      drafts:
+        extends: sections/a-propos
+        label: non publiés
+        status: draft
+       
+      unlisted:
+        extends: sections/a-propos
+        label: non listés
+        status: unlisted
+
+
+  - width: 3/4
     sections:
       infos:
         extends: sections/a-propos
-    
-
-        
+        label: publiés
+        status: listed

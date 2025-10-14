@@ -85,7 +85,7 @@
   --text-xs: 0.75rem; /* 0.75rem (12px) */
   --text-sm: 0.875rem; /* 0.875rem (14px) */
   --text-md: 1rem; /* 1rem (16px) */
-  --text-lg: 1.125rem; /* 1.125rem (18px) */
+  --text-lg: 1.125rem; /* 1.125rem (18px) par default*/
   --text-xl: 1.25rem; /* 1.25rem (20px) */
   --text-2xl: 1.5rem; /* 1.5rem (24px) */
   --text-3xl: 1.75rem; /* 1.875rem (30px) */
@@ -369,14 +369,15 @@ h3 {
 .text :last-child {
   margin-bottom: 0;
 }
-.text p,
-.text .block-text,
+.text :not(figcaption):not(.no-text-style) > p,
 .text ul,
 .text ol {
   margin-bottom: 1.5rem;
   text-wrap: pretty;
   color: var(--prose-color-text);
   hyphens: auto;
+  font-family: var(--font-family-serif);
+  font-size: var(--text-lg);
 }
 .text ul,
 .text ol {
@@ -1112,7 +1113,7 @@ input:focus-visible + label {
     grid-column: span var(--columns);
   }
   .text {
-    font-size: var(--text-xl);
+    /* font-size: var(--text-xl); */
     line-height: var(--leading-normal);
   }
 

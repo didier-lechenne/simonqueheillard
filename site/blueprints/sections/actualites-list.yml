@@ -1,0 +1,7 @@
+type: pages
+label: Actualites
+parent: site.find("actualites")
+sortBy: date desc
+template: actualite
+empty: Pas encore actualites
+layout: list

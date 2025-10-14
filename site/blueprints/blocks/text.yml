@@ -23,10 +23,10 @@ fields:
 
   textSize:
     label: Taille du texte ?
-    help: (Par default 16px)
+    help: (Par default 18px)
     type: select
     # empty: false
-    default: "text-md"
+    default: "text-lg"
     width: 1/3
     options:
       text-xs: 12px
@@ -39,7 +39,7 @@ fields:
       
   fontFamily:
       label: Serif ou Sans ?
-      help: (Par default sans-serif)
+      help: (Par default serif)
       type: select
       # empty: false
       default: "font-family-serif"

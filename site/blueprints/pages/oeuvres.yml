@@ -9,8 +9,24 @@ icon: 📖
 #   delete: false
 #   subpages: false
 
+
 columns:
-  - width: 1/1
+  - width: 1/4
     sections:
-      oeuvres:
+      drafts:
+        extends: sections/oeuvres-list
+        label: non publiés
+        status: draft
+       
+      unlisted:
+        extends: sections/oeuvres-list
+        label: non listés
+        status: unlisted
+
+
+  - width: 3/4
+    sections:
+      infos:
         extends: sections/oeuvres
+        label: publiés
+        status: listed

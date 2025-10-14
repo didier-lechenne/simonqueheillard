@@ -10,7 +10,7 @@
 <section id="textes"> 
   <section class="grid">
     <?php
-    $textes = $page->find('textes-critiques')->children()->listed();
+    $textes = $page->find('textes-critiques')->children()->listed()->sortBy('num', 'asc');;
     $titre_textes = $page->find('textes-critiques')->title()->text();
     $lettres = page('textes')->find('lettres-conversations')->children()->listed();
     $titre_lettres = $page->find('lettres-conversations')->title()->text();
