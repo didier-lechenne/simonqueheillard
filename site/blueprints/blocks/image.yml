@@ -1,0 +1,46 @@
+name: Image
+icon: image
+preview: image
+
+fields:
+  location:
+    label: Emplacement
+    type: radio
+    columns: 2
+    default: kirby
+    options:
+      kirby: Ce site web
+      web: Source externe
+  
+  image:
+    label: Image
+    type: files
+    query: page.images
+    multiple: false
+    uploads: true
+    when:
+      location: kirby
+  
+  url:
+    label: URL
+    type: url
+    when:
+      location: web
+  
+  metadata:
+    extends: fields/image-metadata
+  
+  ratio:
+    label: Proportions
+    type: select
+    placeholder: Auto
+    width: 1/2
+    options:
+      auto: Auto
+      1/1: "1:1"
+      16/9: "16:9"
+  
+  crop:
+    label: Recadrer
+    type: toggle
+    width: 1/2

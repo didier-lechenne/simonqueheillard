@@ -5,10 +5,11 @@ $srcset = null;
 
 if ($block->location()->value() === 'web') {
     $alt = $block->alt();
+    $caption = $block->caption();
+    $link = $block->link();
     $src = $block->src();
     $fullSrc = $src;
 } else if ($image = $block->image()->toFile()) {
-    // Tout vient du fichier maintenant
     $alt = $image->alt();
     $caption = $image->caption();
     $link = $image->link();

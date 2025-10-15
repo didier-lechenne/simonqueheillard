@@ -1,0 +1,15 @@
+title: Image
+
+accept: 
+  type: image
+
+columns:
+  - width: 1/2
+    sections:
+      content:
+        extends: fields/image-metadata
+  
+  - width: 1/2
+    sections:
+      meta:
+        extends: fields/image-metadata

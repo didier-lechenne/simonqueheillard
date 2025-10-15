@@ -1,0 +1,14 @@
+type: fields
+fields:
+  alt:
+    label: Texte alternatif
+    type: text
+  
+  caption:
+    label: Légende
+    type: writer
+    inline: true
+  
+  link:
+    label: Lien
+    type: url
