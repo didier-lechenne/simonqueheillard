@@ -2,19 +2,32 @@ Title: Ce que j’ai sous les yeux (2e partie)
 
 ----
 
-Bloc: [{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>La deuxième partie du diptyque «&nbsp;Ce que j’ai sous les yeux&nbsp;» présente des séquences vidéos dont l’apparition du reflet dans les flaques d’eau est orchestrée par le vent, les feuilles d’arbres et les nuages. Le mouvement aléatoire, le hasard et la nature déploient un nouveau phénomène d’apparition.</p>"},"id":"1555094e-3b0b-4cb2-a011-33c6c376e139","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://Rsq2aKFHSHhKtJfJ"],"poster":["file://E4ogFlfKqgjP4gOi"],"caption":"Vidéo, 17mn 40s mini dv, son, couleur, 2004","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"64a985ad-799f-46d1-9b10-ea26d370c9af","isHidden":false,"type":"video"}]
-
-----
-
 Cover: - 'file://fcr8sxRKxmXtIBgv'
 
 ----
 
-Descriptif: Vidéo, 17mn 40s mini dv, son, couleur, 2004
+Bloc: [{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>La deuxième partie du diptyque «&nbsp;Ce que j’ai sous les yeux&nbsp;» présente des séquences vidéos dont l’apparition du reflet dans les flaques d’eau est orchestrée par le vent, les feuilles d’arbres et les nuages. Le mouvement aléatoire, le hasard et la nature déploient un nouveau phénomène d’apparition.</p>"},"id":"1555094e-3b0b-4cb2-a011-33c6c376e139","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://Rsq2aKFHSHhKtJfJ"],"poster":["file://E4ogFlfKqgjP4gOi"],"caption":"Vidéo, 17mn 40s mini dv, son, couleur, 2004","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"64a985ad-799f-46d1-9b10-ea26d370c9af","isHidden":false,"type":"video"}]
+
+----
+
+Files:
+
+- 'file://fcr8sxRKxmXtIBgv'
+- 'file://E4ogFlfKqgjP4gOi'
+- 'file://Nu7tkXJab1h3Bq9x'
+- 'file://Rsq2aKFHSHhKtJfJ'
 
 ----
 
 Date: 2004-01-01
+
+----
+
+Date-fin: 
+
+----
+
+Descriptif: Vidéo, 17mn 40s mini dv, son, couleur, 2004
 
 ----
 

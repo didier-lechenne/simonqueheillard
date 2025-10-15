@@ -20,14 +20,12 @@ fields:
 
     fieldsets:
       - heading
-      - text
       - markdown
       - list
       - image
       - gallery
       - video
       - audio
-      - footnotes
       - spacer
       - pdf
       

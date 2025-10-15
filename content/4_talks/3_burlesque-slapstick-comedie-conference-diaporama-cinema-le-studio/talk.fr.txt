@@ -1,0 +1,37 @@
+Title: Burlesque, Slapstick
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"","text":"<p>Slapstick, en anglais, signifie coup de bâton. Il se dit d'un genre de comédie impliquant une part de violence physique volontairement exagérée. Aux États-Unis, on dit aussi Knockabout Comedy, qui signifie maltraiter, brutaliser. Ce travail de recherche, au croisement de l'histoire sociale et du cinéma, décrit ce que pourrait être une comédie de la maltraitance, et la fonction du rire comme brimade sociale. </p>"},"id":"1539fd22-8c43-4489-97ca-87471155029e","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://GaSex4ZnG0oncm1G"],"poster":[],"caption":"","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"99fe902f-fbb1-40a6-821e-beb634a4bf9b","isHidden":false,"type":"video"}],"id":"c5fb2fc1-ee6d-4af0-8bf8-6784abc5440a","width":"8/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"font-family-serif","text":"<p>À l'invitation de Cinémas 93, projection du film De commencements en commencements (Spectre Production, 2016), suivie de la conférence-Diaporama \"Burlesque, Slapstick, Comédie\", enregistré au cinéma Le studio, à Aubervilliers (Île-de-France), le 10 novembre 2017.</p>"},"id":"b52870b0-fa64-456c-9937-2beb22ff7e33","isHidden":false,"type":"text"}],"id":"d32eed48-0e7c-4ec2-b68c-4ce5cbeac6fd","width":"4/12"}],"id":"04c41b79-77ca-46f7-a883-29bb977d1974"}]
+
+----
+
+Files: - 'file://GaSex4ZnG0oncm1G'
+
+----
+
+Date: 2017-11-10
+
+----
+
+Category: projection, conférence
+
+----
+
+Location: Cinémas 93
+
+----
+
+City: Aubervilliers
+
+----
+
+Titre-page: Burlesque, Slapstick
+
+----
+
+Bloc: 
+
+----
+
+Uuid: bzYdov6SOFTdTnFV

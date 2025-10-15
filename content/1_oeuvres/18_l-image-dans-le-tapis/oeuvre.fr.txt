@@ -2,15 +2,26 @@ Title: L’image dans le tapis
 
 ----
 
-Bloc: [{"content":{"location":"kirby","image":["file://VhEWrUgD8APZBEq7"],"src":"","alt":"","caption":"<strong>L’image dans le tapis</strong>","link":"","ratio":"","crop":"false"},"id":"9124f57a-88d2-48fc-9b4a-5dd01cf4bdcf","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://tmZ6ZwdQ2VRwctEh"],"src":"","alt":"","caption":"<strong>Craie, vent, débris</strong>","link":"","ratio":"","crop":"false"},"id":"340b6723-d652-456d-87d1-ee1a4a692549","isHidden":false,"type":"image"}]
-
-----
-
 Cover: - 'file://VhEWrUgD8APZBEq7'
 
 ----
 
+Bloc: [{"content":{"location":"kirby","image":["file://VhEWrUgD8APZBEq7"],"src":"","alt":"","caption":"<strong>L’image dans le tapis</strong>","link":"","ratio":"","crop":"false"},"id":"9124f57a-88d2-48fc-9b4a-5dd01cf4bdcf","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://tmZ6ZwdQ2VRwctEh"],"src":"","alt":"","caption":"<strong>Craie, vent, débris</strong>","link":"","ratio":"","crop":"false"},"id":"340b6723-d652-456d-87d1-ee1a4a692549","isHidden":false,"type":"image"}]
+
+----
+
+Files:
+
+- 'file://tmZ6ZwdQ2VRwctEh'
+- 'file://VhEWrUgD8APZBEq7'
+
+----
+
 Date: 
+
+----
+
+Date-fin: 
 
 ----
 

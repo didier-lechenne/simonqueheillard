@@ -2,19 +2,33 @@ Title: Une embuscade en suspens
 
 ----
 
-Bloc: [{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Des objets et un personnage entrent dans une suite de collisions brutales engendrées par des chutes d’arbres abattus à la tronçonneuse. Partant de la performance, de la comédie burlesque et du théâtre d’objet, le film montre les deux faces d’un gigantesque processus matériel&nbsp;: la tempête comme catastrophe naturelle et l’exploitation de la forêt par l’industrie.</p>"},"id":"16a7a939-a1aa-4257-ae98-122754cdbf15","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://IwbVDybwDo8WbZc5"],"poster":["file://ZOnUQcxTlZOC7a0j"],"caption":"","autoplay":"true","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"82c74139-9890-46b9-a275-c4fde4832c08","isHidden":false,"type":"video"},{"content":{"location":"kirby","image":["file://FIFkEiX4VB5Jp0Is"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"492130ed-9bdb-40a6-a101-8c18313cb065","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://sQ9mdy7SPyLmxEMn"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"d4d0c95b-0728-42b3-ac68-9e385b36338b","isHidden":false,"type":"image"}]
-
-----
-
 Cover: - 'file://ZOnUQcxTlZOC7a0j'
 
 ----
 
-Descriptif: Vidéo, 16min 40 sec, HD, son, couleur<br>Prod. La forêt d’art contemporain 2021 / Coll. Frac Méca Nouvelle Aquitaine, 2022
+Bloc: [{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Des objets et un personnage entrent dans une suite de collisions brutales engendrées par des chutes d’arbres abattus à la tronçonneuse. Partant de la performance, de la comédie burlesque et du théâtre d’objet, le film montre les deux faces d’un gigantesque processus matériel&nbsp;: la tempête comme catastrophe naturelle et l’exploitation de la forêt par l’industrie.</p>"},"id":"16a7a939-a1aa-4257-ae98-122754cdbf15","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://IwbVDybwDo8WbZc5"],"poster":["file://ZOnUQcxTlZOC7a0j"],"caption":"","autoplay":"true","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"82c74139-9890-46b9-a275-c4fde4832c08","isHidden":false,"type":"video"},{"content":{"location":"kirby","image":["file://FIFkEiX4VB5Jp0Is"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"492130ed-9bdb-40a6-a101-8c18313cb065","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://sQ9mdy7SPyLmxEMn"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"d4d0c95b-0728-42b3-ac68-9e385b36338b","isHidden":false,"type":"image"}]
+
+----
+
+Files:
+
+- 'file://FIFkEiX4VB5Jp0Is'
+- 'file://ZOnUQcxTlZOC7a0j'
+- 'file://sQ9mdy7SPyLmxEMn'
+- 'file://IwbVDybwDo8WbZc5'
+- 'file://AdxPZ5of8GLWChpc'
 
 ----
 
 Date: 2021-01-01
+
+----
+
+Date-fin: 
+
+----
+
+Descriptif: Vidéo, 16min 40 sec, HD, son, couleur<br>Prod. La forêt d’art contemporain 2021 / Coll. Frac Méca Nouvelle Aquitaine, 2022
 
 ----
 

@@ -26,8 +26,8 @@
             <span class="date"><?= date('Y', strtotime($texte->date())); ?></span>
           <?php endif ?>
           
-          <?php if($texte->titre_page()->isNotEmpty()): ?>
-            <span class="title"><a class="" href="<?= $texte->url() ?>"> <?= $texte->titre_page()->text() ?> </a></span>
+          <?php if($texte->title()->isNotEmpty()): ?>
+            <span class="title"><a class="" href="<?= $texte->url() ?>"> <?= $texte->title()->text() ?> </a></span>
           <?php endif ?>
           <?php if($texte->contexte()->isNotEmpty()): ?>
             <span class="contexte"><?= $texte->contexte()->html() ?></span>
@@ -53,8 +53,8 @@
           <?php endif ?>
           </div>
 
-          <?php if($lettre->titre_page()->isNotEmpty()): ?>
-            <div class="title"><?= $lettre->titre_page()->text() ?></div>
+          <?php if($lettre->title()->isNotEmpty()): ?>
+            <div class="title"><?= $lettre->title()->text() ?></div>
           <?php endif ?>
 
           <?php if($lettre->contexte()->isNotEmpty()): ?>

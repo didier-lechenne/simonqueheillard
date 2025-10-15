@@ -1,0 +1,40 @@
+Title: L’impénitent
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"","text":"<p>Olivier Marboeuf revient sur l'histoire, les enjeux sociaux et politiques de L'Espace Khiasma, depuis sa création en 2004. Quelle réalité sociale recouvre le terme générique de \"centre d'art\" ? La posture de l'impénitent consiste à nommer le paradoxe d'un milieu social, comme vecteur d'une normalité, qui ne se reconnait pas lui-même. Elle exprime ici les possibilités comme les impasses de la production collective d'un savoir, que rejoue actuellement le retour de la notion \"d'éducation populaire\". La mise en oeuvre d'une situation de pensée collective est ensuite abordée sous l'angle de la relation maître-élève, puis de la nécessité de la forme particulière que requiert la parole publique.</p>"},"id":"3af521b8-b0b6-4a1f-917d-0dbbaf67fc4f","isHidden":false,"type":"text"},{"content":{"source":["file://LEhPlA8ZNQc4JBtX"],"title":"R22 Olivier Marboeuf - L’impénitent","subtitle":"<em>Benoit BAUDINAT/Album de Benoit BAUDINAT (2015)</em>","description":""},"id":"b44b64e3-4530-49a3-a614-e4cd937f27ee","isHidden":false,"type":"audio"}],"id":"fb722977-f27c-49b3-b64d-3f43e311a9ab","width":"8/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-md","fontfamily":"font-family-sans","text":"<p><strong>Entre­tien réalisé pour la Radio R22&nbsp;par Simon Quéheillard et Violaine Lochu au mois de juin 2015.</strong></p>"},"id":"4770c5ad-d584-4303-a92b-329922d52c10","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://n2RjPk9ce7id3Hd0"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"debf0d16-aad0-4938-8acd-bc1c9e1eabce","isHidden":false,"type":"image"}],"id":"90b688f2-2f69-4ea3-89fd-693cdb598cb8","width":"4/12"}],"id":"34155d53-1786-47f8-833e-2a77ed466b6d"}]
+
+----
+
+Files:
+
+- 'file://n2RjPk9ce7id3Hd0'
+- 'file://LEhPlA8ZNQc4JBtX'
+
+----
+
+Date: 2015-06-01
+
+----
+
+Category: entretien
+
+----
+
+Location: Radio 22
+
+----
+
+City: Paris
+
+----
+
+Titre-page: L’impénitent
+
+----
+
+Bloc: 
+
+----
+
+Uuid: PNQndbefkg7aPHF2

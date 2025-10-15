@@ -1,19 +1,16 @@
 title: Talks
 icon: live
 
+status:
+  draft: true
+  listed: true
+  unlisted: true
+
 options:
-  changeSlug: false
-  changeStatus: false
+  changeSlug: true
   delete: false
 
 columns:
-  - width: 2/3
-    sections:
-      listed:
-        extends: sections/talks-cardlets
-        label: publiés
-        status: listed
-
   - width: 1/3
     sections:
       drafts:
@@ -26,3 +23,12 @@ columns:
         label: non listés
         status: unlisted
         width: 1/3
+
+  - width: 2/3
+    sections:
+      listed:
+        extends: sections/talks-list
+        label: publiés
+        status: listed
+        sortable: true
+

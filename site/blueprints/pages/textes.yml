@@ -1,12 +1,16 @@
 title: Textes
 icon: paragraph
-num: '{{ page.date.toDate("YmdHi") }}'
 
+status:
+  draft: true
+  listed: true
+  unlisted: true
 
 options:
-  changeSlug: false
-  changeStatus: false
+  changeSlug: true
   delete: false
+
+
 
 
 columns:
@@ -20,7 +24,10 @@ columns:
         layout: list
         info: "{{ page.date.toDate('Y') }}  "
         sortable: true
-        sortBy: date desc
+        
+
+
+
 
   - width: 1/2
     sections:
@@ -32,4 +39,4 @@ columns:
         layout: list
         info: "{{ page.date.toDate('Y') }}  "
         sortable: true
-        sortBy: date desc
+        

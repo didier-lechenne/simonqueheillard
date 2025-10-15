@@ -29,9 +29,15 @@
               <div class="no-image">Pas d'image</div>
             <?php endif ?>
           
-          <figcaption class="img-caption">
-            <?= $oeuvre->title()->escape()  ?>
-          </figcaption>
+            <figcaption class="img-caption figcaption">
+              <?= $oeuvre->title()->escape() ?>
+              <?php if($oeuvre->date()->isNotEmpty()): ?>
+                ,&nbsp;<?= $oeuvre->date()->toDate('Y') ?>
+                <?php if($oeuvre->date_fin()->isNotEmpty()): ?>
+                  - <?= $oeuvre->date_fin()->toDate('Y') ?>
+                <?php endif ?>
+              <?php endif ?>
+            </figcaption>
         </figure>
       </a>
       </article>

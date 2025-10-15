@@ -1,0 +1,33 @@
+Title: Poème pour Emmanuel Van Der Meulen
+
+----
+
+Titre-page: Poème pour Emmanuel Van Der Meulen
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://KCJCCrKsREKeFgPx"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"60658512-454e-4c9d-acf5-5f7afc6d6b9f","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://EbJiPbE4lQG1cgSS"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"18b4df66-14d6-4f38-952c-a8d7da976832","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://DsYqXF21WR3aeVaX"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"40459063-a7dd-41e8-bbea-e4f04c453a75","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://sUU4ngcvBECu27bx"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"3dbb0e84-682e-44de-b82c-3e7ee503e6b2","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://4ZV1AC1UiyhdRDwq"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"72ac293b-a8a5-4a73-9bf0-e8e64b3fa71b","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://KB8We6LvezKaIY9y"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"c36dcc08-6436-4f49-8798-0b15a63c52b2","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://jsykuHOVbeKXvnMW"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"b343c6a6-a810-41a4-8710-bd1bd54f6a1d","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://sShNMuKeqdCl1n8t"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"c7652bdb-1f57-4b52-9431-9d4a325d224a","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://VDVDJvEs7sS1rOjz"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"d57e785f-63cc-4464-85cc-70f637d5acb8","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://ODvUnx3WKckL9y4d"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7aa6c69d-f3ab-4c9e-ab27-1cf36961449f","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://MeYghdYV2NjQMsWQ"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"afbbf1bc-3d52-49ea-a34d-2b9464610448","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://BS4hgTrlsg92XO4q"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ba13e635-3ef4-4269-8a2d-adf79df5d984","isHidden":false,"type":"image"}],"id":"809b6ffe-1e90-412f-8743-05cb9f8158c3","width":"8/12"},{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Écris dans le courant de l’année 2004-2005, ce poème intitulé «&nbsp;Théorie des Tableaux&nbsp;», est adressé au peintre Emmanuel Van der Meulen. Portant l’exergue «&nbsp;Aux Emmanuels&nbsp;», ce livre de neuf pages a été écrit comme une «&nbsp;reprise&nbsp;» du livre «&nbsp;Théorie des Tables&nbsp;» d’Emmanuel Hocquard. Il a été publié pour l’exposition «&nbsp;Emménagement&nbsp;», d’Emmanuel Van der Meulen à la Galerie Jean Fournier, en 2010, à Paris.</p>"},"id":"f3619887-53c0-42e5-99cd-b48138aaa414","isHidden":false,"type":"text"}],"id":"b21254d4-ff96-480a-a749-7b5f90bb5947","width":"4/12"}],"id":"06020c02-5676-4222-bce3-5be654f082e1"}]
+
+----
+
+Date: 2005-01-01
+
+----
+
+Contexte: Galerie Jean Fournier
+
+----
+
+Adresse: 
+
+----
+
+Category: lettres-conversations
+
+----
+
+Bloc: 
+
+----
+
+Uuid: vS0abROvAcrOwcD6

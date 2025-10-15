@@ -1,0 +1,29 @@
+Title: De commencements en commencements
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"font-family-serif","text":"<p><strong>Le film prolonge la veine burlesque que vous aviez en- tamée avec Maître-Vent en 2012, où le personnage ressemblait déjà à Buster Keaton. Souhaitez-vous être un cinéaste comique&nbsp;?</strong></p><p>Le comique est plus une conséquence, que le désir d’être ceci ou cela. Ceci dit, il y a quand même la question du gag. qui signifie «&nbsp;bâillon&nbsp;» en anglais, ainsi que le slaps- tick, qui signifie «&nbsp;coup de bâton&nbsp;», désignant les films muets de la Belle époque aux États-Unis.</p><p>On trouve en France aussi ce même coup de bâton dans le spectacle Guignol, lorsque celui-ci s’affronte au personnage du policier. Le gag est ici l’unité de base du film. Un gag est toujours muet. Il dit Le rire par onomatopée, qui est cet étranglement de la parole. D’où cette histoire de bâillon. Pour le FID, le film est programmé dans une séance accessible aux plus jeunes. J’ai une fois montré le film à une classe de collégiens. Assis dans le noir sur des fauteuils, ils ont hurlé pendant toute la séance. Aussi, ai-je dû rassurer les enseignants en leur disant que «&nbsp;ça fait parti du jeu&nbsp;». J’aime les séances où il est permis de crier, comme on regarde un match de foot ou certains blockbusters. Cela rappelle aussi les premiers temps du cinéma muet. Je me souviens une fois d’une séance au Rex, à Paris, où les spectateurs n’ont pas cessé de chambrer Spiderman durant toute la projection. Certains films autorisent cela, où l’émotion du film s’en trouve d’ailleurs renforcée. Le rire comme les voix dans la salle, évoluant par contagion, trouve une forme, un poids, une structure. John Cage eut aussi recours à ce genre de procédé lors d’une conférence volontairement ennuyeuse qu’il donna un jour en guise de concert à son assistance. Les protestations et les cris du public prirent la place du concert qu’ils étaient venus voir. L’assemblée devenant ainsi le chœur de l’orchestre en réponse à cette provocation.</p><p>Dans ce film, le rôle du personnage est de se prendre des coups. C’est son carburant, l’expérience du choc. De catastrophe en ca- tastrophe. C’est un acte de naissance, son baptême&nbsp;: naître d’un coup de bâton. De Commencements en commencements, chaque catastrophe est un point de départ. Rétrospectivement, ce film m’apparaît aujourd’hui comme une fable sur La violence. Je pense à ce premier couplet de Bruce Springsteen dans Born in USA&nbsp;: «&nbsp;Le premier coup que j’ai reçu, c’était quand j’ai touché le sol / Tu finis comme un chien trop battu / Tu passes la moitié de ta vie juste à te rétablir&nbsp;». Un bon scénario à la Buster Keaton. La violence nous précède. Ce film est l’histoire d’un rattrapage permanent.</p><p><strong>Comment choisissez-vous vos lieux de tournage (rues souvent absentes de passants, présences de tags dans chaque plans)&nbsp;?</strong></p><p>C’est la ville résiduelle, le film est tourné en proche banlieue de Paris. Il y a une part de désir pour une ville où poussent les mauvaises herbes. Une ville où tout ne soit pas entièrement soumis à La gestion, avec piscines sauvages et barbecues de rues. J’ai observé ça durant le tournage, dans le quartier des Fougères à Paris&nbsp;: les gamins avaient ouvert une vanne d’arrivée d’eau dans la rue. Ils se baignaient sous une immense trombe d’eau qui traversait La route. Dans le film, certains bâtiments sont un peu vétustes, d’autres à l’abandon, ou encore sont de jolies petites maisons d’un quartier résidentiel. Les Lilas est une ville dont l’histoire est marquée par l’auto-construction, sans réel plan d’urbanisme. Bagnolet, quand à elle, est une ville composite, avec de grosses infrastructures, marquée par l’histoire industrielle, avec d’immenses terrasses en surplomb que constituent les villes nouvelles. Il existe une variable pour chaque ville, toute une gradation, qui est, disons, un certain degré de terrain vague, selon la mise en valeur économique, ou non, du territoire. Il faudrait dire non pas les marges résistent, mais les marges conservent. Un terrain vague est à la fois ce qu’il y a de plus conservateur, on peut y lire l’histoire, et de plus révolutionnaire, en mouvement perpétuel.</p><p>Propos recueillis par Clément Dumas</p>"},"id":"0ff23650-7155-4dd7-a4dc-a0af1e548dcd","isHidden":false,"type":"text"}],"id":"3f6f4d6c-983f-4602-bee4-440c281c1223","width":"8/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"font-family-sans","text":"<p><strong>De commencements en commencements.</strong><br>Entretien<br>Festival FID Marseille<br>Juin 2016.</p>"},"id":"55840bab-288b-484a-b8f3-a20a0e13c4db","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://PVLMHTjoaJ4yeWxJ"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"894c6289-363e-4fc3-9675-c41371bd096e","isHidden":false,"type":"image"}],"id":"f8202fea-d8ac-4bdd-86d6-b6e6c65ab040","width":"4/12"}],"id":"8a1282bd-a3a3-462b-88ac-c3ddf300e462"}]
+
+----
+
+Date: 2016-07-01
+
+----
+
+Contexte: Entretien
+
+----
+
+Adresse: Journal du Festival FID Marseille
+
+----
+
+Titre-page: Entretien
+
+----
+
+Category: lettres-conversations
+
+----
+
+Uuid: WY1p3GIWvcbTEwsl

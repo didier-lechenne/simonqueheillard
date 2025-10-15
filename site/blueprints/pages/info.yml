@@ -38,6 +38,5 @@ fields:
       - gallery
       - video
       - audio
-      - footnotes
       - spacer
       - pdf

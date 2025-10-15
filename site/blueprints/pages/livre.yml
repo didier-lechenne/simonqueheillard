@@ -1,26 +1,16 @@
-# Each page blueprint must have a title, the title may be different from the file name
-title: Note
-
-# Sorting number scheme that is applied when page status is changed to `listed`
-# More about page sorting: https://getkirby.com/docs/reference/panel/blueprints/page#sorting
-num: date
-
-# Each page can have an icon that is shown in page listings when no preview image is available.
+title: Livres
 icon: 📖
 
 create:
   title:
     label: Titre
   fields:
-    - editeur
     - date
-
+    - editeur
   redirect: true
   status: draft
   short: true
 
-# Custom descriptions for each page status depending on use case
-# More about page status: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
 status:
   draft:
     label: Draft
@@ -32,65 +22,68 @@ status:
     label: Published
     text: Publié
 
-# Define the form layout with two columns
-# Columns are optional but help structure the form layout
-# More about columns: https://getkirby.com/docs/guide/blueprints/layout#defining-columns
 columns:
   - width: 2/3
-    fields:
-      layout:
-        label: Layout
-        type: layout
-        layouts:
-          - "12/12"                
-          - "6/12, 6/12"           
-          - "4/12, 4/12, 4/12"     
-          - "3/12, 3/12, 3/12, 3/12" 
-          - "9/12, 3/12"           
-          - "3/12, 6/12, 3/12"     
-          - "3/12, 9/12"           
-          - "4/12, 8/12"
-          - "8/12, 4/12"           
-
-        fieldsets:
-          - heading
-          - text
-          - markdown
-          - list
-          - image
-          - gallery
-          - video
-          - audio
-          - footnotes
-          - spacer
-          - pdf
-
-
-
+    sections:
+      cover_section:
+        type: fields
+        fields:
+          cover:
+            label: Image de couverture
+            extends: fields/cover
+      
+      layout_section:
+        type: fields
+        fields:
+          layout:
+            label: Layout
+            type: layout
+            layouts:
+              - "12/12"                
+              - "6/12, 6/12"           
+              - "4/12, 4/12, 4/12"     
+              - "3/12, 3/12, 3/12, 3/12" 
+              - "9/12, 3/12"           
+              - "3/12, 6/12, 3/12"     
+              - "3/12, 9/12"           
+              - "4/12, 8/12"
+              - "8/12, 4/12"           
+            fieldsets:
+              - heading
+              - text
+              - markdown
+              - list
+              - image
+              - gallery
+              - video
+              - audio
+              - spacer
+              - pdf
 
   - width: 1/3
-    # This second column holds a fields section with multiple fields
-    # More about fields sections: https://getkirby.com/docs/reference/panel/sections/fields
     sections:
+      files:
+        label: Médias
+        type: files
+
+      info:
+        label: Info
+        type: info
+        theme: negative
+        text: Les informations suivantes seront utilisées pour la page qui affiche tous les «Livres»
+              <br> → <strong>La date est obligatoire</strong>.
+              <br> → Les autres informations sont <strong>indispensables</strong>.
+
       meta:
         type: fields
         fields:
-          # If you needlivre the same field in multiple locations, you can define them once and reuse whereever needed.
-          # Here we use a files field defined in `/site/blueprints/field/cover.yml`
-          cover: fields/cover
+          date:
+            type: date
+            display: YYYY  
+            default: today
+            required: true
+            help: (cela peut être une date antérieure à la date du jour)
 
           editeur:
             label: Editeur
             type: text
-            width: 1/2
-          date:
-            type: date
-            display: YYYY  # Affiche uniquement l'année
-            width: 1/2
-
-            
-
-          # tags: false
-      # files:
-      #   type: files
-      #   template: blocks/image

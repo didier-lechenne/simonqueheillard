@@ -2,19 +2,32 @@ Title: Tampon Saint Augustin
 
 ----
 
-Bloc: [{"content":{"location":"kirby","image":["file://4KZHyFVuQd5qzJQj"],"src":"","alt":"","caption":"<strong>TAMPON SAINT AUGUSTIN<br></strong>Boîte en bois 17 cm / 20,5 cm / 8,5 cm<br>Tampon encreur, miroir<br>2023<u><a href=\"https://simonqueheillard.fr/IMG/jpg/4.2_20230623_161439_-_recadr_2.jpg\" title=\"TAMPON SAINT AUGUSTIN\"><br></a></u>","link":"","ratio":"","crop":"false"},"id":"9a716d51-1978-46fd-b221-2b3c2947df69","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://fTEKRVD2rMFm4R4f"],"src":"","alt":"","caption":"<strong>TAMPON SAINT AUGUSTIN<br></strong>Détail de l’oeuvre (notice)<u><a href=\"https://simonqueheillard.fr/IMG/jpg/4_3_20230623_161223-r90.jpg\" title=\"TAMPON SAINT AUGUSTIN\"><br></a></u>","link":"","ratio":"","crop":"false"},"id":"f6047164-8e5b-4107-8f16-fc1ce99d99f2","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://eBusJoVorAoSiJP7"],"src":"","alt":"","caption":"<strong>TAMPON SAINT AUGUSTIN<br></strong>Boîte en bois 17 cm / 20,5 cm / 8,5 cm<br>Tampon encreur, miroir<br>2023<u><a href=\"https://simonqueheillard.fr/IMG/jpg/4_4_20230623_161244_ok.jpg\" title=\"TAMPON SAINT AUGUSTIN\"><br></a></u>","link":"","ratio":"","crop":"false"},"id":"c5ef4500-af6b-42dd-892a-4da1d0bb0c99","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://NlZYGDSNcEA7kPoY"],"src":"","alt":"","caption":"<strong>TAMPON SAINT AUGUSTIN<br></strong>Détail de l’oeuvre (intérieur)<br>Boîte en bois 17 cm / 20,5 cm / 8,5 cm<br>Tampon encreur, miroir<br>2023","link":"","ratio":"","crop":"false"},"id":"575d8bb6-1691-4fa0-94f9-656af5f22e09","isHidden":false,"type":"image"}]
-
-----
-
 Cover: - 'file://4KZHyFVuQd5qzJQj'
 
 ----
 
-Descriptif: 
+Bloc: [{"content":{"location":"kirby","image":["file://4KZHyFVuQd5qzJQj"],"src":"","alt":"","caption":"<strong>TAMPON SAINT AUGUSTIN<br></strong>Boîte en bois 17 cm / 20,5 cm / 8,5 cm<br>Tampon encreur, miroir<br>2023<u><a href=\"https://simonqueheillard.fr/IMG/jpg/4.2_20230623_161439_-_recadr_2.jpg\" title=\"TAMPON SAINT AUGUSTIN\"><br></a></u>","link":"","ratio":"","crop":"false"},"id":"9a716d51-1978-46fd-b221-2b3c2947df69","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://fTEKRVD2rMFm4R4f"],"src":"","alt":"","caption":"<strong>TAMPON SAINT AUGUSTIN<br></strong>Détail de l’oeuvre (notice)<u><a href=\"https://simonqueheillard.fr/IMG/jpg/4_3_20230623_161223-r90.jpg\" title=\"TAMPON SAINT AUGUSTIN\"><br></a></u>","link":"","ratio":"","crop":"false"},"id":"f6047164-8e5b-4107-8f16-fc1ce99d99f2","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://eBusJoVorAoSiJP7"],"src":"","alt":"","caption":"<strong>TAMPON SAINT AUGUSTIN<br></strong>Boîte en bois 17 cm / 20,5 cm / 8,5 cm<br>Tampon encreur, miroir<br>2023<u><a href=\"https://simonqueheillard.fr/IMG/jpg/4_4_20230623_161244_ok.jpg\" title=\"TAMPON SAINT AUGUSTIN\"><br></a></u>","link":"","ratio":"","crop":"false"},"id":"c5ef4500-af6b-42dd-892a-4da1d0bb0c99","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://NlZYGDSNcEA7kPoY"],"src":"","alt":"","caption":"<strong>TAMPON SAINT AUGUSTIN<br></strong>Détail de l’oeuvre (intérieur)<br>Boîte en bois 17 cm / 20,5 cm / 8,5 cm<br>Tampon encreur, miroir<br>2023","link":"","ratio":"","crop":"false"},"id":"575d8bb6-1691-4fa0-94f9-656af5f22e09","isHidden":false,"type":"image"}]
+
+----
+
+Files:
+
+- 'file://4KZHyFVuQd5qzJQj'
+- 'file://fTEKRVD2rMFm4R4f'
+- 'file://eBusJoVorAoSiJP7'
+- 'file://NlZYGDSNcEA7kPoY'
 
 ----
 
 Date: 2023-01-01
+
+----
+
+Date-fin: 
+
+----
+
+Descriptif: 
 
 ----
 

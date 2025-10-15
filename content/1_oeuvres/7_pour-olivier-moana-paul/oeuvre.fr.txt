@@ -2,19 +2,30 @@ Title: Pour Olivier (Moana Paul)
 
 ----
 
-Bloc: [{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Deux types discutent autour d’un café, tandis que l’un d’eux présente sur la table un objet. Il y parle d’une image suspendue, de la possibilité de saisie de cette image, et du fait d’être possédé par cette tentative. Il s’agit d’une boîte en contre-plaqué contenant un négatif révélé mais non fixé. L’image se maintient quand la boîte est fermée ou s’obscurcit si elle est exposée. Cette vidéo est une discussion autour de l’œuvre <em>L’image comme trésor</em>.</p>"},"id":"0c22055f-fe75-4ed9-8ceb-50c89bd8771b","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://rlZ72p9tZ52F5HDQ"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"bc7a43a8-d39e-48d0-aae2-6437e50b735e","isHidden":false,"type":"image"}]
-
-----
-
 Cover: - 'file://rlZ72p9tZ52F5HDQ'
 
 ----
 
-Descriptif: Vidéo, 9min 20sec, dv, couleur<br>Production La valise, 2012 / Coll. Cnap, 2015
+Bloc: [{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Deux types discutent autour d’un café, tandis que l’un d’eux présente sur la table un objet. Il y parle d’une image suspendue, de la possibilité de saisie de cette image, et du fait d’être possédé par cette tentative. Il s’agit d’une boîte en contre-plaqué contenant un négatif révélé mais non fixé. L’image se maintient quand la boîte est fermée ou s’obscurcit si elle est exposée. Cette vidéo est une discussion autour de l’œuvre <em>L’image comme trésor</em>.</p>"},"id":"0c22055f-fe75-4ed9-8ceb-50c89bd8771b","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["file://rlZ72p9tZ52F5HDQ"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"bc7a43a8-d39e-48d0-aae2-6437e50b735e","isHidden":false,"type":"image"}]
+
+----
+
+Files:
+
+- 'file://rlZ72p9tZ52F5HDQ'
+- 'file://6fpjpdk3qgjkdujh'
 
 ----
 
 Date: 2012-01-01
+
+----
+
+Date-fin: 
+
+----
+
+Descriptif: Vidéo, 9min 20sec, dv, couleur<br>Production La valise, 2012 / Coll. Cnap, 2015
 
 ----
 

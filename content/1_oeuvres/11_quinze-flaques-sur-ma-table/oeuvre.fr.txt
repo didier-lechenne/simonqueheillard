@@ -2,19 +2,38 @@ Title: Quinze flaques sur ma table
 
 ----
 
-Bloc: [{"content":{"location":"kirby","image":["file://S1lajWLLkXggYdYK"],"src":"","alt":"","caption":"Quinze flaques sur ma table, photographie, 35 / 45 cm, 2005","link":"","ratio":"","crop":"false"},"id":"e163252e-da15-4add-a154-04a14ee0114b","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://DkhGBCzaImFo0lzm"],"src":"","alt":"","caption":"Quatorze flaques sur ma table, photographie, 35 / 45 cm, 2005","link":"","ratio":"","crop":"false"},"id":"6d7e99da-a66c-460c-a608-70c49821e453","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://5oJ19mB8gVa5eNuV"],"src":"","alt":"","caption":"Sept flaques sur ma table","link":"","ratio":"","crop":"false"},"id":"53577f4b-d574-4fb0-b03d-2e01c30fcf7b","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://k5r56jsoRiDgZ26C"],"src":"","alt":"","caption":"Deux flaques sur ma table","link":"","ratio":"","crop":"false"},"id":"1b6a5a10-5be9-42ad-a940-3ff2ac663b3c","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://NcGBYNsoW4U9d3Bd"],"src":"","alt":"","caption":"Trois flaques sur ma table","link":"","ratio":"","crop":"false"},"id":"9f5a5c6c-7e6c-4397-b3d0-5bd0d051ad3e","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://pT3jYZ8OuujARC19"],"src":"","alt":"","caption":"Sept flaques sur ma table","link":"","ratio":"","crop":"false"},"id":"192992b3-8160-4272-bcbd-34717d7d01e5","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://o8RfQdrbINzuDup6"],"src":"","alt":"","caption":"Asphalte, lumière, eau","link":"","ratio":"","crop":"false"},"id":"2c14e7aa-9da9-416b-8ef3-406e5644ca78","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://E9Htt6NbMD9TdnA5"],"src":"","alt":"","caption":"Geste d'un coup de pied","link":"","ratio":"","crop":"false"},"id":"adb4811d-eeea-461c-8260-dcbaaa37d6b5","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://PKgLqnd4EhSumwSz"],"src":"","alt":"","caption":"Asphalte, lumière, eau","link":"","ratio":"","crop":"false"},"id":"26fee79c-b223-4942-a5c4-9c581e8794cf","isHidden":false,"type":"image"},{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>\"cxcxcx\"</p>"},"id":"cc1497ba-7696-4dbf-9f39-ab66a62c0204","isHidden":false,"type":"text"}]
-
-----
-
 Cover: - 'file://5hK1XrChg51CKt1x'
 
 ----
 
-Descriptif: 
+Bloc: [{"content":{"location":"kirby","image":["file://S1lajWLLkXggYdYK"],"src":"","alt":"","caption":"Quinze flaques sur ma table, photographie, 35 / 45 cm, 2005","link":"","ratio":"","crop":"false"},"id":"e163252e-da15-4add-a154-04a14ee0114b","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://DkhGBCzaImFo0lzm"],"src":"","alt":"","caption":"Quatorze flaques sur ma table, photographie, 35 / 45 cm, 2005","link":"","ratio":"","crop":"false"},"id":"6d7e99da-a66c-460c-a608-70c49821e453","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://5oJ19mB8gVa5eNuV"],"src":"","alt":"","caption":"Sept flaques sur ma table","link":"","ratio":"","crop":"false"},"id":"53577f4b-d574-4fb0-b03d-2e01c30fcf7b","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://k5r56jsoRiDgZ26C"],"src":"","alt":"","caption":"Deux flaques sur ma table","link":"","ratio":"","crop":"false"},"id":"1b6a5a10-5be9-42ad-a940-3ff2ac663b3c","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://NcGBYNsoW4U9d3Bd"],"src":"","alt":"","caption":"Trois flaques sur ma table","link":"","ratio":"","crop":"false"},"id":"9f5a5c6c-7e6c-4397-b3d0-5bd0d051ad3e","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://pT3jYZ8OuujARC19"],"src":"","alt":"","caption":"Sept flaques sur ma table","link":"","ratio":"","crop":"false"},"id":"192992b3-8160-4272-bcbd-34717d7d01e5","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://o8RfQdrbINzuDup6"],"src":"","alt":"","caption":"Asphalte, lumière, eau","link":"","ratio":"","crop":"false"},"id":"2c14e7aa-9da9-416b-8ef3-406e5644ca78","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://E9Htt6NbMD9TdnA5"],"src":"","alt":"","caption":"Geste d'un coup de pied","link":"","ratio":"","crop":"false"},"id":"adb4811d-eeea-461c-8260-dcbaaa37d6b5","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://PKgLqnd4EhSumwSz"],"src":"","alt":"","caption":"Asphalte, lumière, eau","link":"","ratio":"","crop":"false"},"id":"26fee79c-b223-4942-a5c4-9c581e8794cf","isHidden":false,"type":"image"},{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>\"cxcxcx\"</p>"},"id":"cc1497ba-7696-4dbf-9f39-ab66a62c0204","isHidden":false,"type":"text"}]
+
+----
+
+Files:
+
+- 'file://5hK1XrChg51CKt1x'
+- 'file://S1lajWLLkXggYdYK'
+- 'file://DkhGBCzaImFo0lzm'
+- 'file://5oJ19mB8gVa5eNuV'
+- 'file://k5r56jsoRiDgZ26C'
+- 'file://NcGBYNsoW4U9d3Bd'
+- 'file://pT3jYZ8OuujARC19'
+- 'file://o8RfQdrbINzuDup6'
+- 'file://E9Htt6NbMD9TdnA5'
+- 'file://PKgLqnd4EhSumwSz'
 
 ----
 
 Date: 2005-01-01
+
+----
+
+Date-fin: 
+
+----
+
+Descriptif: 
 
 ----
 

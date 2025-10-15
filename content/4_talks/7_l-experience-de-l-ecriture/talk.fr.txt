@@ -1,0 +1,37 @@
+Title: L’expérience de l’écriture
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"web","url":"https://vimeo.com/53148435","video":[],"poster":[],"caption":"\"L'expérience de l'écriture\" par Gilles Tiberghien","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"179bd554-e231-4159-8647-fedf394c0af8","isHidden":false,"type":"video"}],"id":"748b738a-7f49-4a3c-9475-bcd95648afd5","width":"8/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-md","fontfamily":"","text":"<p><strong>Oct 2012<br>entretien<br>Espace Khiasma<br>Paris</strong></p>"},"id":"d6fa45a2-4645-42f2-b5f7-8e7c156d4966","isHidden":false,"type":"text"},{"content":{"textalign":" left","textsize":"text-md","fontfamily":"font-family-sans","text":"<p>À l'occasion de mon exposition personnelle \"ma plaque sensible\", à L'Espace Khiasma, en 2012, extrait d'un entretien avec le philosophe Gilles A. Tiberghien, autour de l'écriture et du Land art.</p>"},"id":"f8210dee-2ee1-465f-9917-e1969bf55303","isHidden":false,"type":"text"}],"id":"a7f8cdbf-41ea-4f66-82da-c907868c253b","width":"4/12"}],"id":"4d3667e6-83fb-4724-8464-cfbb06e4938c"}]
+
+----
+
+Files: - 'file://2kcoxpvjlht6pibu'
+
+----
+
+Date: 2012-10-01
+
+----
+
+Category: entretien
+
+----
+
+Location: Espace Khiasma
+
+----
+
+City: Paris
+
+----
+
+Titre-page: L’expérience de l’écriture
+
+----
+
+Bloc: 
+
+----
+
+Uuid: CmQDwP9DbSUcOdy7

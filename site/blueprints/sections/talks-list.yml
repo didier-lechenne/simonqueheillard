@@ -1,0 +1,8 @@
+type: pages
+label: Talks
+parent: site.find("talks")
+template: talk
+empty: Pas encore talks
+layout: list
+info: "  {{ page.category }}  {{ page.location }}  {{ page.city }}&#160;&#160;&#160;{{ page.date.toDate('Y') }}"
+sortable: true
