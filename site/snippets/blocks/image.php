@@ -8,7 +8,10 @@ if ($block->location()->value() === 'web') {
     $src = $block->src();
     $fullSrc = $src;
 } else if ($image = $block->image()->toFile()) {
-    $alt = $block->alt()->or($image->alt());
+    // Tout vient du fichier maintenant
+    $alt = $image->alt();
+    $caption = $image->caption();
+    $link = $image->link();
     $src = $image->resize(600)->url();
     $fullSrc = $image->resize(1200)->url();
     $srcset = $image->srcset();
@@ -16,7 +19,7 @@ if ($block->location()->value() === 'web') {
 ?>
 <?php if ($src): ?>
 <figure>
-  <a <?= $block->link()->isEmpty() ? 'data-lightbox href="' . $fullSrc . '"' : 'href="' . $block->link() . '"' ?>>
+  <a <?= $link->isEmpty() ? 'data-lightbox href="' . $fullSrc . '"' : 'href="' . $link . '"' ?>>
     <img
       src="<?= esc($src, 'attr') ?>"
       <?php if ($srcset): ?>
@@ -31,9 +34,9 @@ if ($block->location()->value() === 'web') {
     >
   </a>
 
-  <?php if ($block->caption()->isNotEmpty()): ?>
+  <?php if ($caption->isNotEmpty()): ?>
   <figcaption class="img-caption">
-    <?= $block->caption()->orthotypo()->kt() ?>
+    <?= $caption->orthotypo()->kt() ?>
   </figcaption>
   <?php endif ?>
 </figure>

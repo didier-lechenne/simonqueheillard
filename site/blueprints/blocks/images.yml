@@ -1,0 +1,29 @@
+name: Image
+icon: image
+preview: image
+
+fields:
+  location:
+    label: Emplacement
+    type: radio
+    columns: 2
+    default: kirby
+    options:
+      kirby: Ce site web
+      web: Source externe
+  
+  url:
+    label: URL
+    type: url
+    when:
+      location: web
+  
+  image:
+    label: Image
+    type: files
+    query: page.images
+    multiple: false
+    uploads: true
+    when:
+      location: kirby
+  
