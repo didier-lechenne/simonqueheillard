@@ -18,7 +18,7 @@
   More about templates: https://getkirby.com/docs/guide/templates/basics
 */
 ?>
-Default
+
 <main class="main">
 <?php snippet('header') ?>*
 <article>

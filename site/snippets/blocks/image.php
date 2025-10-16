@@ -4,15 +4,15 @@ $fullSrc = null;
 $srcset = null;
 
 if ($block->location()->value() === 'web') {
-    $alt = $block->alt();
-    $caption = $block->caption();
-    $link = $block->link();
+    $alt = $block->alt()->or($image->alt());
+    $caption = $block->caption()->or($image->caption());
+    $link = $block->link()->or($image->link());
     $src = $block->src();
     $fullSrc = $src;
 } else if ($image = $block->image()->toFile()) {
-    $alt = $image->alt();
-    $caption = $image->caption();
-    $link = $image->link();
+    $alt = $block->alt()->or($image->alt());
+    $caption = $block->caption()->or($image->caption());
+    $link = $block->link()->or($image->link());
     $src = $image->resize(600)->url();
     $fullSrc = $image->resize(1200)->url();
     $srcset = $image->srcset();
@@ -36,7 +36,7 @@ if ($block->location()->value() === 'web') {
   </a>
 
   <?php if ($caption->isNotEmpty()): ?>
-  <figcaption class="img-caption">
+  <figcaption class="figcaption">
     <?= $caption->orthotypo()->kt() ?>
   </figcaption>
   <?php endif ?>

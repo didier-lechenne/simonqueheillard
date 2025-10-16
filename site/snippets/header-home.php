@@ -49,7 +49,7 @@
   ?>
   <link rel="shortcut icon" type="image/x-icon" href="<?= url('favicon.ico') ?>">
 </head>
-<body lang="fr" >
+<body lang="fr" class="home">
 
 
 

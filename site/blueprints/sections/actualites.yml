@@ -1,10 +1,9 @@
 type: pages
 label: Actualites
 parent: site.find("actualites")
-sortBy: from desc
 template: actualite
 empty: Pas encore actualites
 layout: cards
 info: "{{ page.page_titre.inline() }} <br>{{ page.date.toDate('Y') }} <br> {{ page.category }} <br> {{ page.location }} <br> {{ page.city }}"
-
+sortable: true
         

@@ -1,75 +1,120 @@
 title: Oeuvre
 icon: 🖼
 
-columns:
-  - width: 3/4
-    fields:
-    
-      cover:
-        label: Image de couverture
-        type: files
-        layout: list
-        size: medium
-        template: cover
-        image:
-          cover: true
-          ratio: 4/3
-        required: false 
 
-      bloc:
-        label: Ajouter des blocs
-        type: blocks
-        help: Utilisez les colonnes pour organiser vos images et textes
-        fieldsets:
-          - columns
-          - heading
-          - markdown
-          - list
-          - image
-          - gallery
-          - video
-          - audio
-          - spacer
-          - pdf 
+tabs:
+  oeuvre:  
+    columns:
+      - width: 3/4
+        fields:
+        
+          cover:
+            label: Image de couverture
+            type: files
+            layout: list
+            size: medium
+            template: cover
+            image:
+              cover: true
+              ratio: 4/3
+            required: false 
+
+          bloc:
+            label: Mise en page
+            type: layout
+            help: Utilisez les colonnes pour organiser vos images et textes
+            layouts:
+              - "12/12"                
+              - "6/12, 6/12"           
+              - "4/12, 4/12, 4/12"     
+              - "3/12, 3/12, 3/12, 3/12"  
+              - "9/12, 3/12"           
+              - "3/12, 6/12, 3/12"  
+              - "2/12, 8/12, 2/12"   
+              - "3/12, 9/12"           
+              - "4/12, 8/12"
+              - "8/12, 4/12" 
+                        
+            fieldsets:
+              - heading
+              - text
+              - markdown
+              - list
+              - image
+              - gallery
+              - video
+              - audio
+              - spacer
+              - pdf
+
+            default:
+              - type: columns
+                content:
+                  layout:
+                    - columns:
+                        - width: 9/12
+                        - width: 3/12
+          # bloc:
+          #   label: Ajouter des blocs
+          #   type: blocks
+          #   help: Utilisez les colonnes pour organiser vos images et textes
+          #   fieldsets:
+          #     - columns
+          #     - heading
+          #     - markdown
+          #     - list
+          #     - image
+          #     - gallery
+          #     - video
+          #     - audio
+          #     - spacer
+          #     - pdf 
 
 
 
-        default:
-          - type: columns
-            content:
-              layout:
-                - columns:
-                    - width: 9/12
-                    - width: 3/12
-                      
 
-  - width: 1/4
-    fields:
+                          
+      - width: 1/4
+        fields:
 
-      files:
-        label: Médias
-        type: files
+          files:
+            label: Médias
+            type: files
 
-      # info:
-      #   label: Info
-      #   type: info
-      #   theme: negative
-      #   text: A documenté.
+          # info:
+          #   label: Info
+          #   type: info
+          #   theme: negative
+          #   text: A documenté.
 
-      date:
-        label: Année de création
-        type: date
-        default: today
-        display: YYYY
-        width: 1/2
-        help: (cela peut être une date antérieure à la date du jour)
+          date:
+            label: Année de création
+            type: date
+            default: today
+            display: YYYY
+            width: 1/2
+            help: (cela peut être une date antérieure à la date du jour)
 
-      # date_fin:
-      #   label: Date de fin
-      #   type: date
-      #   default: today
-      #   display: YYYY
-      #   width: 1/2
-      #   help: (cela peut être une date antérieure à la date du jour)
+          # date_fin:
+          #   label: Date de fin
+          #   type: date
+          #   default: today
+          #   display: YYYY
+          #   width: 1/2
+          #   help: (cela peut être une date antérieure à la date du jour)
 
-      # tags: true
+          # tags: true
+
+  options:
+    label: Options d'affichage
+    columns:
+      - width: 1/2
+        fields:
+          layout_width:
+            label: Largeur de colonne
+            type: radio
+            default: narrow
+            options:
+              narrow: Colonne étroite
+              wide: Colonne large
+            

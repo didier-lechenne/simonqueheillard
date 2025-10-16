@@ -5,7 +5,7 @@
 </div>
 
 
-<main class="container ">
+<main class="">
 
 <?php $slug = $page->title()->slug(); ?>
 

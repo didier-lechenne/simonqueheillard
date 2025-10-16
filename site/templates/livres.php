@@ -28,16 +28,16 @@
 </div>
 
 
-<main class="container">
+<main class="livres">
 
-<?php if (empty($tag) === false): ?>
+<!-- <?php if (empty($tag) === false): ?>
 <header class="h1">
   <h1>
     <small>Tag:</small> <?= esc($tag) ?>
     <a href="<?= $page->url() ?>" aria-label="Tous les livres">&times;</a>
   </h1>
 </header>
-<?php endif ?>
+<?php endif ?> -->
 
 <ul class="grid <?= $page->title()->slug() ?>">
   <?php foreach ($livres as $livre): ?>

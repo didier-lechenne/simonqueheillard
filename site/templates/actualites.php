@@ -5,7 +5,7 @@
 </div>
 
 
-<main class="container">
+<main class="">
 
 <section class="actualites">
 
@@ -21,7 +21,7 @@
 
       <div class="date">
       <time>
-          <?= $actualite->date()->toDate('Y M'); ?>
+          <?= $actualite->date()->toDate('Y'); ?>
       </time>
 
         </time></div>

@@ -1,120 +1,34 @@
 title: Configuration du site
 
-columns:
-  - width: 2/3
-    sections:
-      main_pages:
-        type: pages
-        headline: Toutes les rubriques
-        layout: cardlets
-        status: listed
-        query: site.children.listed()
-        info: "{{ page.children.count }} élements"
-        # info: "{{ page.children.count }} {{ page.title }}"
-        
-
-
-
 tabs:
-
-
-
-  oeuvres:
-    label: Oeuvres
-    icon: file-image
+  toutes_rubriques:
+    label: Toutes les rubriques
+    icon: folder
     columns:
-      - width: 1/1
+      - width: 2/3
         sections:
-          oeuvres:
-            extends: sections/oeuvres
+          main_pages:
+            type: pages
+            headline: Toutes les rubriques
+            layout: cardlets
+            status: listed
+            query: site.children.listed()
+            info: "{{ page.children.count }} élements"
 
-
-  livres:
-    label: Livres
-    icon: book
-    columns:
-      - width: 1/1
+      - width: 1/3
         sections:
-          livres: 
-            extends: sections/livres
-
-  textes:
-      label: Textes
-      icon: paragraph
-      columns:
-        - width: 1/2
-          sections:
-            textes-critiques:
-              extends: sections/textes-critiques
-
-        - width: 1/2
-          sections:
-            lettres-conversations:
-              extends: sections/lettres-conversations
-
-  talks:
-    label: Talks
-    icon: live
-    columns:
-      - width: 1/1
-        sections:
-          talks:
-            extends: sections/talks-cardlets
-
-      # - width: 1/2
-      #   sections:
-      #     drafts:
-      #       extends: sections/talks
-      #       label: Ajouter
-      #       status: draft
-
-      #     unlisted:
-      #       extends: sections/talks
-      #       label: Non listés
-      #       status: unlisted
+          drafts_all:
+            type: pages
+            headline: Brouillons (tout le site)
+            layout: list
+            status: draft
+            query: site.index.drafts()
+            sortBy: date desc
+            create: false
+          
 
 
-  actualites:
-    label: Actualites
-    icon: calendar
-    columns:
-      - width: 1/1
-        sections:
-          actualites:
-            extends: sections/actualites
-
-      # - width: 1/2
-      #   sections:
-      #     drafts:
-      #       extends: sections/actualites
-      #       label: Ajouter
-      #       status: draft
-
-      #     unlisted:
-      #       extends: sections/actualites
-      #       label: Non listés
-      #       status: unlisted
-
-  infos:
-    label: À propos
-    icon: sparkling
- 
-    columns:
-      main:
-        width: 2/3
-        sections:
-          infos:
-            extends: sections/a-propos
-            
-      sidebar:
-        width: 1/3
-        sections:
-          contact-section:
-            type: fields
-            fields:
-              contact:
-                label: Contact
-                type: writer
+      
 
   mentions_legales:
     label: Mentions légales
@@ -127,5 +41,3 @@ tabs:
             headline: Mentions légales
             template: mentions-legales
             layout: list
-  
-

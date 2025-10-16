@@ -5,7 +5,7 @@
 </div>
 
 
-<main class="container">
+<main class="">
 
 <section id="textes"> 
   <section class="grid">
@@ -19,15 +19,15 @@
     <div class="column " style="--columns:6">
      <h3><?= $titre_textes ?></h3>
       <?php foreach ($textes as $texte): ?>
-        <div class="textes">
+        
         <!-- <span class="title"><?= $texte->title()->text() ?></span> -->
-
+        <a class="textes" href="<?= $texte->url() ?>">
           <?php if($texte->date()->isNotEmpty()): ?>
             <span class="date"><?= date('Y', strtotime($texte->date())); ?></span>
           <?php endif ?>
           
           <?php if($texte->title()->isNotEmpty()): ?>
-            <span class="title"><a class="" href="<?= $texte->url() ?>"> <?= $texte->title()->text() ?> </a></span>
+            <span class="title"> <?= $texte->title()->text() ?></span>
           <?php endif ?>
           <?php if($texte->contexte()->isNotEmpty()): ?>
             <span class="contexte"><?= $texte->contexte()->html() ?></span>
@@ -35,8 +35,8 @@
           <?php if($texte->adresse()->isNotEmpty()): ?>
             <span class="adresse "><?= $texte->adresse()->text() ?></span>
           <?php endif ?>
-          </div>
-    
+         
+     </a>
       <?php endforeach ?>
     </div>
     <?php endif ?>

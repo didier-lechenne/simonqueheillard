@@ -38,10 +38,10 @@ fields:
 
   fontFamily:
       label: Serif ou Sans ?
-      help: (Par default serif)
+      help: (Par default Sans)
       type: select
       # empty: false
-      default: "font-family-serif"
+      default: "font-family-sans"
       width: 1/3
       options:
         font-family-sans: Sans

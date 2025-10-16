@@ -26,4 +26,6 @@ columns:
         extends: sections/actualites
         label: publiés
         status: listed
+        sortable: true
+        
 

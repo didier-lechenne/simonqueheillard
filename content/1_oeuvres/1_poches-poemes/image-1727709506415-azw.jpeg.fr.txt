@@ -1,0 +1,25 @@
+Caption: <p>Ma legende encore</p>
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Uuid: vbtuybj94gy11q1y
+
+----
+
+Template: image

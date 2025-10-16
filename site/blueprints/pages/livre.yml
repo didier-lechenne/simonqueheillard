@@ -30,7 +30,11 @@ columns:
         fields:
           cover:
             label: Image de couverture
-            extends: fields/cover
+            type: files
+            multiple: false
+            uploads:
+              template: cover
+            layout: list
       
       layout_section:
         type: fields

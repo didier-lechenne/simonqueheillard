@@ -5,9 +5,9 @@
 </div>
 
 
-<main class="container s">
+<main class="">
 
-<section class="<?= $page->tile() ?>"> 
+<section class="talks <?= $page->tile() ?>"> 
 
   <!-- <h3><?= $page->title()->html() ?></h3> -->
 

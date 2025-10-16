@@ -11,7 +11,12 @@ return [
       'js'   => 'assets/js/panel.js'
   ],
 
-
+    'maintenance' => true,
+    'moritzebeling.kirby-maintenance' => [
+        'ignore' => [],
+        'css' => 'assets/css/maintenance.css',
+        'text' => 'En travaux.',
+    ],
 
 
     'thumbs' => [

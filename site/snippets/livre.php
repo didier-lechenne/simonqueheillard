@@ -24,7 +24,7 @@
     <?php if (($excerpt ?? true) !== false): ?>
   <div class="livre-excerpt-text">
     <?php
-    $contentFix = ""; // Initialiser la variable avant de l'utiliser
+    $contentFix = ""; 
     $blocks = $livre->text()->toBlocks();
     
     foreach ($blocks as $block) {

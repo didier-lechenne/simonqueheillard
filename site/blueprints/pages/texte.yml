@@ -38,6 +38,7 @@ columns:
           fieldsets:
             - heading
             - markdown
+            - text
             - list
             - image
             - gallery
@@ -45,6 +46,28 @@ columns:
             - audio
             - spacer
             - pdf    
+
+          default:
+            - columns:
+                - width: 8/12
+                  blocks: 
+                    - type: markdown
+                      content:
+                        textsize: "text-lg"
+                        fontfamily: "font-family-serif"
+                        text: "Ici du texte libre au format markdown"
+                    - type: image
+                      content: []
+                      
+
+                - width: 4/12
+                  blocks:
+                    - type: text
+                      content:
+                        textsize: "text-md"
+                        fontfamily: "font-family-sans"
+                        text: "<p><strong>Ici du texte libre</strong><br><em>pour décrire le texte</em></p>"
+
 
         
   - width: 1/4

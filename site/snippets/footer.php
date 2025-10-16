@@ -1,9 +1,9 @@
 
 
   <footer class="footer grid container">
-      <div class="column" style="--columns: 12">
+      <!-- <div class="column" style="--columns: 12">
         <a href="<?= url($kirby->language()->code() . '/mentions-legales') ?>">Mentions Légales</a>
-      </div>
+      </div> -->
   </footer>
 
   <?= js([

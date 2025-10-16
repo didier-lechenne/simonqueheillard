@@ -5,14 +5,14 @@
 </div>
 
 
-<main class="container oeuvres">
+<main class="oeuvres">
 
 <div class="grid text ">
 
     <?php foreach (collection('oeuvres') as $oeuvre): ?>
     <article class="column oeuvres" style="--columns: 3">
       <a href="<?= $oeuvre->url() ?>">
-        <figure >
+        <div >
             <?php if($coverImage = $oeuvre->cover()->toFile()): ?>
               <img
                 class="cover"
@@ -29,16 +29,16 @@
               <div class="no-image">Pas d'image</div>
             <?php endif ?>
           
-            <figcaption class="img-caption figcaption">
-              <?= $oeuvre->title()->escape() ?>
+            <h2 >
+              <?= html_entity_decode($oeuvre->title()->html()) ?>
               <?php if($oeuvre->date()->isNotEmpty()): ?>
                 ,&nbsp;<?= $oeuvre->date()->toDate('Y') ?>
                 <?php if($oeuvre->date_fin()->isNotEmpty()): ?>
                   - <?= $oeuvre->date_fin()->toDate('Y') ?>
                 <?php endif ?>
               <?php endif ?>
-            </figcaption>
-        </figure>
+                </h2>
+        </div>
       </a>
       </article>
     <?php endforeach ?>
