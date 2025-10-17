@@ -1,0 +1,52 @@
+Title: Une embuscade en suspens
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","url":"","video":["file://I7DF8fupckKSNIC1"],"poster":["file://cLXstW39NhnuMxdm"],"caption":"","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"2255fe03-8c84-44cf-b5bd-edcc6e51c957","isHidden":false,"type":"video"}],"id":"25156b14-c2aa-4859-b7a5-f7b976dd786a","width":"8/12"},{"blocks":[{"content":{"textalign":" left","textsize":"text-lg","fontfamily":"font-family-sans","text":"<p>Avant-première de mon film <strong>Une embuscade en suspens</strong> (Prod. La forêt d’art contemporain, 2021 / Coll.Frac Nouvelle-Aquitaine MÉCA, 2022). Enregistré au Frac Nouvelle-Aquitaine MÉCA, à Bordeaux, au mois d’octobre 2021. En présence de Éric Audinet (écrivain et éditeur), Jean-François Dumont (commissaire), Claire Jacquet (Directrice du Frac) et Simon Quéheillard (artiste). Captation&nbsp;: Adrien Édeline.</p><p>dsd</p>"},"id":"cd108bc7-168a-486d-a5fd-73049a606077","isHidden":false,"type":"text"}],"id":"756cfcd4-af13-4dc9-9448-572c3380e556","width":"4/12"}],"id":"8b4141c0-f9f8-40b5-8c28-065670d11947"}]
+
+----
+
+Files:
+
+- 'file://I7DF8fupckKSNIC1'
+- 'file://cLXstW39NhnuMxdm'
+
+----
+
+Date: 2021-10-01
+
+----
+
+Category: avant-première
+
+----
+
+Location: Frac Nouvelle-Aquitaine MÉCA
+
+----
+
+City: Bordeaux
+
+----
+
+Cover: - 'file://cLXstW39NhnuMxdm'
+
+----
+
+Images: []
+
+----
+
+Titre-page: Une embuscade en suspens
+
+----
+
+Bloc: [{"content":{"layout":"[{\"attrs\":[],\"columns\":[{\"blocks\":[{\"content\":{\"location\":\"kirby\",\"url\":\"\",\"video\":[\"file://I7DF8fupckKSNIC1\"],\"poster\":[\"file://cLXstW39NhnuMxdm\"],\"caption\":\"\",\"autoplay\":\"false\",\"muted\":\"false\",\"loop\":\"false\",\"controls\":\"true\",\"preload\":\"auto\"},\"id\":\"8ee47b4a-e101-48d6-9c04-65ef5b11885b\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"8ec5bf60-9bdc-4023-b45c-a8af10fa2ffe\",\"width\":\"8/12\"},{\"blocks\":[{\"content\":{\"textalign\":\" left\",\"textsize\":\"text-lg\",\"fontfamily\":\"\",\"text\":\"<p>Avant-première de mon film <strong>Une embuscade en suspens</strong> (Prod. La forêt d’art contemporain, 2021 / Coll.Frac Nouvelle-Aquitaine MÉCA, 2022). Enregistré au Frac Nouvelle-Aquitaine MÉCA, à Bordeaux, au mois d’octobre 2021. En présence de Éric Audinet (écrivain et éditeur), Jean-François Dumont (commissaire), Claire Jacquet (Directrice du Frac) et Simon Quéheillard (artiste). Captation&nbsp;: Adrien Édeline.</p>\"},\"id\":\"2c5fc6af-6a3d-454e-9227-6cfdb6928bda\",\"isHidden\":false,\"type\":\"text\"}],\"id\":\"7db31526-6087-4981-b2ae-f6c251a537ae\",\"width\":\"4/12\"}],\"id\":\"8d9196ce-c52a-40b0-a509-28c6b3c8693b\"}]"},"id":"e8ed5bcd-3423-4e3c-ba17-d6c48850f591","isHidden":false,"type":"columns"}]
+
+----
+
+Uuid: xDbMPOGOQrc5KEHv
+
+----
+
+Lock: Qw3bJSY7

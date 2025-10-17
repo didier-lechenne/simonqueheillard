@@ -2,6 +2,10 @@ Title: Simon Quéheillard
 
 ----
 
+Home-cover: - 'file://mqqmksa2hnotajqb'
+
+----
+
 Contact: <h3>Contact</h3><p><a href="mailto:email@simonqueheillard.com">email@­si­monque­heillard.com</a></p><h3>Atelier</h3><p>79&nbsp;avenue du président Wilson<br>93&nbsp;100&nbsp;Montreuil, France.</p>
 
 ----
