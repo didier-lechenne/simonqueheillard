@@ -6,7 +6,11 @@ Cover: - 'file://ZOnUQcxTlZOC7a0j'
 
 ----
 
-Bloc: [{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Des objets et un personnage entrent dans une suite de collisions brutales engendrées par des chutes d’arbres abattus à la tronçonneuse. Partant de la performance, de la comédie burlesque et du théâtre d’objet, le film montre les deux faces d’un gigantesque processus matériel&nbsp;: la tempête comme catastrophe naturelle et l’exploitation de la forêt par l’industrie.</p>"},"id":"16a7a939-a1aa-4257-ae98-122754cdbf15","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://IwbVDybwDo8WbZc5"],"poster":["file://ZOnUQcxTlZOC7a0j"],"caption":"","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"82c74139-9890-46b9-a275-c4fde4832c08","isHidden":false,"type":"video"},{"content":{"location":"kirby","image":["file://FIFkEiX4VB5Jp0Is"],"caption":"","link":"","ratio":"","crop":"false","src":"","alt":""},"id":"492130ed-9bdb-40a6-a101-8c18313cb065","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://sQ9mdy7SPyLmxEMn"],"caption":"","link":"","ratio":"","crop":"false","src":"","alt":""},"id":"d4d0c95b-0728-42b3-ac68-9e385b36338b","isHidden":false,"type":"image"}]
+Bloc: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Des objets et un personnage entrent dans une suite de collisions brutales engendrées par des chutes d’arbres abattus à la tronçonneuse. Partant de la performance, de la comédie burlesque et du théâtre d’objet, le film montre les deux faces d’un gigantesque processus matériel&nbsp;: la tempête comme catastrophe naturelle et l’exploitation de la forêt par l’industrie.</p>"},"id":"16a7a939-a1aa-4257-ae98-122754cdbf15","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://IwbVDybwDo8WbZc5"],"poster":["file://ZOnUQcxTlZOC7a0j"],"caption":"","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"82c74139-9890-46b9-a275-c4fde4832c08","isHidden":false,"type":"video"}],"id":"0bf9e66a-c622-4c0d-acfb-01c4ed33108b","width":"1/1"}],"id":"2314c2b1-446c-4e27-af41-c3db85d43a57"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://FIFkEiX4VB5Jp0Is"],"caption":"","link":""},"id":"71d478b9-f684-4129-859c-ab5572ba8cb5","isHidden":false,"type":"image"}],"id":"bb9877be-e6ce-4bb8-afae-5321dbcfdb6d","width":"6/12"},{"blocks":[{"content":{"location":"kirby","image":["file://sQ9mdy7SPyLmxEMn"],"caption":"","link":"","ratio":"","crop":"false","src":"","alt":""},"id":"d4d0c95b-0728-42b3-ac68-9e385b36338b","isHidden":false,"type":"image"}],"id":"78c46338-f9a5-4489-aecd-b4a31bbf0bb2","width":"6/12"}],"id":"b6981563-74fa-451f-bc46-d6a702f49e66"}]
+
+----
+
+Date: 2021-01-01
 
 ----
 
@@ -20,11 +24,7 @@ Files:
 
 ----
 
-Date: 2021-01-01
-
-----
-
-Layout-width: 
+Layout-width: wide
 
 ----
 

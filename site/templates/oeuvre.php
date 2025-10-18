@@ -9,21 +9,15 @@ $layoutWidth = $page->layout_width()->or('narrow')->value();
   <?php snippet('nav') ?>
 </div>
 
-<main class="main">
+<main class="main oeuvre">
   <article>
-    <?php // snippet('intro') ?>
-    <div class="grid text <?= $layoutWidth ?>">
-      <div class="column" style="--columns: 12">
-        <h3><?php echo $page->title()->text() ?></h3>
-        <?php foreach ($page->bloc()->toBlocks() as $block): ?>
-          <div id="<?= $block->id() ?>" class="block block-type-<?= $block->type() ?>">
-            <?= $block ?>
-          </div>
-        <?php endforeach ?>   
-        
-      </div>
-    </div>
+    <?php snippet('layouts', ['field' => $page->bloc()]) ?>
   </article>
 </main>
 
+
+
+
+
 <?php snippet('footer') ?>
+

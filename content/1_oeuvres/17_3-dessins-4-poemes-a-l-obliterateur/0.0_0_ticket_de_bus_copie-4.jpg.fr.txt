@@ -1,1 +1,13 @@
+Alt: 
+
+----
+
+Caption: <strong>Ticket de bus imprimé</strong>
+
+----
+
+Link: 
+
+----
+
 Uuid: ewhlfERKWzaVmI8m

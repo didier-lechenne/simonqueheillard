@@ -1,8 +1,12 @@
-Caption: Craie, vent, débris
+Alt: 
 
 ----
 
-Alt: 
+Caption: <strong>Craie, vent, débris</strong>
+
+----
+
+Link: 
 
 ----
 
@@ -11,10 +15,6 @@ Photographer:
 ----
 
 License: 
-
-----
-
-Link: 
 
 ----
 

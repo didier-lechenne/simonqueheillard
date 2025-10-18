@@ -41,7 +41,7 @@
 
 <ul class="grid <?= $page->title()->slug() ?>">
   <?php foreach ($livres as $livre): ?>
-  <li class="column" style="--columns: 4">
+  <li class="column" style="--columns: 3">
       <?php snippet('livre', ['livre' => $livre]) ?>
   </li>
   <?php endforeach ?>

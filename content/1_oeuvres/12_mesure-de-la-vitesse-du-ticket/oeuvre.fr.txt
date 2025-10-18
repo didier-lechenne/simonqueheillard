@@ -6,7 +6,11 @@ Cover: - 'file://2ZkZxdwCdy7xc3qj'
 
 ----
 
-Bloc: [{"content":{"textalign":"","textsize":"text-lg","fontfamily":"font-family-serif","text":"Vidéo, 3min46 sec, mini dv, couleur\nLangue : Français, 2004-2019"},"id":"9857c0ac-c8f4-44ec-b832-c6b37a174fd2","isHidden":false,"type":"markdown"},{"content":{"textalign":"","textsize":"text-lg","fontfamily":"font-family-serif","text":"Dans le prolongement d’un ticket de métro, est accrochée une bande magnétique de cassette VHS. Insérer le ticket selon cette méthode permet de voir défiler la bande hors de la machine. Apparaît alors la vitesse d’entraînement du ticket qui lui se trouve dans la machine. En accrochant un ballon de baudruche à l’autre bout de la bande, on obtient ainsi selon cette méthode « La mesure de la vitesse du ticket »."},"id":"4509c909-18fe-48d7-a8bc-6508f51b7b00","isHidden":false,"type":"markdown"},{"content":{"location":"kirby","image":["file://2ZkZxdwCdy7xc3qj","file://azoggzstpjictcja","file://zpt5bf7pfqpilru0"],"caption":"","link":"","ratio":"","crop":"false"},"id":"8d0fefcf-b97d-4f21-8c21-4330e884220d","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://azoggzstpjictcja"],"caption":"","link":"","ratio":"","crop":"false"},"id":"c513cdba-81fd-4330-9337-8eec55d677ad","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://zpt5bf7pfqpilru0"],"caption":"","link":"","ratio":"","crop":"false"},"id":"8c78d6e4-cd1e-4ea5-9851-bd2ef6c0768d","isHidden":false,"type":"image"}]
+Bloc: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":"","textsize":"text-lg","fontfamily":"font-family-serif","text":"Vidéo, 3min46 sec, mini dv, couleur\nLangue : Français, 2004-2019"},"id":"9857c0ac-c8f4-44ec-b832-c6b37a174fd2","isHidden":false,"type":"markdown"},{"content":{"textalign":"","textsize":"text-lg","fontfamily":"font-family-serif","text":"Dans le prolongement d’un ticket de métro, est accrochée une bande magnétique de cassette VHS. Insérer le ticket selon cette méthode permet de voir défiler la bande hors de la machine. Apparaît alors la vitesse d’entraînement du ticket qui lui se trouve dans la machine. En accrochant un ballon de baudruche à l’autre bout de la bande, on obtient ainsi selon cette méthode « La mesure de la vitesse du ticket »."},"id":"4509c909-18fe-48d7-a8bc-6508f51b7b00","isHidden":false,"type":"markdown"},{"content":{"location":"kirby","image":["file://2ZkZxdwCdy7xc3qj","file://azoggzstpjictcja","file://zpt5bf7pfqpilru0"],"caption":"","link":"","ratio":"","crop":"false"},"id":"8d0fefcf-b97d-4f21-8c21-4330e884220d","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://azoggzstpjictcja"],"caption":"","link":"","ratio":"","crop":"false"},"id":"c513cdba-81fd-4330-9337-8eec55d677ad","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://zpt5bf7pfqpilru0"],"caption":"","link":"","ratio":"","crop":"false"},"id":"8c78d6e4-cd1e-4ea5-9851-bd2ef6c0768d","isHidden":false,"type":"image"}],"id":"49486c81-a1aa-4af4-b2b5-10999ab4f3bc","width":"1/1"}],"id":"4a8700b1-4502-480c-9d73-5887d93f0e9e"}]
+
+----
+
+Date: 2004-01-01
 
 ----
 
@@ -16,10 +20,6 @@ Files:
 - 'file://azoggzstpjictcja'
 - 'file://zpt5bf7pfqpilru0'
 - 'file://xe9fqiw85gdfc3l0'
-
-----
-
-Date: 2004-01-01
 
 ----
 

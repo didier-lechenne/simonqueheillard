@@ -6,7 +6,11 @@ Cover: - 'file://hU2BSL0a56CScF0w'
 
 ----
 
-Bloc: [{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Sur le bord d’une route départementale, des empilements d’objets hétéroclites sont soumis à l’action des courants d’air engendrés par le passage de camions semi-remorques roulant à vive allure. Les puissantes rafales, engendrées par des camions 38 tonnes, ne sont pas sans rappeler une forme de démesure, comme la tempête dans laquelle s’engage Buster Keaton dans cette scène du film Steamboat Bill Junior. «&nbsp;Maître-vent&nbsp;» est ici cette puissance orchestrée que la farce de la mise en scène nous permet d’affronter.</p>"},"id":"3c393dbf-4fb4-4ebb-a991-5a444438e3c6","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://elXoqKJD0RtfNDv2"],"poster":["file://hU2BSL0a56CScF0w"],"caption":"Vidéo, 22min 30s, HD, son, couleur<br>Production Khiasma, 2012","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"cfad611f-4b86-46ae-a347-addf76b53a02","isHidden":false,"type":"video"}]
+Bloc: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Sur le bord d’une route départementale, des empilements d’objets hétéroclites sont soumis à l’action des courants d’air engendrés par le passage de camions semi-remorques roulant à vive allure. Les puissantes rafales, engendrées par des camions 38 tonnes, ne sont pas sans rappeler une forme de démesure, comme la tempête dans laquelle s’engage Buster Keaton dans cette scène du film Steamboat Bill Junior. «&nbsp;Maître-vent&nbsp;» est ici cette puissance orchestrée que la farce de la mise en scène nous permet d’affronter.</p>"},"id":"3c393dbf-4fb4-4ebb-a991-5a444438e3c6","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://elXoqKJD0RtfNDv2"],"poster":["file://hU2BSL0a56CScF0w"],"caption":"","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"cfad611f-4b86-46ae-a347-addf76b53a02","isHidden":false,"type":"video"}],"id":"e3153bab-1945-46cc-8613-46256e0ed62e","width":"1/1"}],"id":"4bae8290-a614-4a28-90a6-9c5bc7982a8d"}]
+
+----
+
+Date: 2012-01-01
 
 ----
 
@@ -23,7 +27,7 @@ Files:
 
 ----
 
-Date: 2012-01-01
+Layout-width: wide
 
 ----
 

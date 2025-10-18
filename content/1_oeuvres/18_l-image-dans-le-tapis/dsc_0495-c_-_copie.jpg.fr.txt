@@ -1,8 +1,12 @@
-Caption: L’image dans le tapis
+Alt: 
 
 ----
 
-Alt: 
+Caption: <strong>L’image dans le tapis</strong>
+
+----
+
+Link: 
 
 ----
 
@@ -11,10 +15,6 @@ Photographer:
 ----
 
 License: 
-
-----
-
-Link: 
 
 ----
 

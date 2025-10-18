@@ -6,15 +6,15 @@ Cover: - 'file://pdaJmtfuzRRkmAZ7'
 
 ----
 
-Bloc: [{"content":{"textalign":"","textsize":"text-lg","fontfamily":"font-family-serif","text":"Cette boîte contient un négatif révélé mais non fixé. \nL’image se maintient quand la boîte est fermée ou s’obscurcit si elle est exposée.\nCette boîte a fait l’objet d’un envoi, comme un cadeau, adressée simultanément à trois personnes, à Bordeaux, Strasbourg et Budapest, au mois de novembre 2002."},"id":"adf8a038-9d6d-48af-9e48-f99342b2f0ba","isHidden":false,"type":"markdown"},{"content":{"location":"kirby","image":["file://VPGhS2tO6Z7V478q"],"caption":"<strong>L’image comme trésor<br></strong>Boîte en contre-plaqué, 20 x 14 x 3 cm<br>2002","link":"","ratio":"","crop":"false","src":"","alt":""},"id":"2e574f96-22cd-4a5b-ac3d-b43e90a0d051","isHidden":false,"type":"image"}]
-
-----
-
-Files: - 'file://pdaJmtfuzRRkmAZ7'
+Bloc: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":"","textsize":"text-lg","fontfamily":"font-family-serif","text":"Cette boîte contient un négatif révélé mais non fixé. \nL’image se maintient quand la boîte est fermée ou s’obscurcit si elle est exposée.\nCette boîte a fait l’objet d’un envoi, comme un cadeau, adressée simultanément à trois personnes, à Bordeaux, Strasbourg et Budapest, au mois de novembre 2002."},"id":"adf8a038-9d6d-48af-9e48-f99342b2f0ba","isHidden":false,"type":"markdown"},{"content":{"location":"kirby","image":["file://VPGhS2tO6Z7V478q"],"caption":"","link":"","ratio":"","crop":"false","src":"","alt":""},"id":"2e574f96-22cd-4a5b-ac3d-b43e90a0d051","isHidden":false,"type":"image"}],"id":"a67fef42-4604-4b78-82e6-4470fa780fb6","width":"1/1"}],"id":"c181adab-1c9e-4d96-8ea7-7d68b842fe41"}]
 
 ----
 
 Date: 2002-01-01
+
+----
+
+Files: - 'file://pdaJmtfuzRRkmAZ7'
 
 ----
 

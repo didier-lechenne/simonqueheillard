@@ -6,3 +6,9 @@ template: livre
 layout: cards
 empty: Pas encore de livres
 sortable: true
+
+image:
+  query: page.cover
+  back: transparent
+  cover: false
+  ratio: 11/17

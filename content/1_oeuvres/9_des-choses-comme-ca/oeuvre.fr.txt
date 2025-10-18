@@ -6,7 +6,11 @@ Cover: - 'file://RhPO75AkOUxT6vHQ'
 
 ----
 
-Bloc: [{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Dans le film «&nbsp;Des choses comme ça&nbsp;», des objets délaissés tels que des cartons d’emballages, cannettes ou bouteilles de plastiques vides, papiers journaux sont jetés aléatoirement au sol sur les trottoirs des rues de Paris. D’une séquence à l’autre, tous les objets apparaissent <em>comme ça</em>, un à un, dans l’espace du cadre de la caméra.</p><p>Le film est le lieu d’une apparition.</p><p>Les trajectoires des objets se dessinent, soumises à toutes formes d’actions involontaires, aux circonstances imprévisibles, que le film tente de provoquer et auxquelles il semble attribuer une détermination. Ces mouvements fugitifs, petits filaments, nous apparaissent comme ces motifs que l’on dessine au ciel pour y structurer notre perception, et tenter d’y relier arbitrairement ces étoiles que l’on nomme des constellations.</p>"},"id":"5ed8a47b-43d2-4b5a-baee-dc88d06042c6","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://9duKt64XzF3C2mrV"],"poster":["file://RhPO75AkOUxT6vHQ"],"caption":"Vidéo, 4min 10s, HDV, son, couleur<br>Production Khiasma, 2012","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"metadata"},"id":"36710b3b-3178-4cd9-9cf1-8700bd857f47","isHidden":false,"type":"video"}]
+Bloc: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Dans le film «&nbsp;Des choses comme ça&nbsp;», des objets délaissés tels que des cartons d’emballages, cannettes ou bouteilles de plastiques vides, papiers journaux sont jetés aléatoirement au sol sur les trottoirs des rues de Paris. D’une séquence à l’autre, tous les objets apparaissent <em>comme ça</em>, un à un, dans l’espace du cadre de la caméra.</p><p>Le film est le lieu d’une apparition.</p><p>Les trajectoires des objets se dessinent, soumises à toutes formes d’actions involontaires, aux circonstances imprévisibles, que le film tente de provoquer et auxquelles il semble attribuer une détermination. Ces mouvements fugitifs, petits filaments, nous apparaissent comme ces motifs que l’on dessine au ciel pour y structurer notre perception, et tenter d’y relier arbitrairement ces étoiles que l’on nomme des constellations.</p>"},"id":"5ed8a47b-43d2-4b5a-baee-dc88d06042c6","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://9duKt64XzF3C2mrV"],"poster":["file://RhPO75AkOUxT6vHQ"],"caption":"","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"metadata"},"id":"36710b3b-3178-4cd9-9cf1-8700bd857f47","isHidden":false,"type":"video"}],"id":"48df9811-3e44-459f-8863-43c7fc72fb53","width":"1/1"}],"id":"800fd6e1-275c-47f4-a660-d5393be46c0e"}]
+
+----
+
+Date: 2012-01-01
 
 ----
 
@@ -18,7 +22,7 @@ Files:
 
 ----
 
-Date: 2012-01-01
+Layout-width: 
 
 ----
 

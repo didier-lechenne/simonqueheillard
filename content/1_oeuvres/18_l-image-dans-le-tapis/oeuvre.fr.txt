@@ -6,7 +6,11 @@ Cover: - 'file://VhEWrUgD8APZBEq7'
 
 ----
 
-Bloc: [{"content":{"location":"kirby","image":["file://VhEWrUgD8APZBEq7"],"src":"","alt":"","caption":"<strong>L’image dans le tapis</strong>","link":"","ratio":"","crop":"false"},"id":"9124f57a-88d2-48fc-9b4a-5dd01cf4bdcf","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://tmZ6ZwdQ2VRwctEh"],"src":"","alt":"","caption":"<strong>Craie, vent, débris</strong>","link":"","ratio":"","crop":"false"},"id":"340b6723-d652-456d-87d1-ee1a4a692549","isHidden":false,"type":"image"}]
+Bloc: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://VhEWrUgD8APZBEq7"],"caption":"","link":"","src":"","alt":"","ratio":"","crop":"false"},"id":"9124f57a-88d2-48fc-9b4a-5dd01cf4bdcf","isHidden":false,"type":"image"},{"content":{"location":"kirby","image":["file://tmZ6ZwdQ2VRwctEh"],"caption":"","link":"","src":"","alt":"","ratio":"","crop":"false"},"id":"340b6723-d652-456d-87d1-ee1a4a692549","isHidden":false,"type":"image"}],"id":"fbc3a199-cde6-431d-803e-be0e934521d0","width":"1/1"}],"id":"5b462c38-83b9-4b7d-924d-8b8ffd214353"}]
+
+----
+
+Date: 
 
 ----
 
@@ -17,7 +21,7 @@ Files:
 
 ----
 
-Date: 
+Layout-width: 
 
 ----
 

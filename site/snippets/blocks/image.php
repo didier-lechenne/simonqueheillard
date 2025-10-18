@@ -13,7 +13,7 @@ if ($block->location()->value() === 'web') {
     $alt = $block->alt()->or($image->alt());
     $caption = $block->caption()->or($image->caption());
     $link = $block->link()->or($image->link());
-    $src = $image->resize(600)->url();
+    $src = $image->url();
     $fullSrc = $image->resize(1200)->url();
     $srcset = $image->srcset();
 }
@@ -21,6 +21,7 @@ if ($block->location()->value() === 'web') {
 <?php if ($src): ?>
 <figure>
   <a <?= $link->isEmpty() ? 'data-lightbox href="' . $fullSrc . '"' : 'href="' . $link . '"' ?>>
+    <picture class="container_img">
     <img
       src="<?= esc($src, 'attr') ?>"
       <?php if ($srcset): ?>
@@ -28,11 +29,9 @@ if ($block->location()->value() === 'web') {
       sizes="(min-width: 1200px) 1200px, (min-width: 900px) 900px, (min-width: 600px) 600px, 100vw"
       <?php endif ?>
       alt="<?= esc($alt, 'attr') ?>"
-      style="
-        aspect-ratio: <?= $block->ratio()->or('auto') ?>;
-        object-fit: <?= $block->crop()->isFalse() ? 'contain' : 'cover' ?>
-      "
+
     >
+      </picture>
   </a>
 
   <?php if ($caption->isNotEmpty()): ?>

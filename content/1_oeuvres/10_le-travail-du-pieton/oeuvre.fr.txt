@@ -6,7 +6,11 @@ Cover: - 'file://eUWGR9fDD1nyxDNs'
 
 ----
 
-Bloc: [{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Des objets surgissent de la bouche d’un escalator, perturbant le roulis mécanique. Une machine emblématique de l’ordre urbain devient un instrument où formes et sons s’assemblent en de multiples combinaisons éphémères. On retrouve ici le rêve de Keaton&nbsp;: \" prendre la plus grosse machine du monde pour la faire fonctionner avec de tous petits éléments \".</p>"},"id":"3522ab91-0829-4a0a-99b8-225d9fd4accc","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://DkW1Em73FLbVm49C"],"poster":["file://eUWGR9fDD1nyxDNs"],"caption":"","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"a75dee5d-3b0e-442d-affb-d9a889e84001","isHidden":false,"type":"video"}]
+Bloc: [{"attrs":[],"columns":[{"blocks":[{"content":{"textalign":"","textsize":"","fontfamily":"","text":"<p>Des objets surgissent de la bouche d’un escalator, perturbant le roulis mécanique. Une machine emblématique de l’ordre urbain devient un instrument où formes et sons s’assemblent en de multiples combinaisons éphémères. On retrouve ici le rêve de Keaton&nbsp;: \" prendre la plus grosse machine du monde pour la faire fonctionner avec de tous petits éléments \".</p>"},"id":"3522ab91-0829-4a0a-99b8-225d9fd4accc","isHidden":false,"type":"text"},{"content":{"location":"kirby","url":"","video":["file://DkW1Em73FLbVm49C"],"poster":["file://eUWGR9fDD1nyxDNs"],"caption":"","autoplay":"false","muted":"false","loop":"false","controls":"true","preload":"auto"},"id":"a75dee5d-3b0e-442d-affb-d9a889e84001","isHidden":false,"type":"video"}],"id":"bc1768f2-d31c-42c5-8679-062d3bd3fca0","width":"1/1"}],"id":"f567aa85-2481-4f0a-abc8-fa2e00a9a7eb"}]
+
+----
+
+Date: 2009-01-01
 
 ----
 
@@ -17,10 +21,6 @@ Files:
 - 'file://fnludvqbes8qwgwz'
 - 'file://sj0nne7f1powj5rr'
 - 'file://qp8pekxcq5v2qp2y'
-
-----
-
-Date: 2009-01-01
 
 ----
 
